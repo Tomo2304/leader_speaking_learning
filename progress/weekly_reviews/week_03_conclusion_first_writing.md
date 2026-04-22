@@ -1,0 +1,31 @@
+# Week 3 — Conclusion-First Writing (BLUF)
+*Phase 1: Foundation | 2026-05-04 to 2026-05-08*
+
+## Key Topic
+Bottom Line Up Front (BLUF) — restructuring written communication so the conclusion or recommendation appears in the first sentence, not buried at the end.
+
+## Key Concepts Covered
+- Why Japanese communication structure (context → detail → conclusion) works against you with Western executives
+- BLUF rule: if your reader stops after sentence 1, have they got what they need?
+- Applying BLUF to emails, Slack messages, and status updates
+
+---
+
+## Examples from Practice
+
+| # | Your original | Improved version | What changed |
+|---|---|---|---|
+| — | — | — | — |
+
+---
+
+## This Week's Vocabulary Additions
+
+| Original | Improved | Context |
+|---|---|---|
+| — | — | — |
+
+---
+
+## Your Notes
+

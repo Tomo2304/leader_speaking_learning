@@ -1,0 +1,31 @@
+# Week 15 — Closing Discussions and Landing Decisions
+*Phase 4: Meeting Facilitation | 2026-07-27 to 2026-07-31*
+
+## Key Topic
+Taking ownership of closing discussions decisively — using language that lands a clear decision or next step rather than letting meetings trail off inconclusively.
+
+## Key Concepts Covered
+- Closing phrases: "Let's land on a decision here. My recommendation is..."
+- The difference between a meeting that ends and a meeting that closes
+- Taking ownership of the close even when you are not the most senior person in the room
+
+---
+
+## Examples from Practice
+
+| # | Your original | Improved version | What changed |
+|---|---|---|---|
+| — | — | — | — |
+
+---
+
+## This Week's Vocabulary Additions
+
+| Original | Improved | Context |
+|---|---|---|
+| — | — | — |
+
+---
+
+## Your Notes
+

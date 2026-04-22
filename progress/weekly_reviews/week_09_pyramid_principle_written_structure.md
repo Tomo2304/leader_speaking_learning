@@ -1,0 +1,32 @@
+# Week 9 — The Pyramid Principle: Written Communication Structure
+*Phase 3: Executive Communication | 2026-06-15 to 2026-06-19*
+
+## Key Topic
+The Pyramid Principle — structuring all written communication so the most important point sits at the top, supported by key points, each supported by detail. Executives read the top; detail is there if needed.
+
+## Key Concepts Covered
+- Pyramid structure: Recommendation → Key Point 1, 2, 3 → Supporting detail
+- Why this is the single most important fix for executive-level communication
+- Applying the pyramid to emails, reports, and presentations
+- The "so what" test: every point must have a clear implication
+
+---
+
+## Examples from Practice
+
+| # | Your original | Improved version | What changed |
+|---|---|---|---|
+| — | — | — | — |
+
+---
+
+## This Week's Vocabulary Additions
+
+| Original | Improved | Context |
+|---|---|---|
+| — | — | — |
+
+---
+
+## Your Notes
+
