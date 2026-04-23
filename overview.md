@@ -1,6 +1,6 @@
 # Leadership Effective Communication — Project Overview
 
-*Owner: Tomo | Started: 2026-04-19 | Target: 2 quarters (by ~2026-10-19)*
+*Owner: Tomo | Started: 2026-04-24 | Target: 2 quarters (by ~2026-10-23)*
 
 ---
 

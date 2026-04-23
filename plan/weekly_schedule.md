@@ -1,6 +1,6 @@
 # Weekly Practice Schedule
 
-*6-month plan | Start date: 2026-04-20 | Target: 2026-10-19*
+*6-month plan | Start date: 2026-04-24 | Target: 2026-10-23*
 *Default: 15 min/day | ⏱ 30-min days: max 2/week, Tue–Thu only | Mon & Fri always 15 min*
 
 ---

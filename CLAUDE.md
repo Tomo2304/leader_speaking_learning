@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Project Is
 
-A structured 6-month self-directed leadership communication learning plan for Tomo — a Japanese-born Technical Data Analytics Lead based in Melbourne. Start date: 2026-04-20. Target: 2026-10-19. 130 learning days total (26 weeks × 5 weekdays).
+A structured 6-month self-directed leadership communication learning plan for Tomo — a Japanese-born Technical Data Analytics Lead based in Melbourne. Start date: 2026-04-24. Target: 2026-10-23. 130 learning days total (26 weeks × 5 weekdays).
 
 **Core goal:** Communicate like a confident, capable native English-speaking leader — especially in the AI Steering Committee, executive meetings, and unprepared moments.
 
@@ -46,7 +46,7 @@ Whenever Tomo shares a sentence, email, spoken response, or any wording for revi
 
 Format: `| Date | Original phrasing | Improved phrasing | Why it's stronger |`
 
-To find the correct week file: count weeks from 2026-04-20 (Week 1 = 2026-04-20 to 2026-04-25).
+To find the correct week file: count weeks from 2026-04-24 (Week 1 = 2026-04-24 to 2026-05-01, noting the week starts on a Friday).
 
 ### PREP mock sessions
 When Tomo says "run a PREP mock session" — ask 5 unexpected senior-leader-style questions one at a time. After each response, give structured feedback: what the Point was, whether the structure held, and one specific improvement.
@@ -81,8 +81,10 @@ These constraints are already built into `plan/weekly_schedule.md`. Do not sugge
 ## Automated Agents (Scheduled)
 
 Three remote agents are configured to run on schedule (times in Melbourne AEST/AEDT):
-- **7:40am Mon–Fri** — sends today's specific learning task and progress counter (X/130 days)
-- **9:30pm Mon–Fri** — evening check-in; asks for Done/Partial/Skipped; previews tomorrow's task
-- **9:00pm Saturday** — weekly resource prep notification; includes next week's theme, resources to prepare, and this week's recap
+- **7:40am Mon–Fri** — sends today's specific learning task and progress counter (X/130 days) | `trig_016heVSyjYyUy4vWorLYG7Vw`
+- **9:30pm Mon–Fri** — evening check-in; asks for Done/Partial/Skipped; previews tomorrow's task | `trig_01KNP9E8XUE4nkfpLQqzSEpY`
+- **9:00pm Saturday** — weekly resource prep notification; includes next week's theme, resources to prepare, and this week's recap | `trig_01PoXTFEwRcm4Ri7Liywuafm`
 
 These agents read `plan/weekly_schedule.md` and `progress/progress_log.md` from the GitHub repo. Progress updates written by these agents must also be reflected in the local copy.
+
+Manage routines: https://claude.ai/code/routines
