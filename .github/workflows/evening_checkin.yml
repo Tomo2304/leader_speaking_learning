@@ -1,0 +1,17 @@
+name: Evening Check-in
+
+on:
+  schedule:
+    - cron: '30 11 * * 1-5'  # 9:30pm AEST (UTC+10) Mon-Fri
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Send evening check-in to Telegram
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 .github/scripts/evening_checkin.py
