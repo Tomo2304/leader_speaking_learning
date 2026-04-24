@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Project Is
 
-A structured 6-month self-directed leadership communication learning plan for Tomo — a Japanese-born Technical Data Analytics Lead based in Melbourne. Start date: 2026-04-24. Target: 2026-10-23. 130 learning days total (26 weeks × 5 weekdays).
+A structured 6-month self-directed leadership communication learning plan for Tomo — a Japanese-born Technical Data Analytics Lead based in Melbourne. Start date: 2026-04-27. Target: 2026-10-16. 125 learning days total (25 weeks × 5 weekdays).
 
 **Core goal:** Communicate like a confident, capable native English-speaking leader — especially in the AI Steering Committee, executive meetings, and unprepared moments.
 
@@ -49,7 +49,7 @@ Whenever Tomo shares a sentence, email, spoken response, or any wording for revi
 
 Format: `| Date | Original phrasing | Improved phrasing | Why it's stronger |`
 
-To find the correct week file: count weeks from 2026-04-24. Week 1 = Fri 2026-04-24 only (1 day). Week 2 = 2026-04-27 to 2026-05-01. Week N starts on the Monday of that week.
+To find the correct week file: count weeks from 2026-04-27. Week 1 = 2026-04-27 to 2026-05-01. Week N starts on the Monday of that week.
 
 ### PREP mock sessions
 When Tomo says "run a PREP mock session" — ask 5 unexpected senior-leader-style questions one at a time. After each response, give structured feedback: what the Point was, whether the structure held, and one specific improvement.

@@ -5,7 +5,7 @@ REPO_BASE = "https://github.com/Tomo2304/leader_speaking_learning/blob/main"
 TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
-start = date(2026, 4, 24)
+start = date(2026, 4, 25)  # first Saturday
 today = date.today()
 
 with open("plan/weekly_schedule.md", encoding="utf-8") as f:
@@ -16,7 +16,8 @@ with open("progress/progress_log.md", encoding="utf-8") as f:
 week_headers = [(int(n), date.fromisoformat(d))
                 for n, d in re.findall(r'### Week (\d+) \((\d{4}-\d{2}-\d{2})\)', schedule)]
 
-current_num, current_start = 1, start
+# current_num = 0 if no week has started yet (e.g. first Saturday before Week 1)
+current_num, current_start = 0, start
 for num, wstart in week_headers:
     if wstart <= today:
         current_num, current_start = num, wstart
@@ -26,34 +27,39 @@ def get_week_content(num):
     m = re.search(pat, schedule, re.DOTALL)
     return m.group(1) if m else ""
 
-this_content = get_week_content(current_num)
-next_content = get_week_content(current_num + 1)
+this_content = get_week_content(current_num) if current_num > 0 else ""
+next_num = current_num + 1
+next_content = get_week_content(next_num)
 
 def get_focus(content):
     m = re.search(r'\*\*Focus: ([^\*\n]+)\*\*', content)
     return m.group(1).strip() if m else "Leadership communication"
 
-this_focus = get_focus(this_content)
+this_focus = get_focus(this_content) if this_content else "Plan starts Monday!"
 next_focus = get_focus(next_content)
 
-# This week's progress stats from Layer 1
-next_monday = current_start + timedelta(days=7)
+# This week's progress stats from Layer 1 (0 if no week started yet)
 done_w = partial_w = skipped_w = 0
-for row_date_str, status in re.findall(r'\|\s*(\d{4}-\d{2}-\d{2})\s*\|[^\|]+\|\s*([^\|]+)\|', progress):
-    try:
-        row_date = date.fromisoformat(row_date_str)
-    except ValueError:
-        continue
-    if current_start <= row_date < next_monday:
-        if '✅' in status or 'Done' in status:
-            done_w += 1
-        elif '〜' in status or 'Partial' in status:
-            partial_w += 1
-        elif '✗' in status or 'Skipped' in status:
-            skipped_w += 1
+if current_num > 0:
+    next_monday = current_start + timedelta(days=7)
+    for row_date_str, status in re.findall(r'\|\s*(\d{4}-\d{2}-\d{2})\s*\|[^\|]+\|\s*([^\|]+)\|', progress):
+        try:
+            row_date = date.fromisoformat(row_date_str)
+        except ValueError:
+            continue
+        if current_start <= row_date < next_monday:
+            if '✅' in status or 'Done' in status:
+                done_w += 1
+            elif '〜' in status or 'Partial' in status:
+                partial_w += 1
+            elif '✗' in status or 'Skipped' in status:
+                skipped_w += 1
 
-# Next week dates
-next_start = current_start + timedelta(days=7)
+# Next week dates: if no week started, next week = Week 1 (find its start from headers)
+if current_num == 0:
+    next_start = week_headers[0][1] if week_headers else (start + timedelta(days=2))
+else:
+    next_start = current_start + timedelta(days=7)
 next_end = next_start + timedelta(days=4)
 next_dates = f"{next_start.strftime('%a %d %b')} – {next_end.strftime('%a %d %b')}"
 
@@ -79,11 +85,16 @@ for ext in list(dict.fromkeys(externals))[:3]:
     resources.append(f'• {ext.strip()}')
 resources_str = "\n".join(resources) if resources else "(see schedule for details)"
 
+recap_section = (
+    f"Plan hasn't started yet — Week 1 kicks off Monday! Get ready. 🚀"
+    if current_num == 0
+    else f"Focus: {this_focus}\nDays: {done_w} done / {partial_w} partial / {skipped_w} skipped"
+)
+
 msg = f"""<b>Weekly prep, Tomo! 📚</b>
 
 <b>This week recap:</b>
-Focus: {this_focus}
-Days: {done_w} done / {partial_w} partial / {skipped_w} skipped
+{recap_section}
 
 <b>Next week — {next_dates}:</b>
 Focus: {next_focus}

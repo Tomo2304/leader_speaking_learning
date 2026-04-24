@@ -1,27 +1,16 @@
 # Weekly Practice Schedule
 
-*6-month plan | Start date: 2026-04-24 | Target: 2026-10-23*
+*6-month plan | Start date: 2026-04-27 | Target: 2026-10-23*
 *Default: 15 min/day | ⏱ 30-min days: max 2/week, Tue–Thu only | Mon & Fri always 15 min*
 
 ---
 
-## Phase 1 — Foundation (Weeks 1–4)
+## Phase 1 — Foundation (Weeks 1–3)
 **Theme: Break the two most damaging habits — apologising and burying your conclusion**
 
 ---
 
-### Week 1 (2026-04-20)
-**Focus: Eliminate apologetic and hedging openers**
-*Note: Plan starts Friday 24 April — only 1 day this week*
-
-| Day | Activity | How | Time |
-|---|---|---|---|
-| Fri | Write 3 sentences with confident openers | Think of 3 things you did, decided, or said today at work. Write one sentence about each — starting with: "I completed...", "My view on X is...", "I decided...", "The outcome was...". Cross out any sentence starting with "sorry", "I think", or "maybe" and rewrite it. | 15 min |
-| Weekend | Shadow Simon Sinek — any TED Talk | Watch any Simon Sinek TED Talk. Don't focus on content. Focus on how he opens every sentence — notice he never hedges. After watching, say one of his opening lines aloud yourself. | 20–30 min |
-
----
-
-### Week 2 (2026-04-27)
+### Week 1 (2026-04-27)
 **Focus: Replace apologetic openers in speech — actively**
 **⏱ 30-min day: Wednesday**
 
@@ -38,7 +27,7 @@
 
 ---
 
-### Week 3 (2026-05-04)
+### Week 2 (2026-05-04)
 **Focus: Conclusion-first writing — every email**
 
 | Day | Activity | How | Time |
@@ -54,7 +43,7 @@
 
 ---
 
-### Week 4 (2026-05-11)
+### Week 3 (2026-05-11)
 **Focus: Conclusion-first in speech — verbal BLUF**
 
 | Day | Activity | How | Time |
@@ -70,14 +59,14 @@
 
 ---
 
-## Phase 2 — Spontaneous Speaking (Weeks 5–8)
+## Phase 2 — Spontaneous Speaking (Weeks 4–7)
 **Theme: Build a framework for responding clearly when put on the spot**
 
 **PREP = Point → Reason → Example → Point**
 
 ---
 
-### Week 5 (2026-05-18)
+### Week 4 (2026-05-18)
 **Focus: Learn and internalise the PREP framework**
 
 | Day | Activity | How | Time |
@@ -91,7 +80,7 @@
 
 ---
 
-### Week 6 (2026-05-25)
+### Week 5 (2026-05-25)
 **Focus: PREP spoken — out loud practice**
 **⏱ 30-min day: Tuesday**
 
@@ -108,7 +97,7 @@
 
 ---
 
-### Week 7 (2026-06-01)
+### Week 6 (2026-06-01)
 **Focus: PREP under pressure — unprepared responses**
 **⏱ 30-min day: Wednesday**
 
@@ -125,7 +114,7 @@
 
 ---
 
-### Week 8 (2026-06-08)
+### Week 7 (2026-06-08)
 **Focus: PREP refinement — tighter, more natural**
 **⏱ 30-min day: Thursday**
 
@@ -142,12 +131,12 @@
 
 ---
 
-## Phase 3 — Executive Communication (Weeks 9–12)
+## Phase 3 — Executive Communication (Weeks 8–11)
 **Theme: Brevity and precision for senior leaders and executives**
 
 ---
 
-### Week 9 (2026-06-15)
+### Week 8 (2026-06-15)
 **Focus: The Pyramid Principle — structuring written communication**
 **⏱ 30-min day: Tuesday**
 
@@ -164,7 +153,7 @@
 
 ---
 
-### Week 10 (2026-06-22)
+### Week 9 (2026-06-22)
 **Focus: Executive email template — brevity in practice**
 **⏱ 30-min day: Wednesday**
 
@@ -181,7 +170,7 @@
 
 ---
 
-### Week 11 (2026-06-29)
+### Week 10 (2026-06-29)
 **Focus: Executive presentations — leading with recommendation**
 **⏱ 30-min day: Thursday**
 
@@ -198,7 +187,7 @@
 
 ---
 
-### Week 12 (2026-07-06)
+### Week 11 (2026-07-06)
 **Focus: Calibrating depth — knowing when to stop**
 
 | Day | Activity | How | Time |
@@ -214,12 +203,12 @@
 
 ---
 
-## Phase 4 — Meeting Facilitation (Weeks 13–16)
+## Phase 4 — Meeting Facilitation (Weeks 12–15)
 **Theme: Running meetings with control, direction, and confidence**
 
 ---
 
-### Week 13 (2026-07-13)
+### Week 12 (2026-07-13)
 **Focus: Learn and memorise anchor phrases**
 
 | Day | Activity | How | Time |
@@ -235,7 +224,7 @@
 
 ---
 
-### Week 14 (2026-07-20)
+### Week 13 (2026-07-20)
 **Focus: Redirecting and summarising in meetings**
 **⏱ 30-min day: Wednesday**
 
@@ -252,7 +241,7 @@
 
 ---
 
-### Week 15 (2026-07-27)
+### Week 14 (2026-07-27)
 **Focus: Closing discussions and landing decisions**
 
 | Day | Activity | How | Time |
@@ -268,7 +257,7 @@
 
 ---
 
-### Week 16 (2026-08-03)
+### Week 15 (2026-08-03)
 **Focus: Full meeting facilitation — bring it all together**
 **⏱ 30-min day: Wednesday**
 
@@ -285,12 +274,12 @@
 
 ---
 
-## Phase 5 — Delivery and Presence (Weeks 17–20)
+## Phase 5 — Delivery and Presence (Weeks 16–19)
 **Theme: How you say it — pace, pause, and intonation**
 
 ---
 
-### Week 17 (2026-08-10)
+### Week 16 (2026-08-10)
 **Focus: Slowing down and using deliberate pauses**
 
 | Day | Activity | How | Time |
@@ -306,7 +295,7 @@
 
 ---
 
-### Week 18 (2026-08-17)
+### Week 17 (2026-08-17)
 **Focus: Eliminating filler words**
 **⏱ 30-min day: Thursday**
 
@@ -323,7 +312,7 @@
 
 ---
 
-### Week 19 (2026-08-24)
+### Week 18 (2026-08-24)
 **Focus: Downward intonation — statements sound like statements**
 
 | Day | Activity | How | Time |
@@ -339,7 +328,7 @@
 
 ---
 
-### Week 20 (2026-08-31)
+### Week 19 (2026-08-31)
 **Focus: Full delivery integration — pace, pause, intonation together**
 **⏱ 30-min day: Wednesday**
 
@@ -356,12 +345,12 @@
 
 ---
 
-## Phase 6 — Integration and Real-World Application (Weeks 21–26)
+## Phase 6 — Integration and Real-World Application (Weeks 20–25)
 **Theme: Apply everything in high-stakes real situations — AI Steering Committee, executive meetings, large audiences**
 
 ---
 
-### Week 21 (2026-09-07)
+### Week 20 (2026-09-07)
 **Focus: AI Steering Committee and executive meeting preparation**
 
 | Day | Activity | How | Time |
@@ -375,7 +364,7 @@
 
 ---
 
-### Week 22 (2026-09-14)
+### Week 21 (2026-09-14)
 **Focus: Active contribution in executive settings**
 
 | Day | Activity | How | Time |
@@ -389,7 +378,7 @@
 
 ---
 
-### Week 23 (2026-09-21)
+### Week 22 (2026-09-21)
 **Focus: Large audience and cross-functional communication**
 
 | Day | Activity | How | Time |
@@ -403,7 +392,7 @@
 
 ---
 
-### Week 24 (2026-09-28)
+### Week 23 (2026-09-28)
 **Focus: Consolidating all habits in real settings**
 
 | Day | Activity | How | Time |
@@ -417,7 +406,7 @@
 
 ---
 
-### Week 25 (2026-10-05)
+### Week 24 (2026-10-05)
 **Focus: Full review — 6-month assessment**
 
 | Day | Activity | How | Time |
@@ -431,7 +420,7 @@
 
 ---
 
-### Week 26 (2026-10-12)
+### Week 25 (2026-10-12)
 **Focus: Consolidate and celebrate**
 
 | Day | Activity | How | Time |
