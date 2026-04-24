@@ -33,6 +33,9 @@ progress/
   progress_log.md                  — 3-layer monitoring: daily log, weekly check-in, monthly milestones
   weekly_reviews/
     week_NN_[topic].md             — One file per week (23 files); stores examples and vocabulary additions
+.github/
+  workflows/                       — GitHub Actions workflows for Telegram notifications
+  scripts/                         — Python scripts used by the workflows
 ```
 
 ---
@@ -46,7 +49,7 @@ Whenever Tomo shares a sentence, email, spoken response, or any wording for revi
 
 Format: `| Date | Original phrasing | Improved phrasing | Why it's stronger |`
 
-To find the correct week file: count weeks from 2026-04-24 (Week 1 = 2026-04-24 to 2026-05-01, noting the week starts on a Friday).
+To find the correct week file: count weeks from 2026-04-24. Week 1 = Fri 2026-04-24 only (1 day). Week 2 = 2026-04-27 to 2026-05-01. Week N starts on the Monday of that week.
 
 ### PREP mock sessions
 When Tomo says "run a PREP mock session" — ask 5 unexpected senior-leader-style questions one at a time. After each response, give structured feedback: what the Point was, whether the structure held, and one specific improvement.
@@ -55,7 +58,12 @@ When Tomo says "run a PREP mock session" — ask 5 unexpected senior-leader-styl
 When Tomo says "run a meeting facilitation roleplay" — play a realistic participant (rambling, going off-topic, or challenging). Let Tomo practise redirecting and closing. Debrief after.
 
 ### Weekly check-ins
-When Tomo reports a week's activity, assess against the milestone targets in `overview.md`, suggest one focus for the coming week, and update the Layer 2 section of `progress/progress_log.md`.
+Every Friday is a built-in weekly check-in day (scheduled in `plan/weekly_schedule.md`). When Tomo reports a week's activity, assess against the milestone targets in `overview.md`, suggest one focus for the coming week, and update the Layer 2 section of `progress/progress_log.md`.
+
+### Daily progress logging
+When Tomo says "Day X done", "Day X partial", or "Day X skipped" — update `progress/progress_log.md`:
+1. Add a row to the Layer 1 Daily Micro-Log table: `| YYYY-MM-DD | X | ✅/〜/✗ | Task name | Note |`
+2. Update the Progress Tracker: increment Days completed (Done or Partial) or Days skipped, recalculate % complete (days_completed / 130 × 100).
 
 ---
 
@@ -80,11 +88,27 @@ These constraints are already built into `plan/weekly_schedule.md`. Do not sugge
 
 ## Automated Agents (Scheduled)
 
-Three remote agents are configured to run on schedule (times in Melbourne AEST/AEDT):
-- **7:40am Mon–Fri** — sends today's specific learning task and progress counter (X/130 days) | `trig_016heVSyjYyUy4vWorLYG7Vw`
-- **9:30pm Mon–Fri** — evening check-in; asks for Done/Partial/Skipped; previews tomorrow's task | `trig_01KNP9E8XUE4nkfpLQqzSEpY`
-- **9:00pm Saturday** — weekly resource prep notification; includes next week's theme, resources to prepare, and this week's recap | `trig_01PoXTFEwRcm4Ri7Liywuafm`
+Notifications are delivered via **GitHub Actions → Telegram** (CCR routines exist but cannot reach Telegram due to sandbox restrictions).
 
-These agents read `plan/weekly_schedule.md` and `progress/progress_log.md` from the GitHub repo. Progress updates written by these agents must also be reflected in the local copy.
+| Workflow | Schedule (AEST) | Script |
+|---|---|---|
+| Morning Task Briefing | 7:40am Mon–Fri | `.github/scripts/morning_briefing.py` |
+| Evening Check-in | 9:30pm Mon–Fri | `.github/scripts/evening_checkin.py` |
+| Saturday Weekly Prep | 9:00pm Saturday | `.github/scripts/saturday_prep.py` |
 
-Manage routines: https://claude.ai/code/routines
+**How notifications work:**
+- Morning: reads `plan/weekly_schedule.md` + `progress/progress_log.md`, sends today's task + day counter + motivational sentence + GitHub resource links to Telegram
+- Evening: sends today's task name + prompt to log status ("open Claude and say Day X done") + tomorrow's preview
+- Saturday: sends this week's recap + next week's theme and tasks
+
+**Telegram credentials** (stored as GitHub Actions secrets `TELEGRAM_TOKEN` and `TELEGRAM_CHAT_ID`):
+- Bot: @Tomo_leader_speaking_coach_bot
+- Repo: github.com/Tomo2304/leader_speaking_learning (public)
+
+**CCR routine IDs** (kept for reference, not used for notifications):
+- Morning: `trig_016heVSyjYyUy4vWorLYG7Vw`
+- Evening: `trig_01KNP9E8XUE4nkfpLQqzSEpY`
+- Saturday: `trig_01PoXTFEwRcm4Ri7Liywuafm`
+- Manage: https://claude.ai/code/routines
+
+**Schedule structure note:** Every Friday task in `weekly_schedule.md` is a weekly check-in with Claude. Milestone checks (Month 1–5) are on Thursdays of the relevant weeks.
