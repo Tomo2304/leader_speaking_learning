@@ -70,7 +70,7 @@ day_rows = re.findall(
 )
 tasks_lines = []
 for day, activity, how, time_col in day_rows:
-    day_clean = day.strip('*').strip()
+    day_clean = day.strip().strip('*').strip()
     act_clean = activity.strip()
     dur = "30 min" if ('⏱' in day or '30' in time_col) else "15 min"
     tasks_lines.append(f"• {day_clean} ({dur}): {act_clean}")
@@ -80,9 +80,10 @@ tasks_str = "\n".join(tasks_lines) if tasks_lines else f"Daily practice — {nex
 resources = []
 if 'vocabulary' in next_content.lower():
     resources.append(f'<a href="{REPO_BASE}/vocabulary/vocabulary_bank.md">📖 Vocabulary bank</a>')
-externals = re.findall(r'\b(?:ELSA Speak|Orai|Think Fast[^,\n]*|Speak Up[^,\n]*|YouTube[^,\n]*)\b', next_content)
-for ext in list(dict.fromkeys(externals))[:3]:
-    resources.append(f'• {ext.strip()}')
+KNOWN_RESOURCES = ['ELSA Speak', 'Orai', 'Think Fast, Talk Smart', 'Speak Up', 'YouTube']
+seen_externals = [name for name in KNOWN_RESOURCES if name.lower() in next_content.lower()]
+for ext in seen_externals[:3]:
+    resources.append(f'• {ext}')
 resources_str = "\n".join(resources) if resources else "(see schedule for details)"
 
 recap_section = (
