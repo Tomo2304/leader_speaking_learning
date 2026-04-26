@@ -7,17 +7,21 @@
 
 ## Books
 
-| Priority | Title | Author | Why it's relevant |
-|---|---|---|---|
-| **Start here** | *The Pyramid Principle* | Barbara Minto | Core fix for bottom-up communication habit — conclusion first, structured thinking |
-| **Start here** | *Exactly What to Say* | Phil M. Jones | Short, practical phrases you can apply immediately |
-| **Start here** | *Think Faster, Talk Smarter* | Matt Abrahams (2023) | Written specifically for strong thinkers who struggle with spontaneous, unscripted communication — your exact challenge. Covers: handling unexpected questions, structuring thoughts under pressure, responding confidently when unprepared |
-| **Optional** | *Supercommunicators* | Charles Duhigg (2024) | Why some conversations build trust while others fail. Deprioritised in the 26-week schedule due to limited reading time — read only if you finish *Pyramid Principle* and *Think Faster, Talk Smarter* with time to spare. |
-| **High** | *Crucial Conversations* | Patterson, Grenny et al. | Framework for high-stakes conversations — directly relevant for executive situations |
-| **High** | *Radical Candor* | Kim Scott | How to give feedback that is direct, clear, and kind — useful for mentoring junior analysts |
-| **Medium** | *Executive Presence* | Sylvia Ann Hewlett | Broader leadership presence — read after communication foundations are in place |
-| **Medium** | *Emotional Intelligence 2.0* | Bradberry & Greaves | Self-awareness and relationship management — supports executive communication |
-| **Later** | *Dare to Lead* | Brené Brown | Courage and vulnerability in leadership — relevant for speaking up with executives |
+*Priority reflects **value for Tomo's specific gap** (Japanese-born, exec communication, AI Steering Committee). The 26-week schedule reads the top 4 — books marked "deferred" are high-value but won't fit in the available reading time and should be picked up post-plan.*
+
+> **Self-test for any reading decision:** *"Will this change how I speak in my next meeting?"* If yes, read now. If no, defer. Apply the same filter when adding or removing books from this list.
+
+| Priority | Title | Author | In schedule? | Why it's relevant |
+|---|---|---|---|---|
+| **Start here** | *The Pyramid Principle* | Barbara Minto | ✅ W8 (read fully) | Core fix for the bottom-up communication habit — conclusion first, structured thinking. Non-negotiable for your gap. |
+| **Start here** | *Think Faster, Talk Smarter* | Matt Abrahams (2023) | ✅ W4 (read fully) | Written specifically for strong thinkers who freeze under pressure — your exact challenge. Covers handling unexpected questions, structuring thoughts under pressure, responding confidently when unprepared. |
+| **Start here** | *Crucial Conversations* | Patterson, Grenny et al. | ✅ W12–14 (selective) | Holding position when challenged. Directly addresses the Japanese cultural pattern of going silent under pushback — critical for AI Steering Committee. |
+| **High** | *Exactly What to Say* | Phil M. Jones | ✅ W2 (extract phrases) | Phrase weapon system, not a "read" book. Extract 2–3 phrases per week directly into your Vocabulary Bank and use them in real meetings. |
+| **High** | *Executive Presence* | Sylvia Ann Hewlett | ⏸ Deferred (post-plan) | Explicitly addresses non-native speakers in executive rooms. High value for your AI Steering goal — read after the 26 weeks. |
+| **High** | *Supercommunicators* | Charles Duhigg (2024) | ⏸ Deferred (post-plan) | Adapting communication to who's in the room — strong value for cross-functional and exec contexts. Removed from schedule due to limited reading time, not low value. |
+| **Medium** | *Radical Candor* | Kim Scott | ❌ Not scheduled | Direct, clear, kind feedback to your team. Useful for mentoring junior analysts — secondary goal vs your stated exec-comm focus. |
+| **Later** | *Dare to Lead* | Brené Brown | ❌ Not scheduled | Courage and vulnerability in leadership — tangential to your core gap. |
+| **Later** | *Emotional Intelligence 2.0* | Bradberry & Greaves | ❌ Not scheduled | Generic self-awareness content — not specific enough to your communication gap. |
 
 ---
 
