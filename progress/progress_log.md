@@ -51,7 +51,16 @@ How it went:
 
 Current focus for next week (set by Claude):
 - 
+
+Self-score this week (1–5):
+- [Metric 1]:
+- [Metric 2]:
+One real example that justifies your scores:
+-
 ```
+
+*Scoring metrics rotate by phase — Claude will note which two apply at the start of each new phase:*
+*Weeks 1–3: Conclusion-first + Brevity | Weeks 4–7: Clarity under pressure + Confidence | Weeks 8–11: Brevity + Clarity | Weeks 12–15: Meeting control + Confidence | Weeks 16–19: Pace/pause + Confidence | Weeks 20–27: Self-rate all 5 briefly*
 
 ### Weekly Check-in History
 

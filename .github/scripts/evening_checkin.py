@@ -62,6 +62,8 @@ How did it go? Open Claude and tell me:
 <b>Tomorrow — Day {tomorrow_day_num}:</b> {tomorrow_task} ({tomorrow_dur} min)
 Set aside your {tomorrow_dur} minutes before the day starts.
 
+⚡ This week: capture one real meeting moment — what you said vs. what PREP/BLUF would have produced. Log it in your week's review file.
+
 <a href="{REPO_BASE}/progress/progress_log.md">📊 Progress log</a> | <a href="{REPO_BASE}/plan/weekly_schedule.md">📅 Schedule</a>"""
 
 data = json.dumps({"chat_id": CHAT_ID, "text": msg, "parse_mode": "HTML"}).encode()

@@ -1,13 +1,14 @@
-# Week 2 — Replace Apologetic Openers in Live Speech
-*Phase 1: Foundation | 2026-04-27 to 2026-05-01*
+# Week 12 — Challenge Handling: Defend, Hold, Respond
+*Phase 3→4 Bridge | 2026-07-13 to 2026-07-17*
 
 ## Key Topic
-Taking the habit awareness from Week 1 into live speech — actively replacing apologetic openers in real conversations and meetings in real time.
+Holding your position confidently when challenged, interrupted, or pushed back on — staying composed and authoritative rather than deferring or over-explaining.
 
 ## Key Concepts Covered
-- Recording yourself to hear your actual speech patterns (not what you think you say)
-- The replacement drill: "I want to add something here" instead of "Sorry to interrupt"
-- Catching the opener before it comes out — the 1-second pause that changes everything
+- The difference between defending a position and being defensive
+- Five challenge-response phrases that hold ground without escalating
+- Why composure under challenge is the single most visible leadership signal
+- Handling disagreement, interruption, and authority challenge as three distinct situations
 
 ---
 
@@ -46,4 +47,3 @@ Taking the habit awareness from Week 1 into live speech — actively replacing a
 ---
 
 ## Your Notes
-

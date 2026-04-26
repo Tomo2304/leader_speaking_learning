@@ -27,5 +27,23 @@ Taking ownership of closing discussions decisively — using language that lands
 
 ---
 
+## Real Meeting Capture
+*Once this week: pick one real meeting moment and write it down*
+
+| Date | What I said | What PREP/BLUF would have produced | Improved version |
+|---|---|---|---|
+| — | — | — | — |
+
+---
+
+## Vocabulary Targets This Week
+*Pick 3 phrases from vocabulary_bank.md on Monday. Mark each by Friday.*
+
+| Phrase | Used in a real meeting? | Notes |
+|---|---|---|
+| — | Y / N | — |
+
+---
+
 ## Your Notes
 
