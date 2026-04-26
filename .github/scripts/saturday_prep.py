@@ -1,4 +1,4 @@
-import os, re, json, urllib.request
+import os, re, json, urllib.request, urllib.parse
 from datetime import date, timedelta
 
 REPO_BASE = "https://github.com/Tomo2304/leader_speaking_learning/blob/main"
@@ -63,27 +63,89 @@ else:
 next_end = next_start + timedelta(days=4)
 next_dates = f"{next_start.strftime('%a %d %b')} – {next_end.strftime('%a %d %b')}"
 
-# Next week day-specific tasks
+# Next week day-specific tasks (Mon-Fri + Weekend shadowing)
 day_rows = re.findall(
-    r'\|\s*(\*{0,2}(?:Mon|Tue|Wed|Thu|Fri)[^\|]*\*{0,2})\s*\|([^\|]+)\|([^\|]*)\|?([^\|]*)\|?',
+    r'\|\s*(\*{0,2}(?:Mon|Tue|Wed|Thu|Fri|Weekend)[^\|]*\*{0,2})\s*\|([^\|]+)\|([^\|]*)\|?([^\|]*)\|?',
     next_content, re.IGNORECASE
 )
 tasks_lines = []
+weekend_how = ""
 for day, activity, how, time_col in day_rows:
     day_clean = day.strip().strip('*').strip()
     act_clean = activity.strip()
-    dur = "30 min" if ('⏱' in day or '30' in time_col) else "15 min"
-    tasks_lines.append(f"• {day_clean} ({dur}): {act_clean}")
+    if day_clean.lower().startswith('weekend'):
+        dur = "20–30 min"
+        tasks_lines.append(f"🎬 {day_clean} ({dur}): {act_clean}")
+        weekend_how = how.strip()
+    else:
+        dur = "30 min" if ('⏱' in day or '30' in time_col) else "15 min"
+        tasks_lines.append(f"• {day_clean} ({dur}): {act_clean}")
 tasks_str = "\n".join(tasks_lines) if tasks_lines else f"Daily practice — {next_focus}"
 
-# Resources for next week
+# Resources for next week — auto-attach links
 resources = []
-if 'vocabulary' in next_content.lower():
+content_lower = next_content.lower()
+seen_urls = set()
+
+# Podcasts (Apple Podcasts)
+PODCASTS = [
+    ("speak up", "🎙 Speak Up (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/speak-up-develop-your-executive-presence-leadership/id1368646965"),
+    ("think fast, talk smart", "🎙 Think Fast, Talk Smart (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/think-fast-talk-smart-communication-techniques/id1494989268"),
+    ("think fast talk smart", "🎙 Think Fast, Talk Smart (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/think-fast-talk-smart-communication-techniques/id1494989268"),
+    ("the knowledge project", "🎙 The Knowledge Project (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/the-knowledge-project/id990149481"),
+    ("masters of scale", "🎙 Masters of Scale (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/masters-of-scale/id1227971746"),
+    ("hbr ideacast", "🎙 HBR IdeaCast (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/hbr-ideacast/id152022135"),
+]
+APPS = [
+    ("elsa speak", "📱 ELSA Speak (App Store)", "https://apps.apple.com/us/app/elsa-speak-english-learning/id1083804886"),
+    ("orai", "📱 Orai (App Store)", "https://apps.apple.com/us/app/orai-improve-public-speaking/id1203178170"),
+]
+SHADOW_BEST_CLIPS = [
+    ("satya nadella", "▶️ Watch: Satya Nadella — WEF 2026 Interview", "https://www.youtube.com/watch?v=1co3zt3-r7I"),
+    ("jensen huang", "▶️ Watch: Jensen Huang — Leadership lessons", "https://www.youtube.com/watch?v=ziL09IyS0cw"),
+    ("sundar pichai", "▶️ Watch: Sundar Pichai — Google I/O 2025 Keynote", "https://www.youtube.com/watch?v=eIUqw3_YcCI"),
+    ("simon sinek", "▶️ Watch: Simon Sinek — Start With Why", "https://www.youtube.com/watch?v=u4ZoJKF_VuA"),
+    ("jacinda ardern", "▶️ Watch: Jacinda Ardern — On Leadership", "https://www.youtube.com/watch?v=iza9O91E4tk"),
+    ("amy edmondson", "▶️ Watch: Amy Edmondson — Psychological Safety TED Talk", "https://www.youtube.com/watch?v=LhoLuui9gX8"),
+]
+SPECIFIC_CLIPS = [
+    ("why good leaders make you feel safe", "▶️ Watch: Simon Sinek — Why Leaders Make You Feel Safe", "https://www.youtube.com/watch?v=lmyZMtPVodo"),
+    ("why leaders make you feel safe", "▶️ Watch: Simon Sinek — Why Leaders Make You Feel Safe", "https://www.youtube.com/watch?v=lmyZMtPVodo"),
+    ("start with why", "▶️ Watch: Simon Sinek — Start With Why TED Talk", "https://www.youtube.com/watch?v=u4ZoJKF_VuA"),
+    ("psychological safety", "▶️ Watch: Amy Edmondson — Psychological Safety TED Talk", "https://www.youtube.com/watch?v=LhoLuui9gX8"),
+    ("nvidia ai keynote", "▶️ Watch: Jensen Huang — NVIDIA AI Keynote", "https://www.youtube.com/watch?v=jpZ0dPsnIWw"),
+    ("google i/o", "▶️ Watch: Sundar Pichai — Google I/O 2025 Keynote", "https://www.youtube.com/watch?v=eIUqw3_YcCI"),
+]
+
+# Search the full next-week content (so weekend shadowing is included)
+search_text = content_lower
+for keyword, label, url in PODCASTS + APPS:
+    if keyword in search_text and url not in seen_urls:
+        resources.append(f'<a href="{url}">{label}</a>')
+        seen_urls.add(url)
+
+# YouTube — specific named clips
+for keyword, label, url in SPECIFIC_CLIPS:
+    if keyword in search_text and url not in seen_urls:
+        resources.append(f'<a href="{url}">{label}</a>')
+        seen_urls.add(url)
+
+# YouTube — extract `Search "X" on YouTube` from weekend "How" text
+for query in re.findall(r'[Ss]earch ["\']([^"\']+)["\'][^.]*?[Yy]ou[Tt]ube', next_content):
+    url = "https://www.youtube.com/results?search_query=" + urllib.parse.quote_plus(query)
+    if url not in seen_urls:
+        resources.append(f'<a href="{url}">▶️ Search: "{query}" on YouTube</a>')
+        seen_urls.add(url)
+
+# YouTube — fallback to leader's best clip
+for keyword, label, url in SHADOW_BEST_CLIPS:
+    if keyword in search_text and url not in seen_urls:
+        resources.append(f'<a href="{url}">{label}</a>')
+        seen_urls.add(url)
+
+if 'vocabulary' in content_lower:
     resources.append(f'<a href="{REPO_BASE}/vocabulary/vocabulary_bank.md">📖 Vocabulary bank</a>')
-KNOWN_RESOURCES = ['ELSA Speak', 'Orai', 'Think Fast, Talk Smart', 'Speak Up', 'YouTube']
-seen_externals = [name for name in KNOWN_RESOURCES if name.lower() in next_content.lower()]
-for ext in seen_externals[:3]:
-    resources.append(f'• {ext}')
+
 resources_str = "\n".join(resources) if resources else "(see schedule for details)"
 
 recap_section = (

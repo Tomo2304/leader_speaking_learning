@@ -1,4 +1,4 @@
-import os, re, json, urllib.request
+import os, re, json, urllib.request, urllib.parse
 from datetime import date, timedelta
 
 REPO_BASE = "https://github.com/Tomo2304/leader_speaking_learning/blob/main"
@@ -67,8 +67,79 @@ else:
         task = f"Practise this week's focus: {focus}"
     duration = "15"
 
-# Resources
+# Resources — auto-attach links for resources mentioned in today's task
 resources = []
+task_lower = task.lower() if isinstance(task, str) else ""
+
+# Podcasts (Apple Podcasts — preferred)
+PODCASTS = [
+    ("speak up", "🎙 Speak Up (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/speak-up-develop-your-executive-presence-leadership/id1368646965"),
+    ("think fast, talk smart", "🎙 Think Fast, Talk Smart (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/think-fast-talk-smart-communication-techniques/id1494989268"),
+    ("think fast talk smart", "🎙 Think Fast, Talk Smart (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/think-fast-talk-smart-communication-techniques/id1494989268"),
+    ("the knowledge project", "🎙 The Knowledge Project (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/the-knowledge-project/id990149481"),
+    ("masters of scale", "🎙 Masters of Scale (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/masters-of-scale/id1227971746"),
+    ("hbr ideacast", "🎙 HBR IdeaCast (Apple Podcasts)", "https://podcasts.apple.com/us/podcast/hbr-ideacast/id152022135"),
+]
+
+# Apps (App Store — iOS preferred)
+APPS = [
+    ("elsa speak", "📱 ELSA Speak (App Store)", "https://apps.apple.com/us/app/elsa-speak-english-learning/id1083804886"),
+    ("orai", "📱 Orai (App Store)", "https://apps.apple.com/us/app/orai-improve-public-speaking/id1203178170"),
+]
+
+# Shadow targets — best clip from resources.md (specific video) for each leader
+SHADOW_BEST_CLIPS = [
+    ("satya nadella", "▶️ Watch: Satya Nadella — WEF 2026 Interview", "https://www.youtube.com/watch?v=1co3zt3-r7I"),
+    ("jensen huang", "▶️ Watch: Jensen Huang — Leadership lessons", "https://www.youtube.com/watch?v=ziL09IyS0cw"),
+    ("sundar pichai", "▶️ Watch: Sundar Pichai — Google I/O 2025 Keynote", "https://www.youtube.com/watch?v=eIUqw3_YcCI"),
+    ("simon sinek", "▶️ Watch: Simon Sinek — Start With Why", "https://www.youtube.com/watch?v=u4ZoJKF_VuA"),
+    ("jacinda ardern", "▶️ Watch: Jacinda Ardern — On Leadership", "https://www.youtube.com/watch?v=iza9O91E4tk"),
+    ("amy edmondson", "▶️ Watch: Amy Edmondson — Psychological Safety TED Talk", "https://www.youtube.com/watch?v=LhoLuui9gX8"),
+]
+
+# Specific clip overrides — when the task mentions a particular talk by name
+SPECIFIC_CLIPS = [
+    ("why good leaders make you feel safe", "▶️ Watch: Simon Sinek — Why Leaders Make You Feel Safe", "https://www.youtube.com/watch?v=lmyZMtPVodo"),
+    ("why leaders make you feel safe", "▶️ Watch: Simon Sinek — Why Leaders Make You Feel Safe", "https://www.youtube.com/watch?v=lmyZMtPVodo"),
+    ("start with why", "▶️ Watch: Simon Sinek — Start With Why TED Talk", "https://www.youtube.com/watch?v=u4ZoJKF_VuA"),
+    ("psychological safety", "▶️ Watch: Amy Edmondson — Psychological Safety TED Talk", "https://www.youtube.com/watch?v=LhoLuui9gX8"),
+    ("nvidia ai keynote", "▶️ Watch: Jensen Huang — NVIDIA AI Keynote", "https://www.youtube.com/watch?v=jpZ0dPsnIWw"),
+    ("google i/o", "▶️ Watch: Sundar Pichai — Google I/O 2025 Keynote", "https://www.youtube.com/watch?v=eIUqw3_YcCI"),
+]
+
+def youtube_search_url(query):
+    return "https://www.youtube.com/results?search_query=" + urllib.parse.quote_plus(query)
+
+# Question bank
+if 'question_bank' in task_lower or 'question bank' in task_lower:
+    resources.append(f'<a href="{REPO_BASE}/plan/question_bank.md">❓ Question bank</a>')
+
+# Match podcasts / apps — dedupe by URL
+seen_urls = set()
+for keyword, label, url in PODCASTS + APPS:
+    if keyword in task_lower and url not in seen_urls:
+        resources.append(f'<a href="{url}">{label}</a>')
+        seen_urls.add(url)
+
+# YouTube — specific named clips first (highest priority match)
+for keyword, label, url in SPECIFIC_CLIPS:
+    if keyword in task_lower and url not in seen_urls:
+        resources.append(f'<a href="{url}">{label}</a>')
+        seen_urls.add(url)
+
+# YouTube — extract `Search "X" on YouTube` patterns from task text
+for query in re.findall(r'[Ss]earch ["\']([^"\']+)["\'][^.]*?[Yy]ou[Tt]ube', task):
+    url = youtube_search_url(query)
+    if url not in seen_urls:
+        resources.append(f'<a href="{url}">▶️ Search: "{query}" on YouTube</a>')
+        seen_urls.add(url)
+
+# YouTube — fallback to leader's best clip if their name appears
+for keyword, label, url in SHADOW_BEST_CLIPS:
+    if keyword in task_lower and url not in seen_urls:
+        resources.append(f'<a href="{url}">{label}</a>')
+        seen_urls.add(url)
+
 if 'vocabulary' in week_content.lower():
     resources.append(f'<a href="{REPO_BASE}/vocabulary/vocabulary_bank.md">📖 Vocabulary bank</a>')
 resources.append(f'<a href="{REPO_BASE}/plan/weekly_schedule.md">📅 This week\'s schedule</a>')
