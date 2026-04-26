@@ -12,7 +12,7 @@
 | **Start here** | *The Pyramid Principle* | Barbara Minto | Core fix for bottom-up communication habit — conclusion first, structured thinking |
 | **Start here** | *Exactly What to Say* | Phil M. Jones | Short, practical phrases you can apply immediately |
 | **Start here** | *Think Faster, Talk Smarter* | Matt Abrahams (2023) | Written specifically for strong thinkers who struggle with spontaneous, unscripted communication — your exact challenge. Covers: handling unexpected questions, structuring thoughts under pressure, responding confidently when unprepared |
-| **High** | *Supercommunicators* | Charles Duhigg (2024) | Why some conversations build trust while others fail — highly recommended in 2025/2026 |
+| **Optional** | *Supercommunicators* | Charles Duhigg (2024) | Why some conversations build trust while others fail. Deprioritised in the 26-week schedule due to limited reading time — read only if you finish *Pyramid Principle* and *Think Faster, Talk Smarter* with time to spare. |
 | **High** | *Crucial Conversations* | Patterson, Grenny et al. | Framework for high-stakes conversations — directly relevant for executive situations |
 | **High** | *Radical Candor* | Kim Scott | How to give feedback that is direct, clear, and kind — useful for mentoring junior analysts |
 | **Medium** | *Executive Presence* | Sylvia Ann Hewlett | Broader leadership presence — read after communication foundations are in place |

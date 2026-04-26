@@ -22,6 +22,18 @@ Use this hybrid method for every 📼 task:
 
 ---
 
+## Reading approach — be realistic
+
+You have ~2.25 hours of at-home book time + commute reading across 26 weeks. That's not enough to finish 5 books cover-to-cover. Use this tier system instead:
+
+- **Read fully (highest ROI):** *The Pyramid Principle* (Minto) and *Think Faster, Talk Smarter* (Abrahams). These directly target your two biggest gaps — bottom-up structure and spontaneous speaking.
+- **Read selectively (extract & apply):** *Exactly What to Say* (Jones) and *Crucial Conversations* (Patterson et al.). Treat these as reference books — the Tuesday tasks tell you exactly which chapters or themes to extract. Don't feel guilty skipping the rest.
+- **Optional / skip:** *Supercommunicators* (Duhigg) was originally on the schedule for Weeks 7 and 10 — those slots are now podcast sessions instead. Read this book only if you finish the priority two with time to spare.
+
+**Goal:** finish 2 books fully, extract from 2 more. That's a strong 6-month outcome, not a weakness.
+
+---
+
 ## Phase 1 — Foundation (Weeks 1–3)
 **Theme: Break the two most damaging habits — apologising and burying your conclusion**
 
@@ -137,7 +149,7 @@ Use this hybrid method for every 📼 task:
 | Day | Activity | How | Time |
 |---|---|---|---|
 | Mon | PREP mock session with Claude — recorded 📼 | Open your phone's voice memo app and start recording. Then open Claude and say: "run a PREP mock session with executive-level questions." For each question Claude asks — **say your answer aloud first (recorded), then type it to Claude.** This gives you both Claude's coaching on content AND a recording to review on Friday. After the session, note which question was hardest and why. | 15 min |
-| Tue | Read *Supercommunicators* (Duhigg) — start | Begin the book on your commute. Duhigg writes about how the best communicators adapt to the conversation they're actually in — not the one they prepared for. Note one idea that changes how you think about communication. | 15 min |
+| Tue | Listen to *Think Fast, Talk Smart* — handling difficult questions | Open the podcast on your commute. Find an episode specifically about handling difficult, unexpected, or pushback-style questions (search "difficult questions" or "tough questions" within the show). Note one technique you'll try in your Wednesday PREP rewrite. | 15 min |
 | Wed | Rewrite 2 PREP responses — cut every repeated sentence | Take 2 of your best PREP responses from this phase. Read each aloud. Find every sentence that repeats the same idea as another. Cut it. Aim to make each PREP feel complete in 30 seconds or less. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll ask you to respond to a complex, ambiguous question you haven't seen before — no preparation allowed. Respond in PREP. Push for clarity and concision. Debrief after. | 15 min |
 | Fri | Month 2 milestone check + weekly check-in | Open `progress/progress_log.md`. Answer: can you deliver a clear PREP response within 20 seconds when asked unexpectedly? Rate yourself 1–5. Then open Claude and share your rating, **play back your Monday PREP-mock recording** and tell me what surprised you when you heard yourself, and what's still hard. | 15 min |
@@ -192,7 +204,7 @@ Use this hybrid method for every 📼 task:
 | Day | Activity | How | Time |
 |---|---|---|---|
 | Mon | Write 3 presentation opening statements | Think of 3 presentations or updates you commonly give at work (project status, data findings, team plans). Write a one-sentence opening for each — recommendation or finding first: "My recommendation is...", "The key finding is...", "What this means for us is...". Say each one aloud. | 15 min |
-| Tue | Read *Supercommunicators* — continue | Continue the book on your commute. Look for ideas about how to adapt your communication style depending on who is in the room — especially for executive audiences. | 15 min |
+| Tue | Listen to *Speak Up* — executive communication episode | Open the podcast on your commute. Find a *Speak Up* episode focused on communicating with senior leaders or executives — adapting style for the room. Note one specific phrase or technique you'll apply in Wednesday's presentation opening. | 15 min |
 | Wed | Send Claude a presentation opening for review | Open Claude. Paste the opening 3–5 sentences of a presentation or report introduction you've written recently (or write one now). Ask me: "Does this lead with the recommendation or finding?" I'll give you specific feedback. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll ask you to open a presentation or briefing with your key recommendation — in one sentence, no preamble. I'll play a sceptical executive and ask follow-up questions. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me: did you open any presentation with "My recommendation is..." this week? What was the reaction? Share what's still hard. I'll set your Week 12 focus. | 15 min |
