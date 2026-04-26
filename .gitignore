@@ -1,0 +1,13 @@
+# Claude Code local state (per-user, not shared)
+.claude/settings.local.json
+.claude/.session/
+.claude/projects/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
