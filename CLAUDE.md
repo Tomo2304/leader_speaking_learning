@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Project Is
 
-A structured 6-month self-directed leadership communication learning plan for Tomo — a Japanese-born Technical Data Analytics Lead based in Melbourne. Start date: 2026-04-27. Target: 2026-10-16. 125 learning days total (25 weeks × 5 weekdays).
+A structured 6-month self-directed leadership communication learning plan for Tomo — a Japanese-born Technical Data Analytics Lead based in Melbourne. Start date: 2026-04-27. Target: 2026-10-30. 130 learning days total (26 weeks × 5 weekdays).
 
 **Core goal:** Communicate like a confident, capable native English-speaking leader — especially in the AI Steering Committee, executive meetings, and unprepared moments.
 
@@ -32,7 +32,7 @@ vocabulary/
 progress/
   progress_log.md                  — 3-layer monitoring: daily log, weekly check-in, monthly milestones
   weekly_reviews/
-    week_NN_[topic].md             — One file per week (23 files); stores examples and vocabulary additions
+    week_NN_[topic].md             — One file per week (24 files); stores examples, vocabulary additions, real meeting capture, and vocabulary targets
 .github/
   workflows/                       — GitHub Actions workflows for Telegram notifications
   scripts/                         — Python scripts used by the workflows
@@ -54,11 +54,31 @@ To find the correct week file: count weeks from 2026-04-27. Week 1 = 2026-04-27 
 ### PREP mock sessions
 When Tomo says "run a PREP mock session" — ask 5 unexpected senior-leader-style questions one at a time. After each response, give structured feedback: what the Point was, whether the structure held, and one specific improvement.
 
+### Pressure simulations
+When Tomo says "Run a pressure simulation" — present a complex, ambiguous work scenario matched to the current phase (see Thursday tasks in `plan/weekly_schedule.md` for phase-specific context). Give Tomo 10 seconds to think, then ask for their response. Push back on their answer with a challenge or follow-up. Debrief on structure, composure, and one specific improvement. Every Thursday from Week 5 onward is a pressure simulation session.
+
+### Challenge handling roleplays
+When Tomo says "Run a challenge handling roleplay" — directly challenge their stated position ("I disagree with that recommendation" or "That data doesn't support your conclusion"). Tomo practises holding their ground using the five challenge-response phrases. Debrief on which phrase they used, whether they stayed composed, and one improvement. This format is introduced in Week 12 and can be requested any time.
+
 ### Meeting facilitation roleplays
 When Tomo says "run a meeting facilitation roleplay" — play a realistic participant (rambling, going off-topic, or challenging). Let Tomo practise redirecting and closing. Debrief after.
 
 ### Weekly check-ins
 Every Friday is a built-in weekly check-in day (scheduled in `plan/weekly_schedule.md`). When Tomo reports a week's activity, assess against the milestone targets in `overview.md`, suggest one focus for the coming week, and update the Layer 2 section of `progress/progress_log.md`.
+
+Include the weekly self-score in the check-in. Prompt Tomo to rate 1–5 on the two metrics for the current phase, and ask for one real example that justifies the scores. Phase metrics:
+- Weeks 1–3: Conclusion-first + Brevity
+- Weeks 4–7: Clarity under pressure + Confidence
+- Weeks 8–11: Brevity + Clarity
+- Weeks 12–15: Meeting control + Confidence
+- Weeks 16–19: Pace/pause + Confidence
+- Weeks 20–26: All 5 briefly
+
+### Real Meeting Capture
+When Tomo shares what they said in a real meeting and asks for the improved version — or when reviewing a weekly capture — update the "Real Meeting Capture" table in the current week's review file: `| Date | What I said | What PREP/BLUF would have produced | Improved version |`. The evening Telegram check-in includes a daily reminder to capture one moment per week.
+
+### Vocabulary Targets tracking
+Each week Tomo selects 3 phrases from `vocabulary/vocabulary_bank.md` to use in real meetings. During the Friday check-in, ask which phrases were used and update the "Vocabulary Targets This Week" table in the current week's review file (Y / N + notes).
 
 ### Daily progress logging
 When Tomo says "Day X done", "Day X partial", or "Day X skipped" — update `progress/progress_log.md`:
@@ -74,6 +94,8 @@ When Tomo says "Day X done", "Day X partial", or "Day X skipped" — update `pro
 - Monday and Friday: **always 15 min**
 
 These constraints are already built into `plan/weekly_schedule.md`. Do not suggest 30-min tasks on Mon or Fri.
+
+**Thursday exception (Week 5 onward):** Every Thursday from Week 5 to Week 26 is a 15-min Executive Pressure Simulation with Claude. Do not suggest other Thursday tasks for these weeks — the simulation slot is fixed.
 
 ---
 
@@ -111,4 +133,4 @@ Notifications are delivered via **GitHub Actions → Telegram** (CCR routines ex
 - Saturday: `trig_01PoXTFEwRcm4Ri7Liywuafm`
 - Manage: https://claude.ai/code/routines
 
-**Schedule structure note:** Every Friday task in `weekly_schedule.md` is a weekly check-in with Claude. Milestone checks (Month 1–5) are on Thursdays of the relevant weeks.
+**Schedule structure note:** Every Friday task in `weekly_schedule.md` is a weekly check-in with Claude. Month 1 milestone check is on Week 3 Thursday. Month 2 milestone check is on Week 7 Friday. Month 3 milestone check is handled during the Week 11 Friday check-in (the Thursday slot is now a pressure simulation). Month 4 milestone check is on Week 16 Friday. Month 6 milestone check is in Week 25–26.
