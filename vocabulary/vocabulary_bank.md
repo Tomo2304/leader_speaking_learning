@@ -6,8 +6,27 @@
 
 ## How to Use This Bank
 - **Browse weekly** — read through recent additions on the train
-- **Pick one entry per week** to consciously use in real situations
+- **Pick 3 phrases per week** to consciously use in real situations (tracked in your weekly review file)
 - **Don't try to use everything at once** — gradual integration sounds natural, forced adoption sounds scripted
+- **Need a phrase in the moment?** Use the Quick Scenario Index below to jump to the right section
+
+---
+
+## Quick Scenario Index
+
+| When you need to... | Go to section |
+|---|---|
+| Speak up / open a point | Weak → Strong Replacements |
+| Share an opinion | Weak → Strong Replacements |
+| Connect ideas or structure your point | Transitional and Connective Phrases |
+| Frame a trade-off or simplify complexity | Executive Thinking & Framing |
+| Speak concisely (Rule of 3, contrast, if/then) | Executive Brevity Patterns |
+| Talk about data or analysis | Data and Analytics Leadership Language |
+| Communicate with executives | Executive Communication Phrases |
+| Disagree or push back | Pushback & Challenge Handling |
+| Drive a decision or close ambiguity | Decision & Action Language |
+| Run a meeting | Meeting Facilitation Language |
+| Speak with partial information | Handling Uncertainty |
 
 ---
 
@@ -47,6 +66,33 @@
 
 ---
 
+## Executive Thinking & Framing
+
+| Situation | Phrase |
+|---|---|
+| Prioritising | "If we focus on one thing, it should be..." |
+| Cutting through noise | "There's a lot here, but the key issue is..." |
+| Framing a trade-off | "The trade-off here is speed versus accuracy." |
+| Strategic / longer-term lens | "From a longer-term perspective..." |
+| Risk framing | "The risk of not acting is..." |
+| Simplifying complexity | "At its core, this comes down to..." |
+
+---
+
+## Executive Brevity Patterns
+
+*How senior leaders compress thought into a few words. Drill these — they should feel automatic.*
+
+| Pattern | Example |
+|---|---|
+| Rule of 3 | "There are three things that matter here..." |
+| Contrast | "The issue isn't X — it's Y." |
+| If / then | "If we do this, the outcome is..." |
+| Risk-of-inaction | "If we don't act, we risk..." |
+| Bottom line | "At a high level, this comes down to..." |
+
+---
+
 ## Data and Analytics Leadership Language
 
 | Technical / Informal | Leadership framing |
@@ -74,6 +120,39 @@
 
 ---
 
+## Pushback & Challenge Handling
+
+*For holding your ground when challenged — especially in AI Steering Committee and senior stakeholder discussions. Going silent under pressure is the default Japanese pattern; these phrases keep you in the conversation.*
+
+| Situation | Phrase |
+|---|---|
+| Disagreeing clearly | "I see it differently — the key issue is..." |
+| Challenging an assumption | "Can I challenge that assumption?" |
+| Holding your ground | "I understand the concern — I still believe this is the right direction." |
+| Holding your ground (alt) | "I hear the concern — my view remains that..." |
+| Reframing the disagreement | "I think we're solving slightly different problems here." |
+| Reframing as different goals | "We may be optimising for different outcomes." |
+| Clarifying tension between priorities | "It sounds like we're balancing two priorities..." |
+| Acknowledging then defending | "That's a fair challenge — here's how I see it." |
+| Restating your position | "Let me clarify my position." |
+| Managing an interruption | "I'd like to finish my point before we discuss that." |
+
+---
+
+## Decision & Action Language
+
+*For moving conversations from discussion to action. Executives drive decisions, not just discussion.*
+
+| Situation | Phrase |
+|---|---|
+| Forcing clarity | "We need to make a call on this." |
+| Narrowing options | "We have two viable paths..." |
+| Recommending decisively | "Given that, I'd move forward with..." |
+| Assigning ownership | "Let's assign an owner to this." |
+| Closing ambiguity | "Unless there are strong objections, we'll proceed with..." |
+
+---
+
 ## Meeting Facilitation Language
 
 | Situation | Phrase |
@@ -84,6 +163,19 @@
 | Closing a discussion | "Let's land on a decision here. My recommendation is..." |
 | Inviting input without losing control | "I want to hear two or three perspectives on this before we decide." |
 | Handling disagreement | "I hear a different view here — let's work through it." |
+
+---
+
+## Handling Uncertainty (Without Losing Authority)
+
+*Hedging signals weakness; these phrases acknowledge incomplete information without giving up your authority.*
+
+| Situation | Phrase |
+|---|---|
+| Working with partial information | "Based on what we know so far..." |
+| Not ready to commit | "I'm not ready to take a position yet — I'll come back with one by [date]." |
+| Early signals only | "Early indicators suggest..." |
+| Asked for a view you don't have | "I want to come back with a clearer answer rather than guess." |
 
 ---
 

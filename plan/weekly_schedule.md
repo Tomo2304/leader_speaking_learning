@@ -49,7 +49,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Tue | Listen to *Speak Up* podcast | Search "Speak Up" on Apple Podcasts or Spotify. Play one episode on your commute. After listening, write down one phrase or technique you could use in a meeting this week. | 15 min |
 | **Wed ⏱** | Record a 2-min voice memo — then analyse it | Open your phone's voice memo app. Hit record and speak for 2 minutes on this prompt: **"Brief your manager on your current project — what it is, where it's at, and the main challenge or decision right now."** Don't script it, just talk as if they're sitting across from you. Play it back and write down every "sorry", "I think", "maybe", "just", "I'm not sure but". Count the total. *(This is your baseline recording — you'll compare against it in Week 20 and Week 26.)* | **30 min** |
 | Thu | Rewrite Wednesday's script with strong openers | Take every weak phrase you counted yesterday. Rewrite that sentence using: "My view is...", "The key point is...", "I recommend...", "The outcome was...". Read the rewritten version aloud. Does it sound more like a leader? | 15 min |
-| Fri | Review vocabulary bank + reflect on the week | Open `vocabulary/vocabulary_bank.md` — read the Weak → Strong Replacements section aloud. Then: did you catch yourself saying "sorry" or "I think" in a meeting this week? Write one real example in `progress/weekly_reviews/week_02_replace_openers_in_speech.md`. | 15 min |
+| Fri | Review vocabulary bank + reflect on the week | Open `vocabulary/vocabulary_bank.md` — read the **Weak → Strong Replacements** section aloud. While you're there, note the **Quick Scenario Index** at the top — that's your real-time lookup for finding a phrase mid-meeting. Then: did you catch yourself saying "sorry" or "I think" in a meeting this week? Write one real example in `progress/weekly_reviews/week_02_replace_openers_in_speech.md`. | 15 min |
 | Weekend | Shadow Satya Nadella — 2–3 min clip | Search "Satya Nadella interview" on YouTube. Pick any 2–3 min clip. Listen once for content. Listen again and speak along with him — matching his pace and sentence openings. | 20–30 min |
 
 *Real-world challenge all week: In every meeting — when you feel the urge to say "sorry" or "I think", replace it with silence or "I want to add something here". One substitution at a time.*
@@ -240,14 +240,14 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 | Day | Activity | How | Time |
 |---|---|---|---|
-| Mon | Learn 5 challenge-response phrases aloud | Say each phrase aloud 5 times as if you're in a real meeting: "Let me clarify my position." / "That's a fair challenge — here's how I see it." / "We may be optimising for different outcomes." / "I hear the concern — my view remains that..." / "I'd like to finish my point before we discuss that." Notice which ones feel unnatural — those are your focus for the week. | 15 min |
+| Mon | Learn challenge-response phrases aloud | Open `vocabulary/vocabulary_bank.md` — go to the **Pushback & Challenge Handling** section. Say every phrase aloud 5 times each as if you're in a real meeting. Notice which 3–4 feel most unnatural — those are your focus for the week. Pick 3 of them as your "use this week" targets. | 15 min |
 | Tue | Read *Crucial Conversations* — chapter on holding position | Continue the book on your commute. Focus on the chapters about staying in the conversation when you feel challenged or dismissed. Note one technique for remaining composed rather than defensive. | 15 min |
-| Wed | Challenge handling roleplay with Claude 📼 | Open Claude and say: "Run a challenge handling roleplay." I'll directly challenge your position — "I disagree with that recommendation" or "That data doesn't support your conclusion." Your job: hold your ground, stay composed, and respond using one of the five phrases from Monday. Debrief after. | 15 min |
+| Wed | Challenge handling roleplay with Claude 📼 | Open Claude and say: "Run a challenge handling roleplay." I'll directly challenge your position — "I disagree with that recommendation" or "That data doesn't support your conclusion." Your job: hold your ground, stay composed, and respond using one of your 3 target phrases from Monday's Pushback & Challenge Handling drill. Debrief after. | 15 min |
 | Thu | Executive pressure simulation — defend under challenge 📼 | Open Claude and say: "Run a pressure simulation focused on defending a position." Scenario: a senior leader pushes back on your recommendation in front of others. Respond, handle the pushback, and hold your point. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me: did you use any challenge-response phrase in a real meeting this week? Which felt most natural? Which is still uncomfortable? I'll give targeted coaching and brief you on Phase 4. | 15 min |
 | Weekend | Watch a leader handling tough questions | Find any clip of Jensen Huang, Satya Nadella, or Jacinda Ardern handling a hostile or challenging question. Notice: do they apologise, deflect, or hold their position calmly? Shadow one of their responses. | 20–30 min |
 
-*Real-world challenge all week: When challenged or interrupted in a meeting — pause 2 seconds, then respond with one of the five phrases. Do not apologise for your view.*
+*Real-world challenge all week: When challenged or interrupted in a meeting — pause 2 seconds, then respond with one of your 3 target Pushback & Challenge phrases. Do not apologise for your view.*
 
 ---
 
@@ -402,7 +402,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 | Day | Activity | How | Time |
 |---|---|---|---|
-| Mon | Prepare 2–3 PREP responses for Steering Committee topics | Look at your upcoming AI Steering Committee agenda or think about the 3 most likely topics that will come up. Write a full PREP response for each — Point first, no hedging. Say each one aloud. | 15 min |
+| Mon | Prepare 2–3 PREP responses for Steering Committee topics | Look at your upcoming AI Steering Committee agenda or think about the 3 most likely topics. Write a full PREP response for each — Point first, no hedging. For framing, pull from `vocabulary/vocabulary_bank.md` **Executive Thinking & Framing** (trade-off, prioritisation, risk language). For likely challenges to your view, pre-stage 1–2 phrases from **Pushback & Challenge Handling** so you don't freeze. Say each PREP aloud. | 15 min |
 | Tue | Apply pyramid structure to any materials you'll present | Open any slide deck, report, or briefing you'll share in an executive session this week. Check slide/page 1 — is the main recommendation or finding there? If not, restructure. | 15 min |
 | Wed | Send Claude your PREP responses or opening for feedback | Open Claude. Paste your prepared PREP responses or presentation opening. Ask me: "Is the Point clear? Does it sound confident?" Apply the feedback before Thursday. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll simulate an AI Steering Committee moment — an unexpected question or challenge during your presentation. Respond with full executive presence: recommendation first, no hedging, composed delivery. Debrief after. | 15 min |
@@ -416,7 +416,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 | Day | Activity | How | Time |
 |---|---|---|---|
-| Mon | Prepare PREP responses for this week's executive interactions | Look at your calendar. Find every meeting with a senior leader or executive. Prepare 2 PREP responses for questions that might come up in each. | 15 min |
+| Mon | Prepare PREP responses for this week's executive interactions | Look at your calendar. Find every meeting with a senior leader or executive. Prepare 2 PREP responses for questions that might come up in each. For framing, draw from `vocabulary/vocabulary_bank.md` **Executive Thinking & Framing**. For likely pushback, pre-stage 1–2 phrases from **Pushback & Challenge Handling**. | 15 min |
 | Tue | Drill anchor phrases — especially the ones you use least | Open `vocabulary/vocabulary_bank.md`. Find the anchor phrases you've used least in real meetings. Say each one aloud 10 times in different contexts. Make them feel automatic. | 15 min |
 | Wed | Contribute actively in today's meetings — use an anchor phrase | In every meeting today, make at least one intentional contribution: start with your point, use an anchor phrase if redirecting or summarising. Afterwards, note what you said and how it landed. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll simulate a high-stakes executive contribution — you're asked to weigh in on a strategic decision with limited context. Respond confidently with a clear position. I'll challenge and probe. Debrief after. | 15 min |
