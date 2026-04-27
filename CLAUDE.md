@@ -114,7 +114,7 @@ Notifications are delivered via **GitHub Actions → Telegram** (CCR routines ex
 
 | Workflow | Schedule (AEST) | Script |
 |---|---|---|
-| Morning Task Briefing | 7:40am Mon–Fri | `.github/scripts/morning_briefing.py` |
+| Morning Task Briefing | 7:00am Mon–Fri | `.github/scripts/morning_briefing.py` |
 | Evening Check-in | 9:30pm Mon–Fri | `.github/scripts/evening_checkin.py` |
 | Saturday Weekly Prep | 9:00pm Saturday | `.github/scripts/saturday_prep.py` |
 
