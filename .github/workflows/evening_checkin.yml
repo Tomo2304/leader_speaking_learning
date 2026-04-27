@@ -2,7 +2,7 @@ name: Evening Check-in
 
 on:
   schedule:
-    - cron: '30 11 * * 1-5'  # 9:30pm AEST (UTC+10) Mon-Fri
+    - cron: '0 10 * * 1-5'  # 8:00pm AEST (UTC+10) Mon-Fri
   workflow_dispatch:
 
 jobs:
