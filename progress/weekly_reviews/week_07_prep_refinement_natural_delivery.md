@@ -1,13 +1,13 @@
-# Week 5 — PREP Framework Introduction
-*Phase 2: Spontaneous Speaking | 2026-05-18 to 2026-05-22*
+# Week 7 — PREP Refinement: Natural vs Scripted
+*Phase 2: Spontaneous Speaking | 2026-06-08 to 2026-06-12*
 
 ## Key Topic
-Learning the PREP framework (Point → Reason → Example → Point) as a structured tool for responding clearly when put on the spot.
+Refining PREP so it sounds natural and confident rather than rehearsed or mechanical — internalising the structure so it becomes your default response pattern.
 
 ## Key Concepts Covered
-- PREP: Point (conclusion first), Reason (one key reason), Example (one specific example), Point (restate conclusion)
-- Why PREP works for executive and senior leader interactions — it shows structured thinking instantly
-- Writing PREP responses before speaking them — building the pattern in your head first
+- The difference between natural PREP and scripted PREP — and how to close the gap
+- Self-review: listening to yourself and identifying where the response still sounds stiff
+- Month 2 milestone review: can you deliver PREP in under 20 seconds unexpectedly?
 
 ---
 

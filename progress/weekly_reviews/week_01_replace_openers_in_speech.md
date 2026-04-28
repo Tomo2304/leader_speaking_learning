@@ -1,13 +1,13 @@
-# Week 8 — PREP Refinement: Natural vs Scripted
-*Phase 2: Spontaneous Speaking | 2026-06-08 to 2026-06-12*
+# Week 1 — Replace Apologetic Openers in Live Speech
+*Phase 1: Foundation | 2026-04-27 to 2026-05-01*
 
 ## Key Topic
-Refining PREP so it sounds natural and confident rather than rehearsed or mechanical — internalising the structure so it becomes your default response pattern.
+Building habit awareness in live speech — actively replacing apologetic openers in real conversations and meetings in real time.
 
 ## Key Concepts Covered
-- The difference between natural PREP and scripted PREP — and how to close the gap
-- Self-review: listening to yourself and identifying where the response still sounds stiff
-- Month 2 milestone review: can you deliver PREP in under 20 seconds unexpectedly?
+- Recording yourself to hear your actual speech patterns (not what you think you say)
+- The replacement drill: "I want to add something here" instead of "Sorry to interrupt"
+- Catching the opener before it comes out — the 1-second pause that changes everything
 
 ---
 

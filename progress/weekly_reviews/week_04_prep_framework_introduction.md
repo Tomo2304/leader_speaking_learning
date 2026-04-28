@@ -1,13 +1,13 @@
-# Week 10 — Executive Email Brevity
-*Phase 3: Executive Communication | 2026-06-22 to 2026-06-26*
+# Week 4 — PREP Framework Introduction
+*Phase 2: Spontaneous Speaking | 2026-05-18 to 2026-05-22*
 
 ## Key Topic
-Writing emails to senior leaders and executives that are under 120 words, recommendation-first, and structured so the reader gets what they need from the first sentence alone.
+Learning the PREP framework (Point → Reason → Example → Point) as a structured tool for responding clearly when put on the spot.
 
 ## Key Concepts Covered
-- Executive email template: subject line + 1-sentence recommendation + 3 bullet points + 1-sentence next step
-- Editing for brevity: cutting everything that doesn't directly serve the decision
-- The discipline of stopping: say the point, then stop
+- PREP: Point (conclusion first), Reason (one key reason), Example (one specific example), Point (restate conclusion)
+- Why PREP works for executive and senior leader interactions — it shows structured thinking instantly
+- Writing PREP responses before speaking them — building the pattern in your head first
 
 ---
 

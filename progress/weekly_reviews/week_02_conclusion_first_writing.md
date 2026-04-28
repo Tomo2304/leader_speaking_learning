@@ -1,4 +1,4 @@
-# Week 3 — Conclusion-First Writing (BLUF)
+# Week 2 — Conclusion-First Writing (BLUF)
 *Phase 1: Foundation | 2026-05-04 to 2026-05-08*
 
 ## Key Topic

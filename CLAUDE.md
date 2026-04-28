@@ -32,7 +32,7 @@ vocabulary/
 progress/
   progress_log.md                  — 3-layer monitoring: daily log, weekly check-in, monthly milestones
   weekly_reviews/
-    week_NN_[topic].md             — One file per week (24 files); stores examples, vocabulary additions, real meeting capture, and vocabulary targets
+    week_NN_[topic].md             — One file per week; stores examples, vocabulary additions, real meeting capture, and vocabulary targets
 .github/
   workflows/                       — GitHub Actions workflows for Telegram notifications
   scripts/                         — Python scripts used by the workflows

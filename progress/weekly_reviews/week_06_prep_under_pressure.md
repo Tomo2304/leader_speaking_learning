@@ -1,13 +1,13 @@
-# Week 2 — Replace Apologetic Openers in Live Speech
-*Phase 1: Foundation | 2026-04-27 to 2026-05-01*
+# Week 6 — PREP Under Pressure
+*Phase 2: Spontaneous Speaking | 2026-06-01 to 2026-06-05*
 
 ## Key Topic
-Taking the habit awareness from Week 1 into live speech — actively replacing apologetic openers in real conversations and meetings in real time.
+Using PREP when genuinely unprepared — responding to unexpected questions from senior leaders without freezing or over-explaining.
 
 ## Key Concepts Covered
-- Recording yourself to hear your actual speech patterns (not what you think you say)
-- The replacement drill: "I want to add something here" instead of "Sorry to interrupt"
-- Catching the opener before it comes out — the 1-second pause that changes everything
+- The 3-second pause rule: always pause before responding, especially under pressure
+- PREP mock sessions with Claude: simulating real senior leader questioning
+- Resisting the urge to fill silence with filler words or over-context
 
 ---
 

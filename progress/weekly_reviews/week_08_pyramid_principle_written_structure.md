@@ -1,13 +1,14 @@
-# Week 6 — PREP Spoken Out Loud
-*Phase 2: Spontaneous Speaking | 2026-05-25 to 2026-05-29*
+# Week 8 — The Pyramid Principle: Written Communication Structure
+*Phase 3: Executive Communication | 2026-06-15 to 2026-06-19*
 
 ## Key Topic
-Taking PREP from written practice to spoken delivery — using it live in real time with a 10-second pause to structure your response before speaking.
+The Pyramid Principle — structuring all written communication so the most important point sits at the top, supported by key points, each supported by detail. Executives read the top; detail is there if needed.
 
 ## Key Concepts Covered
-- The 10-second pause: silence before responding is not weakness, it is structure
-- Spoken PREP vs written PREP — what changes when you say it out loud
-- Pre-preparing PREP responses for meetings where your opinion is likely to be asked
+- Pyramid structure: Recommendation → Key Point 1, 2, 3 → Supporting detail
+- Why this is the single most important fix for executive-level communication
+- Applying the pyramid to emails, reports, and presentations
+- The "so what" test: every point must have a clear implication
 
 ---
 

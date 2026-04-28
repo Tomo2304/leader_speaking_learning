@@ -1,13 +1,13 @@
-# Week 12 — Calibrating Depth: Knowing When to Stop
-*Phase 3: Executive Communication | 2026-07-06 to 2026-07-10*
+# Week 5 — PREP Spoken Out Loud
+*Phase 2: Spontaneous Speaking | 2026-05-25 to 2026-05-29*
 
 ## Key Topic
-Reading the audience and knowing when you've said enough — resisting the urge to over-explain, over-qualify, or fill silence with more words.
+Taking PREP from written practice to spoken delivery — using it live in real time with a 10-second pause to structure your response before speaking.
 
 ## Key Concepts Covered
-- The "so what" test for every point: if you can't answer it, cut the point
-- Discipline of silence after making a key statement
-- Month 3 milestone review: are executive emails consistently under 150 words?
+- The 10-second pause: silence before responding is not weakness, it is structure
+- Spoken PREP vs written PREP — what changes when you say it out loud
+- Pre-preparing PREP responses for meetings where your opinion is likely to be asked
 
 ---
 

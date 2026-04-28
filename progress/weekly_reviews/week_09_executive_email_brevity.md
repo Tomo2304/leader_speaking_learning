@@ -1,13 +1,13 @@
-# Week 7 — PREP Under Pressure
-*Phase 2: Spontaneous Speaking | 2026-06-01 to 2026-06-05*
+# Week 9 — Executive Email Brevity
+*Phase 3: Executive Communication | 2026-06-22 to 2026-06-26*
 
 ## Key Topic
-Using PREP when genuinely unprepared — responding to unexpected questions from senior leaders without freezing or over-explaining.
+Writing emails to senior leaders and executives that are under 120 words, recommendation-first, and structured so the reader gets what they need from the first sentence alone.
 
 ## Key Concepts Covered
-- The 3-second pause rule: always pause before responding, especially under pressure
-- PREP mock sessions with Claude: simulating real senior leader questioning
-- Resisting the urge to fill silence with filler words or over-context
+- Executive email template: subject line + 1-sentence recommendation + 3 bullet points + 1-sentence next step
+- Editing for brevity: cutting everything that doesn't directly serve the decision
+- The discipline of stopping: say the point, then stop
 
 ---
 
