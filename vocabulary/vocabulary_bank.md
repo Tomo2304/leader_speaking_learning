@@ -27,6 +27,7 @@
 | Drive a decision or close ambiguity | Decision & Action Language |
 | Run a meeting | Meeting Facilitation Language |
 | Speak with partial information | Handling Uncertainty |
+| Structure a spoken contribution | Speaking Structures |
 
 ---
 
@@ -46,6 +47,20 @@
 | "That's a good idea" | "That aligns well with what we're trying to achieve" | Affirming someone's input |
 | "We talked about..." | "We aligned on..." / "We landed on..." | Referencing a prior discussion |
 | "We need to look into this" | "This warrants further investigation" | Flagging something for follow-up |
+| "What do I want to say?" | "What does this audience need from me right now?" | Pre-speaking mindset check |
+| "I'll share some information" | "My recommendation is..." | Move from informing to leading |
+
+---
+
+## Speaking Structures
+
+*Use these to give your spoken contribution a clear spine — especially in meetings and executive sessions.*
+
+| Structure | How to use it | Example |
+|---|---|---|
+| Goal → Problem → Solution | State why it matters, name the obstacle, then give your recommendation | "The goal is to ship by Q3. The blocker is data quality. My recommendation is we resolve that first before scaling." |
+| PREP (Point → Reason → Example → Point) | For spontaneous responses — lead with your point, not your thinking | "My view is X. The reason is Y. For example, Z. So my position is X." |
+| BLUF (Bottom Line Up Front) | For emails and briefings — conclusion in sentence 1 | "My recommendation is to delay the launch. Here's why..." |
 
 ---
 
@@ -185,5 +200,5 @@
 
 | Date | Original phrasing | Improved phrasing | Why it's stronger |
 |---|---|---|---|
-| — | — | — | — |
-
+| 2026-04-28 | "I should speak goal, problem and solution in order to" | Goal → Problem → Solution (lead with why it matters, name the obstacle, then give your recommendation) | Turns an instinct into a repeatable structure; positions you as solution-oriented, not just problem-reporting |
+| 2026-04-28 | "What do I want to say?" | "What does this audience need from me right now?" | Shifts from self-focus to audience-focus before you open your mouth — changes the whole framing of your contribution |
