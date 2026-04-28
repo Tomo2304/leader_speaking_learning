@@ -1,13 +1,13 @@
-# Week 13 — Meeting Anchor Phrases
-*Phase 4: Meeting Facilitation | 2026-07-13 to 2026-07-17*
+# Week 15 — Closing Discussions and Landing Decisions
+*Phase 4: Meeting Facilitation | 2026-08-03 to 2026-08-07*
 
 ## Key Topic
-Learning and memorising the anchor phrases that give you control of a meeting — phrases that buy thinking time, redirect tangents, and signal leadership of the room.
+Taking ownership of closing discussions decisively — using language that lands a clear decision or next step rather than letting meetings trail off inconclusively.
 
 ## Key Concepts Covered
-- Anchor phrases: "Let me think about that for a second", "I want to bring us back to...", "What I'm hearing is..."
-- Why these phrases signal leadership rather than weakness
-- Memorising vs internalising: the difference between knowing the phrase and reaching for it automatically
+- Closing phrases: "Let's land on a decision here. My recommendation is..."
+- The difference between a meeting that ends and a meeting that closes
+- Taking ownership of the close even when you are not the most senior person in the room
 
 ---
 

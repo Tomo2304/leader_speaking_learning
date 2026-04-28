@@ -1,13 +1,13 @@
-# Week 18 — Eliminating Filler Words
-*Phase 5: Delivery and Presence | 2026-08-17 to 2026-08-21*
+# Week 14 — Redirecting and Summarising in Meetings
+*Phase 4: Meeting Facilitation | 2026-07-27 to 2026-07-31*
 
 ## Key Topic
-Identifying and removing filler words (um, uh, like, you know, kind of, sort of) and replacing them with deliberate silence — the single biggest delivery improvement most speakers can make.
+Using language to manage meeting flow — redirecting when discussions go off track and summarising before moving to the next point to signal clarity and control.
 
 ## Key Concepts Covered
-- Your personal filler word inventory — knowing exactly which ones you use
-- Silence as the replacement — not another word, just a pause
-- Recording and counting: the only way to see what you actually do vs what you think you do
+- Redirecting without dismissing: "I want to bring us back to the main question here..."
+- Summarising before moving on: "So what I'm hearing is... — does that capture it?"
+- The facilitator's role: not participating in every point, but managing the flow of all points
 
 ---
 

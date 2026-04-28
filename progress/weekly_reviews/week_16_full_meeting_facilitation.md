@@ -1,13 +1,12 @@
-# Week 19 — Downward Intonation: Statements That Sound Like Statements
-*Phase 5: Delivery and Presence | 2026-08-24 to 2026-08-28*
+# Week 16 — Full Meeting Facilitation
+*Phase 4: Meeting Facilitation | 2026-08-10 to 2026-08-14*
 
 ## Key Topic
-Using downward intonation at the end of statements so they land with confidence — not rising intonation which makes statements sound like questions and signals uncertainty.
+Bringing all meeting facilitation skills together — opening, managing flow, redirecting, summarising, and closing — in one integrated practice session and then in a real meeting.
 
 ## Key Concepts Covered
-- Rising vs falling intonation: the difference between "I think we should do this?" and "I think we should do this."
-- Why Japanese speakers often default to rising intonation as a politeness signal
-- BoldVoice app practice for intonation coaching
+- The facilitator arc: open strong → invite structured input → manage flow → summarise → close with decision
+- Month 4 milestone review: confident use of anchor phrases and control of the room
 
 ---
 

@@ -1,12 +1,13 @@
-# Week 16 — Full Meeting Facilitation
-*Phase 4: Meeting Facilitation | 2026-08-03 to 2026-08-07*
+# Week 18 — Eliminating Filler Words
+*Phase 5: Delivery and Presence | 2026-08-24 to 2026-08-28*
 
 ## Key Topic
-Bringing all meeting facilitation skills together — opening, managing flow, redirecting, summarising, and closing — in one integrated practice session and then in a real meeting.
+Identifying and removing filler words (um, uh, like, you know, kind of, sort of) and replacing them with deliberate silence — the single biggest delivery improvement most speakers can make.
 
 ## Key Concepts Covered
-- The facilitator arc: open strong → invite structured input → manage flow → summarise → close with decision
-- Month 4 milestone review: confident use of anchor phrases and control of the room
+- Your personal filler word inventory — knowing exactly which ones you use
+- Silence as the replacement — not another word, just a pause
+- Recording and counting: the only way to see what you actually do vs what you think you do
 
 ---
 

@@ -1,5 +1,5 @@
 # Week 17 — Deliberate Pace and Pause
-*Phase 5: Delivery and Presence | 2026-08-10 to 2026-08-14*
+*Phase 5: Delivery and Presence | 2026-08-17 to 2026-08-21*
 
 ## Key Topic
 Slowing down and using deliberate pauses to signal confidence and give your words weight — the opposite of rushing through points to fill silence.

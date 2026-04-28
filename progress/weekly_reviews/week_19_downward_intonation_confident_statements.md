@@ -1,13 +1,13 @@
-# Week 14 — Redirecting and Summarising in Meetings
-*Phase 4: Meeting Facilitation | 2026-07-20 to 2026-07-24*
+# Week 19 — Downward Intonation: Statements That Sound Like Statements
+*Phase 5: Delivery and Presence | 2026-08-31 to 2026-09-04*
 
 ## Key Topic
-Using language to manage meeting flow — redirecting when discussions go off track and summarising before moving to the next point to signal clarity and control.
+Using downward intonation at the end of statements so they land with confidence — not rising intonation which makes statements sound like questions and signals uncertainty.
 
 ## Key Concepts Covered
-- Redirecting without dismissing: "I want to bring us back to the main question here..."
-- Summarising before moving on: "So what I'm hearing is... — does that capture it?"
-- The facilitator's role: not participating in every point, but managing the flow of all points
+- Rising vs falling intonation: the difference between "I think we should do this?" and "I think we should do this."
+- Why Japanese speakers often default to rising intonation as a politeness signal
+- BoldVoice app practice for intonation coaching
 
 ---
 
