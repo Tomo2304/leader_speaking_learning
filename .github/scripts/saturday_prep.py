@@ -1,12 +1,17 @@
 import os, re, json, urllib.request, urllib.parse
-from datetime import date, timedelta
+from datetime import date, timedelta, datetime
+from zoneinfo import ZoneInfo
 
 REPO_BASE = "https://github.com/Tomo2304/leader_speaking_learning/blob/main"
 TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
+MELBOURNE = ZoneInfo("Australia/Melbourne")
+now_mel = datetime.now(MELBOURNE)
+if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and now_mel.hour != 21:
+    raise SystemExit(0)
 start = date(2026, 4, 25)  # first Saturday
-today = date.today()
+today = now_mel.date()
 
 with open("plan/weekly_schedule.md", encoding="utf-8") as f:
     schedule = f.read()
