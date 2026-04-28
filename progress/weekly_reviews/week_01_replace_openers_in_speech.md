@@ -47,3 +47,12 @@ Building habit awareness in live speech — actively replacing apologetic opener
 
 ## Your Notes
 
+**Day 2 (2026-04-28) — *Speak Up* podcast takeaways**
+
+Three principles for any spoken contribution:
+1. **Audience first** — what do they need from this, not what do I want to say
+2. **Clarity and interest** — strip out the noise, find the compelling angle
+3. **Add a recommendation** — move from informing to leading
+
+Default speaking order: **goal → problem → solution**
+

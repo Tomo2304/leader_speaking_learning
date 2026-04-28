@@ -6,14 +6,14 @@
 
 ## Progress Tracker
 
-*Auto-calculated from daily log. Plan: 130 days total (26 weeks × 5 days, starting 2026-04-20)*
+*Auto-calculated from daily log. Plan: 130 days total (26 weeks × 5 days, starting 2026-04-27)*
 
 | Metric | Value |
 |---|---|
 | Total plan days | 130 |
-| Days completed (Done or Partial) | 0 |
+| Days completed (Done or Partial) | 2 |
 | Days skipped | 0 |
-| % complete | 0% |
+| % complete | 1.5% |
 
 *This table is updated by Claude each time an evening check-in is logged.*
 
@@ -25,7 +25,8 @@
 
 | Date | Day # | Status | What I practised | What I noticed |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| 2026-04-27 | 1 | ✅ | Practice 2 strong phrases aloud — 10 times each | — |
+| 2026-04-28 | 2 | ✅ | Listen to *Speak Up* podcast | Two key takeaways — (1) audience first, clarity/interest, add a recommendation (informing → leading); (2) speak in goal → problem → solution order. |
 
 ---
 
