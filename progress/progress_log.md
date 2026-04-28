@@ -6,14 +6,14 @@
 
 ## Progress Tracker
 
-*Auto-calculated from daily log. Plan: 130 days total (26 weeks × 5 days, starting 2026-04-20)*
+*Auto-calculated from daily log. Plan: 130 days total (26 weeks × 5 days, starting 2026-04-27)*
 
 | Metric | Value |
 |---|---|
 | Total plan days | 130 |
-| Days completed (Done or Partial) | 0 |
-| Days skipped | 0 |
-| % complete | 0% |
+| Days completed (Done or Partial) | 1 |
+| Days skipped | 1 |
+| % complete | 1% |
 
 *This table is updated by Claude each time an evening check-in is logged.*
 
@@ -25,7 +25,8 @@
 
 | Date | Day # | Status | What I practised | What I noticed |
 |---|---|---|---|---|
-| — | — | — | — | — |
+| 2026-04-27 | 1 | ✗ | — | — |
+| 2026-04-28 | 2 | ✅ | Listen to Speak Up podcast | — |
 
 ---
 
@@ -82,4 +83,3 @@ One real example that justifies your scores:
 | Month 3 (~2026-07-19) | Emails to executives consistently under 150 words | — | — |
 | Month 4 (~2026-08-19) | Using anchor phrases confidently when running meetings | — | — |
 | Month 6 (~2026-10-19) | Contributing confidently and openly in AI Steering Committee | — | — |
-
