@@ -38,6 +38,13 @@ def get_week_content(target):
     return m.group(1) if m else ""
 
 def get_task(target, week_content):
+    if target.weekday() >= 5:
+        wk_m = re.search(
+            r'\|\s*\*{0,2}Weekend[^\|]*\*{0,2}\s*\|([^\|]+)\|([^\|]*)\|',
+            week_content, re.IGNORECASE
+        )
+        if wk_m:
+            return wk_m.group(1).strip().strip('*'), "20–30"
     day_abbr = target.strftime("%A")[:3]
     day_m = re.search(
         rf'\|\s*\*{{0,2}}{day_abbr}[^\|]{{0,15}}\*{{0,2}}\s*\|([^\|]+)\|([^\|]*)\|?([^\|]*)\|?',
@@ -53,18 +60,33 @@ def get_task(target, week_content):
     focus_m = re.search(r'\*\*Focus: ([^\*\n]+)\*\*', week_content)
     return (focus_m.group(1).strip() if focus_m else "Practice today's focus"), "15"
 
+is_weekend = today.weekday() >= 5
 today_task, _ = get_task(today, get_week_content(today))
 tomorrow_task, tomorrow_dur = get_task(tomorrow, get_week_content(tomorrow))
 
+if is_weekend:
+    header = f"🎬 Weekend session | {weekday} {date_display}"
+    log_prompt = "How did it go? (Weekend shadowing isn't tracked toward your 130 days — just enjoy the practice.)"
+else:
+    header = f"Day {day_num} / 130 | {weekday} {date_display}"
+    log_prompt = (
+        f"How did it go? Open Claude and tell me:\n"
+        f"<i>\"Day {day_num} done\"</i> / <i>\"Day {day_num} partial\"</i> / <i>\"Day {day_num} skipped\"</i>"
+    )
+
+tomorrow_label = (
+    f"<b>Tomorrow — Day {tomorrow_day_num}:</b>" if not is_weekend
+    else f"<b>Monday — Day {tomorrow_day_num}:</b>"
+)
+
 msg = f"""<b>Evening check-in, Tomo! 🌙</b>
 
-Day {day_num} / 130 | {weekday} {date_display}
+{header}
 
 <b>Today's task:</b> {today_task}
-How did it go? Open Claude and tell me:
-<i>"Day {day_num} done"</i> / <i>"Day {day_num} partial"</i> / <i>"Day {day_num} skipped"</i>
+{log_prompt}
 
-<b>Tomorrow — Day {tomorrow_day_num}:</b> {tomorrow_task} ({tomorrow_dur} min)
+{tomorrow_label} {tomorrow_task} ({tomorrow_dur} min)
 Set aside your {tomorrow_dur} minutes before the day starts.
 
 ⚡ This week: capture one real meeting moment — what you said vs. what PREP/BLUF would have produced. Log it in your week's review file.

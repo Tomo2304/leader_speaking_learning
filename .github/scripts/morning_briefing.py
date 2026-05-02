@@ -52,16 +52,27 @@ week_pos = schedule.find(f'### Week {current_num}')
 phase_m = re.search(r'## (Phase \d+[^\n]+)', schedule[:week_pos])
 phase = re.sub(r'\s*\(Weeks[^\)]+\)', '', phase_m.group(1)).strip() if phase_m else "Phase 1 – Foundation"
 
+is_weekend = today.weekday() >= 5  # Sat or Sun
+
 # Today's task - look for day-specific row first
-day_abbr = weekday[:3]
-day_m = re.search(
-    rf'\|\s*\*{{0,2}}{day_abbr}[^\|]{{0,15}}\*{{0,2}}\s*\|([^\|]+)\|([^\|]*)\|?([^\|]*)\|?',
-    week_content, re.IGNORECASE
-)
+if is_weekend:
+    day_m = re.search(
+        r'\|\s*\*{0,2}Weekend[^\|]*\*{0,2}\s*\|([^\|]+)\|([^\|]*)\|',
+        week_content, re.IGNORECASE
+    )
+else:
+    day_abbr = weekday[:3]
+    day_m = re.search(
+        rf'\|\s*\*{{0,2}}{day_abbr}[^\|]{{0,15}}\*{{0,2}}\s*\|([^\|]+)\|([^\|]*)\|?([^\|]*)\|?',
+        week_content, re.IGNORECASE
+    )
 if day_m:
     activity = day_m.group(1).strip().strip('*')
     how = day_m.group(2).strip()
-    duration = "30" if ('⏱' in day_m.group(0) or '30' in day_m.group(3)) else "15"
+    if is_weekend:
+        duration = "20–30"
+    else:
+        duration = "30" if ('⏱' in day_m.group(0) or '30' in day_m.group(3)) else "15"
     task = activity + (f"\n{how}" if how else "")
 else:
     home_m = re.search(r'\|\s*\*?\*?Home\*?\*?\s*\|([^\|]+)\|([^\|]*)\|', week_content, re.IGNORECASE)
@@ -72,7 +83,7 @@ else:
             task += f"\n{how}"
     else:
         task = f"Practise this week's focus: {focus}"
-    duration = "15"
+    duration = "20–30" if is_weekend else "15"
 
 # Resources — auto-attach links for resources mentioned in today's task
 resources = []
@@ -164,9 +175,11 @@ motivations = [
 ]
 motivation = motivations[today.toordinal() % len(motivations)]
 
+day_header = f"🎬 Weekend session | {weekday} {date_display}" if is_weekend else f"Day {day_num} / 130 | {weekday} {date_display}"
+
 msg = f"""<b>Good morning, Tomo! 🌅</b>
 
-Day {day_num} / 130 | {weekday} {date_display}
+{day_header}
 
 <i>{motivation}</i>
 
