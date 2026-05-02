@@ -8,7 +8,7 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 MELBOURNE = ZoneInfo("Australia/Melbourne")
 now_mel = datetime.now(MELBOURNE)
-if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and now_mel.hour != 21:
+if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and now_mel.hour != 9:
     raise SystemExit(0)
 start = date(2026, 4, 25)  # first Saturday
 today = now_mel.date()
@@ -153,10 +153,19 @@ if 'vocabulary' in content_lower:
 
 resources_str = "\n".join(resources) if resources else "(see schedule for details)"
 
+this_weekend_m = re.search(
+    r'\|\s*\*{0,2}Weekend[^\|]*\*{0,2}\s*\|([^\|]+)\|([^\|]*)\|',
+    this_content, re.IGNORECASE
+) if this_content else None
+this_weekend_line = (
+    f"\n🎬 Weekend (20–30 min): {this_weekend_m.group(1).strip()}"
+    if this_weekend_m else ""
+)
+
 recap_section = (
     f"Plan hasn't started yet — Week 1 kicks off Monday! Get ready. 🚀"
     if current_num == 0
-    else f"Focus: {this_focus}\nDays: {done_w} done / {partial_w} partial / {skipped_w} skipped"
+    else f"Focus: {this_focus}\nDays: {done_w} done / {partial_w} partial / {skipped_w} skipped{this_weekend_line}"
 )
 
 msg = f"""<b>Weekly prep, Tomo! 📚</b>

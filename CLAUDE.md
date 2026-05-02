@@ -116,7 +116,7 @@ Notifications are delivered via **GitHub Actions → Telegram** (CCR routines ex
 |---|---|---|
 | Morning Task Briefing | 7:00am Mon–Fri | `.github/scripts/morning_briefing.py` |
 | Evening Check-in | 8:00pm Mon–Fri | `.github/scripts/evening_checkin.py` |
-| Saturday Weekly Prep | 9:00pm Saturday | `.github/scripts/saturday_prep.py` |
+| Saturday Weekly Prep | 9:00am Saturday | `.github/scripts/saturday_prep.py` |
 
 **How notifications work:**
 - Morning: reads `plan/weekly_schedule.md` + `progress/progress_log.md`, sends today's task + day counter + motivational sentence + GitHub resource links to Telegram

@@ -2,8 +2,8 @@ name: Saturday Weekly Prep
 
 on:
   schedule:
-    - cron: '0 11 * * 6'  # 9:00pm AEST  (UTC+10) Saturday
-    - cron: '0 10 * * 6'  # 9:00pm AEDT (UTC+11) Saturday
+    - cron: '0 23 * * 5'  # 9:00am AEST  (UTC+10) Saturday
+    - cron: '0 22 * * 5'  # 9:00am AEDT (UTC+11) Saturday
   workflow_dispatch:
 
 jobs:
