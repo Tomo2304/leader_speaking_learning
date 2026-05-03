@@ -11,9 +11,9 @@
 | Metric | Value |
 |---|---|
 | Total plan days | 130 |
-| Days completed (Done or Partial) | 2 |
+| Days completed (Done or Partial) | 5 |
 | Days skipped | 0 |
-| % complete | 1.5% |
+| % complete | 3.8% |
 
 *This table is updated by Claude each time an evening check-in is logged.*
 
@@ -27,6 +27,9 @@
 |---|---|---|---|---|
 | 2026-04-27 | 1 | ✅ | Practice 2 strong phrases aloud — 10 times each | — |
 | 2026-04-28 | 2 | ✅ | Listen to *Speak Up* podcast | Two key takeaways — (1) audience first, clarity/interest, add a recommendation (informing → leading); (2) speak in goal → problem → solution order. |
+| 2026-04-29 | 3 | ✅ | Record 2-min voice memo — then analyse it | Baseline recording on engagement signals project. Counted weak openers: "So I'm working on…", soft/descriptive framing, "23 or 25" hedging, wordy passive ("The challenge that we have right now is…"), "could create complexity" hedging. |
+| 2026-04-30 | 4 | ✅ | Rewrite Wednesday's script with strong openers | Rewrote using "The key point is…", "The outcome we're driving…", "The key decision in front of us is…", "The key risk is…", "I recommend…". Sounds directive, not descriptive. |
+| 2026-05-01 | 5 | ✅ | Review vocabulary bank + reflect on the week | Caught myself using "I think", "sorry but", "maybe", "we should do X", "I might be wrong but" repeatedly with team and close stakeholders. Decision: drop hedges in *all* work settings (close colleagues included) — practising consistently is what makes the new pattern stick under pressure. Keep warmth via collaborative phrases ("what's your take?", "happy to be challenged on this", "let's figure this out together") rather than self-undermining hedges. |
 
 ---
 

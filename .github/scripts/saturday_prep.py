@@ -153,19 +153,10 @@ if 'vocabulary' in content_lower:
 
 resources_str = "\n".join(resources) if resources else "(see schedule for details)"
 
-this_weekend_m = re.search(
-    r'\|\s*\*{0,2}Weekend[^\|]*\*{0,2}\s*\|([^\|]+)\|([^\|]*)\|',
-    this_content, re.IGNORECASE
-) if this_content else None
-this_weekend_line = (
-    f"\n🎬 Weekend (20–30 min): {this_weekend_m.group(1).strip()}"
-    if this_weekend_m else ""
-)
-
 recap_section = (
     f"Plan hasn't started yet — Week 1 kicks off Monday! Get ready. 🚀"
     if current_num == 0
-    else f"Focus: {this_focus}\nDays: {done_w} done / {partial_w} partial / {skipped_w} skipped{this_weekend_line}"
+    else f"Focus: {this_focus}\nDays: {done_w} done / {partial_w} partial / {skipped_w} skipped"
 )
 
 msg = f"""<b>Weekly prep, Tomo! 📚</b>

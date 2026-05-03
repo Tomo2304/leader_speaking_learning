@@ -38,6 +38,8 @@
 | "I'm not sure but maybe..." | "Based on what I know, I'd say..." | Sharing an uncertain opinion |
 | "I think we should..." | "My recommendation is..." / "The best course of action is..." | Making a suggestion |
 | "I might be wrong but..." | "My position is..." | Stating a view with confidence |
+| "I think maybe..." | "My view is..." / "Based on what I know..." | Sharing a view without hedging |
+| "Maybe we could try..." | "What's your take?" / "Let's figure this out together." | Inviting input or collaboration instead of disguising a question as a hedged suggestion |
 | "We need to fix this" | "We need to address this as a priority" | Flagging an issue |
 | "I looked at the data" | "The analysis indicates..." / "The data supports..." | Referencing your work |
 | "It's a big problem" | "This represents a significant risk to..." | Describing impact |
@@ -117,6 +119,8 @@
 | Acknowledging complexity briefly | "There are several factors at play — the most important is..." |
 | Inviting a decision | "I'd like your view on which direction to proceed with." |
 | Closing with clarity | "To summarise — [conclusion]. The next step is [action]." |
+| Stating a view while inviting alignment | "My view is X — does that line up with yours?" |
+| Signalling openness without weakening your view | "Happy to be challenged on this." |
 
 ---
 
@@ -136,6 +140,7 @@
 | Acknowledging then defending | "That's a fair challenge — here's how I see it." |
 | Restating your position | "Let me clarify my position." |
 | Managing an interruption | "I'd like to finish my point before we discuss that." |
+| Inviting challenge from confidence | "Happy to be challenged on this." |
 
 ---
 
@@ -163,6 +168,8 @@
 | Closing a discussion | "Let's land on a decision here. My recommendation is..." |
 | Inviting input without losing control | "I want to hear two or three perspectives on this before we decide." |
 | Handling disagreement | "I hear a different view here — let's work through it." |
+| Inviting a quick perspective | "What's your take?" |
+| Framing as collaborative problem-solving | "Let's figure this out together." |
 
 ---
 
@@ -185,5 +192,8 @@
 
 | Date | Original phrasing | Improved phrasing | Why it's stronger |
 |---|---|---|---|
-| — | — | — | — |
+| 2026-05-01 | "I think maybe..." | "My view is..." / "Based on what I know..." | Removes double-hedge ("think" + "maybe"); states a position instead of guessing aloud |
+| 2026-05-01 | "I think we should do X" | "My view is X — does that line up with yours?" | Keeps your view clear and directive while inviting alignment — warm without hedging |
+| 2026-05-01 | "Sorry, I might be wrong but..." | "Happy to be challenged on this." | Signals openness from a position of confidence rather than pre-emptive apology |
+| 2026-05-01 | "Maybe we could try..." | "What's your take?" / "Let's figure this out together." | Invites input directly instead of disguising a question as a hedged suggestion |
 
