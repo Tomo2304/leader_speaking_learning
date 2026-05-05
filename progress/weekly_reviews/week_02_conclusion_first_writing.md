@@ -23,7 +23,7 @@ Bottom Line Up Front (BLUF) — restructuring written communication so the concl
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| "Maybe we could give this a try?" | "How open-minded would you be about giving this a try?" | Floating a proposal that may face resistance — extracted from *Exactly What to Say* (Jones, 2017). Positions listener as open-minded; doesn't hedge speaker's view. Don't use for direct exec recommendations. |
 
 ---
 

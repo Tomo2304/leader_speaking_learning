@@ -121,6 +121,7 @@
 | Closing with clarity | "To summarise — [conclusion]. The next step is [action]." |
 | Stating a view while inviting alignment | "My view is X — does that line up with yours?" |
 | Signalling openness without weakening your view | "Happy to be challenged on this." |
+| Floating a proposal that may face resistance | "How open-minded would you be about..." (e.g. "...giving this approach a try?") |
 
 ---
 
@@ -196,4 +197,5 @@
 | 2026-05-01 | "I think we should do X" | "My view is X — does that line up with yours?" | Keeps your view clear and directive while inviting alignment — warm without hedging |
 | 2026-05-01 | "Sorry, I might be wrong but..." | "Happy to be challenged on this." | Signals openness from a position of confidence rather than pre-emptive apology |
 | 2026-05-01 | "Maybe we could try..." | "What's your take?" / "Let's figure this out together." | Invites input directly instead of disguising a question as a hedged suggestion |
+| 2026-05-05 | "Maybe we could give this a try?" | "How open-minded would you be about giving this a try?" | Positions the listener as open-minded (lowers resistance) without the speaker hedging their own view — extracted from *Exactly What to Say* (Jones, 2017). Use for proposals needing buy-in, not for direct recommendations. |
 

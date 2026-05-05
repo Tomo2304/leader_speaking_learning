@@ -11,9 +11,9 @@
 | Metric | Value |
 |---|---|
 | Total plan days | 130 |
-| Days completed (Done or Partial) | 5 |
+| Days completed (Done or Partial) | 7 |
 | Days skipped | 0 |
-| % complete | 3.8% |
+| % complete | 5.4% |
 
 *This table is updated by Claude each time an evening check-in is logged.*
 
@@ -30,6 +30,8 @@
 | 2026-04-29 | 3 | ✅ | Record 2-min voice memo — then analyse it | Baseline recording on engagement signals project. Counted weak openers: "So I'm working on…", soft/descriptive framing, "23 or 25" hedging, wordy passive ("The challenge that we have right now is…"), "could create complexity" hedging. |
 | 2026-04-30 | 4 | ✅ | Rewrite Wednesday's script with strong openers | Rewrote using "The key point is…", "The outcome we're driving…", "The key decision in front of us is…", "The key risk is…", "I recommend…". Sounds directive, not descriptive. |
 | 2026-05-01 | 5 | ✅ | Review vocabulary bank + reflect on the week | Caught myself using "I think", "sorry but", "maybe", "we should do X", "I might be wrong but" repeatedly with team and close stakeholders. Decision: drop hedges in *all* work settings (close colleagues included) — practising consistently is what makes the new pattern stick under pressure. Keep warmth via collaborative phrases ("what's your take?", "happy to be challenged on this", "let's figure this out together") rather than self-undermining hedges. |
+| 2026-05-04 | 6 | ✅ | Rewrite one sent email — conclusion first | — |
+| 2026-05-05 | 7 | ✅ | Read *Exactly What to Say* — 10–15 pages | Extracted "How open-minded would you be about..." for vocab bank. Filtered out "I'm not sure if it's for you, but..." — useful for social/sales contexts but a hedge that works against leadership BLUF goal. |
 
 ---
 

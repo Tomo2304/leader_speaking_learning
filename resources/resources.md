@@ -1,6 +1,6 @@
 # Leadership Communication — Resource Library
 
-*Last updated: 2026-04-20. Maintained and updated automatically as better or newer resources are found.*
+*Last updated: 2026-05-05. Maintained and updated automatically as better or newer resources are found.*
 *Goal: Well-rounded leadership communication style drawing from diverse leaders across gender, culture, and industry.*
 
 ---
@@ -13,13 +13,13 @@
 
 | Priority | Title | Author | In schedule? | Why it's relevant |
 |---|---|---|---|---|
-| **Start here** | *The Pyramid Principle* | Barbara Minto | ✅ W8 (read fully) | Core fix for the bottom-up communication habit — conclusion first, structured thinking. Non-negotiable for your gap. |
-| **Start here** | *Think Faster, Talk Smarter* | Matt Abrahams (2023) | ✅ W4 (read fully) | Written specifically for strong thinkers who freeze under pressure — your exact challenge. Covers handling unexpected questions, structuring thoughts under pressure, responding confidently when unprepared. |
-| **Start here** | *Crucial Conversations* | Patterson, Grenny et al. | ✅ W12–14 (selective) | Holding position when challenged. Directly addresses the Japanese cultural pattern of going silent under pushback — critical for AI Steering Committee. |
-| **High** | *Exactly What to Say* | Phil M. Jones | ✅ W2 (extract phrases) | Phrase weapon system, not a "read" book. Extract 2–3 phrases per week directly into your Vocabulary Bank and use them in real meetings. |
-| **High** | *Executive Presence* | Sylvia Ann Hewlett | ⏸ Deferred (post-plan) | Explicitly addresses non-native speakers in executive rooms. High value for your AI Steering goal — read after the 26 weeks. |
-| **High** | *Supercommunicators* | Charles Duhigg (2024) | ⏸ Deferred (post-plan) | Adapting communication to who's in the room — strong value for cross-functional and exec contexts. Removed from schedule due to limited reading time, not low value. |
-| **Medium** | *Radical Candor* | Kim Scott | ❌ Not scheduled | Direct, clear, kind feedback to your team. Useful for mentoring junior analysts — secondary goal vs your stated exec-comm focus. |
+| **Start here** | *The Pyramid Principle: Logic in Writing and Thinking* (3rd ed, Pearson, 2009 — ISBN 978-0273710516) | Barbara Minto | ✅ W8 (read fully) | Core fix for the bottom-up communication habit — conclusion first, structured thinking. Non-negotiable for your gap. |
+| **Start here** | *Think Faster, Talk Smarter: How to Speak Successfully When You're Put on the Spot* (Simon Element, 2023 — ISBN 978-1668010303) | Matt Abrahams | ✅ W4 (read fully) | Written specifically for strong thinkers who freeze under pressure — your exact challenge. Covers handling unexpected questions, structuring thoughts under pressure, responding confidently when unprepared. |
+| **Start here** | *Crucial Conversations: Tools for Talking When Stakes Are High* (**3rd Edition, 2021** — ISBN 978-1260474183) | Joseph Grenny, Kerry Patterson, Ron McMillan, Al Switzler, Emily Gregory | ✅ W12–14 (selective) | Holding position when challenged. Directly addresses the Japanese cultural pattern of going silent under pushback — critical for AI Steering Committee. 3rd edition adds remote/hybrid coverage. |
+| **High** | *Exactly What to Say: The Magic Words for Influence and Impact* (Box of Tricks, 2017 — ISBN 978-1989025000) | Phil M. Jones | ✅ W2 (extract phrases) | Phrase weapon system, not a "read" book. Extract 2–3 phrases per week directly into your Vocabulary Bank and use them in real meetings. *Note: do not pick up the industry spin-offs (Real Estate, Sales) — original only.* |
+| **High** | *Executive Presence 2.0: Leadership in an Age of Inclusion* (HarperBusiness, **2023** — ISBN 978-0063270930) | Sylvia Ann Hewlett | ⏸ Deferred (post-plan) | Explicitly addresses non-native speakers in executive rooms. 2.0 is the updated edition — preferred over the 2014 original. High value for your AI Steering goal — read after the 26 weeks. |
+| **High** | *Supercommunicators: How to Unlock the Secret Language of Connection* (Random House, 2024 — ISBN 978-0593243919) | Charles Duhigg | ⏸ Deferred (post-plan) | Adapting communication to who's in the room — strong value for cross-functional and exec contexts. Removed from schedule due to limited reading time, not low value. |
+| **Medium** | *Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity* (**Fully Revised & Updated Edition, 2019** — ISBN 978-1250235374) | Kim Scott | ❌ Not scheduled | Direct, clear, kind feedback to your team. Useful for mentoring junior analysts — secondary goal vs your stated exec-comm focus. |
 | **Later** | *Dare to Lead* | Brené Brown | ❌ Not scheduled | Courage and vulnerability in leadership — tangential to your core gap. |
 | **Later** | *Emotional Intelligence 2.0* | Bradberry & Greaves | ❌ Not scheduled | Generic self-awareness content — not specific enough to your communication gap. |
 
