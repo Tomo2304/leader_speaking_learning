@@ -198,4 +198,7 @@
 | 2026-05-01 | "Sorry, I might be wrong but..." | "Happy to be challenged on this." | Signals openness from a position of confidence rather than pre-emptive apology |
 | 2026-05-01 | "Maybe we could try..." | "What's your take?" / "Let's figure this out together." | Invites input directly instead of disguising a question as a hedged suggestion |
 | 2026-05-05 | "Maybe we could give this a try?" | "How open-minded would you be about giving this a try?" | Positions the listener as open-minded (lowers resistance) without the speaker hedging their own view — extracted from *Exactly What to Say* (Jones, 2017). Use for proposals needing buy-in, not for direct recommendations. |
+| 2026-05-08 | "I believe we would require X" | "We need X" / "This requires X" | Drops a stacked hedge ("I believe" + conditional "would"). Direct, not tentative. Use whenever stating a requirement to stakeholders. |
+| 2026-05-08 | "We need to clarify the requirements with you" | "We need to agree who owns X" | Names the actual decision instead of the abstract category ("requirements"). Forces a concrete outcome from the meeting. |
+| 2026-05-08 | "Following our brief discussion in the LH weekly catch-up, I've arranged a meeting to align on..." | "We need to agree [decision]. I've arranged a meeting on this." | BLUF for meeting-invite emails: lead with the decision required, not the meeting logistics or the conversation that prompted it. |
 

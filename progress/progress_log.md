@@ -11,9 +11,9 @@
 | Metric | Value |
 |---|---|
 | Total plan days | 130 |
-| Days completed (Done or Partial) | 7 |
+| Days completed (Done or Partial) | 10 |
 | Days skipped | 0 |
-| % complete | 5.4% |
+| % complete | 7.7% |
 
 *This table is updated by Claude each time an evening check-in is logged.*
 
@@ -32,6 +32,9 @@
 | 2026-05-01 | 5 | ✅ | Review vocabulary bank + reflect on the week | Caught myself using "I think", "sorry but", "maybe", "we should do X", "I might be wrong but" repeatedly with team and close stakeholders. Decision: drop hedges in *all* work settings (close colleagues included) — practising consistently is what makes the new pattern stick under pressure. Keep warmth via collaborative phrases ("what's your take?", "happy to be challenged on this", "let's figure this out together") rather than self-undermining hedges. |
 | 2026-05-04 | 6 | ✅ | Rewrite one sent email — conclusion first | — |
 | 2026-05-05 | 7 | ✅ | Read *Exactly What to Say* — 10–15 pages | Extracted "How open-minded would you be about..." for vocab bank. Filtered out "I'm not sure if it's for you, but..." — useful for social/sales contexts but a hedge that works against leadership BLUF goal. |
+| 2026-05-06 | 8 | ✅ | Rewrite a second email — conclusion first | — |
+| 2026-05-07 | 9 | ✅ | Apply conclusion-first to every email you send today | — |
+| 2026-05-08 | 10 | ✅ | Weekly check-in with Claude (Week 2) | Conclusion-first 3/5, Brevity 2/5. Writing improving (complaints update, Kaltura email rewrite); speaking is the gap — Week 3 targets verbal BLUF. Brevity wasn't actively tracked this week. Added daily Mon–Fri vocab-target reminder to morning Telegram briefing (no targets picked Week 2 — fresh start Week 3). |
 
 ---
 
@@ -72,8 +75,34 @@ One real example that justifies your scores:
 
 ---
 
-#### Week of [date]
-*Paste your completed template here after each session*
+#### Week of 2026-05-04 (Week 2 — Conclusion-first writing)
+
+Completed this week:
+- Mon: Rewrote a sent email — conclusion first
+- Tue: Read *Exactly What to Say* — extracted "How open-minded would you be about..."
+- Wed: Rewrote a second email — conclusion first
+- Thu: Applied conclusion-first to every email sent that day
+- Fri: Weekly check-in (this session)
+
+Skipped / missed:
+- Did not pick 3 vocab targets on Monday — root cause: no daily task prompts it. Fixed by adding a Mon–Fri vocab reminder to the morning Telegram briefing.
+
+One real situation I applied something:
+- Written update for the complaints team on adviser-complaint discovery. Initial draft was bottom-up; caught myself mid-draft and restructured to BLUF (conclusion → reasons → next steps). Conclusion: adviser complaints are low priority and not a strong signal to sales. Reasons: 1–3/month volume + identification challenges. Next step: validate with sales using complaints data.
+
+How it went:
+- BLUF in writing is becoming a habit I can catch in real time. Speaking is still default-bottom-up because there's no time to revise.
+
+Current focus for next week (set by Claude):
+- **Week 3 — Verbal BLUF / conclusion-first in speech.** Drill 2–3 spoken openers ("My recommendation is…", "The key point is…", "The bottom line is…") until they fire automatically before the bottom-up pattern can. Goal: close the writing-vs-speaking gap.
+
+Self-score this week (1–5):
+- Conclusion-first: 3 — strong in writing, weak in speech
+- Brevity: 2 — not actively tracked this week; conclusion-first dominated focus
+One real example that justifies your scores:
+- Strong: complaints update structured BLUF in real time. Weak: Kaltura email rewrite cut hedges but still ran ~95 words of intro before the table when ~60 was achievable.
+
+---
 
 ---
 

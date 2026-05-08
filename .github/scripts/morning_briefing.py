@@ -1,4 +1,4 @@
-import os, re, json, urllib.request, urllib.parse
+import os, re, json, glob, urllib.request, urllib.parse
 from datetime import date, timedelta, datetime
 from zoneinfo import ZoneInfo
 
@@ -175,6 +175,25 @@ motivations = [
 ]
 motivation = motivations[today.toordinal() % len(motivations)]
 
+# Vocab targets reminder (Mon–Fri only). Monday = pick; Tue–Fri = use, with link to week file.
+vocab_line = ""
+if not is_weekend:
+    if weekday == "Monday":
+        vocab_line = (
+            f'\n🎯 <b>Vocab targets:</b> Pick 3 phrases from '
+            f'<a href="{REPO_BASE}/vocabulary/vocabulary_bank.md">vocabulary_bank.md</a> '
+            f"to use this week — add them to this week's review file.\n"
+        )
+    else:
+        review_matches = sorted(glob.glob(f"progress/weekly_reviews/week_{current_num:02d}_*.md"))
+        if review_matches:
+            review_path = review_matches[0].replace("\\", "/")
+            vocab_line = (
+                f'\n🎯 <b>Vocab targets:</b> Use your 3 vocab targets from '
+                f'<a href="{REPO_BASE}/{review_path}">this week\'s review file</a> '
+                f"today — even one out loud counts.\n"
+            )
+
 day_header = f"🎬 Weekend session | {weekday} {date_display}" if is_weekend else f"Day {day_num} / 130 | {weekday} {date_display}"
 
 msg = f"""<b>Good morning, Tomo! 🌅</b>
@@ -190,7 +209,7 @@ msg = f"""<b>Good morning, Tomo! 🌅</b>
 
 <b>Resources:</b>
 {resources_str}
-
+{vocab_line}
 Progress: {done_count} done, {skipped_count} skipped so far."""
 
 data = json.dumps({"chat_id": CHAT_ID, "text": msg, "parse_mode": "HTML"}).encode()
