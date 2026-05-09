@@ -82,7 +82,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Give your view first in a real meeting today | Before any meeting today, pick one moment where you'll give your view. When that moment comes — pause 3 seconds, find your ONE main point, and lead with it: "My view is..." or "My recommendation is...". Say it first, then stop. Add context only if asked. | 15 min |
 | Thu | Month 1 milestone check | Open `progress/progress_log.md`. Answer honestly: (1) Have you stopped apologetic openers in meetings? (2) Are your emails starting with the conclusion? (3) Write one real situation where you applied this well. Update the milestone section. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Share your Month 1 milestone answers from Thursday. Tell me what worked and what didn't. I'll confirm whether you're on track for Phase 2 and set your focus for next week. | 15 min |
-| Weekend | Shadow Sundar Pichai — interview clip | Search "Sundar Pichai interview" on YouTube. Notice how he answers every question — calm, measured, point first. Shadow one of his answers out loud. | 20–30 min |
+| Weekend | Shadow Sundar Pichai — Bloomberg "The Circuit" interview | Watch [Sundar Pichai on The Circuit with Emily Chang](https://www.youtube.com/watch?v=5puu3kN9l7c) — focus on **12:00–15:00** where Chang presses him on competitive pressure from OpenAI. Listen for the **micro-pause before each answer** and how he opens with one framing sentence ("Look, I think...") before unfolding evidence. Shadow one full answer out loud. | 20–30 min |
 
 *Real-world challenge all week: In one meeting — give your view with the conclusion first, before any context.*
 
@@ -105,7 +105,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Write 3 PREP responses — work topics | Pick 3 topics you might actually be asked about at work this week (your data project, your team's approach, a recent finding). Write a full PREP for each. Focus on the Point — make it one clear sentence. Does the Point match what you found in Monday's drill? | 15 min |
 | Thu | Review your PREP responses — tighten the Points | Read back all 3 PREP responses from Wednesday. For each one, ask: is my Point clear in one sentence? Does my Reason directly support it? Cut any sentence that repeats the same idea. Rewrite any Point that is longer than one sentence. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me how the week went and share one PREP response you wrote. I'll give you feedback on the structure and set your focus for Week 6. | 15 min |
-| Weekend | Shadow Amy Edmondson — TED Talk | Watch Amy Edmondson's "Building a psychologically safe workplace" TED Talk. Notice her structured thinking — she always signals what's coming before she says it. Shadow one of her longer answers. | 20–30 min |
+| Weekend | Shadow Amy Edmondson — TEDxHGSE "Building a psychologically safe workplace" | Watch [the TEDxHGSE talk](https://www.youtube.com/watch?v=LhoLuui9gX8) (fallback if 404: https://www.youtube.com/watch?v=BxC1Bl-4ZvE) — focus on **4:30–7:30**, the "three things leaders can do" section. Listen for explicit signposting: she names the structure ("three things…first…second…") *before* delivering each. Shadow the pattern "Frame the work as ___. Acknowledge ___. Model ___." | 20–30 min |
 
 ---
 
@@ -120,7 +120,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Write one PREP for a likely question this week | On your commute, think of one question someone might ask you this week. Open your notes app and write a full PREP response. Read it aloud quietly on the train. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll ask you a work question without warning. You have 10 seconds to think, then respond using PREP — Point first, no hedging. I'll challenge your answer. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me: did you use PREP in any real situation this week? Share one spoken PREP (type it out from memory). I'll give feedback and set your focus for Week 7. | 15 min |
-| Weekend | Shadow Satya Nadella — Q&A clip | Search "Satya Nadella Q&A" or "Microsoft Build keynote". Find a moment where he answers an unexpected question. Notice how he structures his answer — Point first, then explanation. Shadow his answer out loud. | 20–30 min |
+| Weekend | Shadow Satya Nadella — Dwarkesh Patel podcast | Watch [Satya Nadella on Dwarkesh Patel](https://www.dwarkesh.com/p/satya-nadella-2) — focus on the **first 5 minutes**, where Dwarkesh opens with a curveball on Microsoft's AI capex. Dwarkesh asks unscripted, technically aggressive questions; Nadella has no script. Listen for how he **rephrases the question into his own framing** before answering ("The way I think about it is…") — a powerful composure technique. Shadow one full answer. | 20–30 min |
 
 *Real-world challenge all week: Pre-prepare one PREP response before any meeting where your opinion might be asked.*
 
@@ -137,7 +137,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | **Wed ⏱** | PREP mock session with Claude 📼 | Open Claude and say exactly: "run a PREP mock session". I'll ask 5 unexpected senior-leader-style questions one at a time. For each: speak your answer aloud, then type it. I'll give you structured feedback after each response. | **30 min** |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll ask you one of the executive-level questions from this phase — unexpected, no preparation. Respond in PREP. I'll follow up with a challenge. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me how the PREP mock session went — what was hard, what surprised you. Share one real moment this week where you paused before responding. I'll set your focus for Week 8. | 15 min |
-| Weekend | Shadow Simon Sinek — "Why good leaders make you feel safe" | Watch this TED Talk in full. Shadow the delivery — not just the words. Match his pauses, his pace, his emphasis. Say his sentences aloud with him. | 20–30 min |
+| Weekend | Shadow Simon Sinek — "Why good leaders make you feel safe" TED | Watch [the TED Talk](https://www.youtube.com/watch?v=lmyZMtPVodo) — focus on **5:30–8:30**, the Captain William Swenson story. This section has Sinek's longest deliberate pauses and sharpest pace contrasts. Listen for the **full 1.5–2 second silences he holds after key lines** (e.g., after "…he risked his life to save others"). Speak along — match his pauses exactly. Most non-native speakers rush through these. | 20–30 min |
 
 *Real-world challenge all week: When asked for your view unexpectedly — pause 3 full seconds before speaking. Use that pause to find your Point.*
 
@@ -153,7 +153,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Rewrite 2 PREP responses — cut every repeated sentence | Take 2 of your best PREP responses from this phase. Read each aloud. Find every sentence that repeats the same idea as another. Cut it. Aim to make each PREP feel complete in 30 seconds or less. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll ask you to respond to a complex, ambiguous question you haven't seen before — no preparation allowed. Respond in PREP. Push for clarity and concision. Debrief after. | 15 min |
 | Fri | Month 2 milestone check + weekly check-in | Open `progress/progress_log.md`. Answer: can you deliver a clear PREP response within 20 seconds when asked unexpectedly? Rate yourself 1–5. Then open Claude and share your rating, **play back your Monday PREP-mock recording** and tell me what surprised you when you heard yourself, and what's still hard. | 15 min |
-| Weekend | Shadow Jacinda Ardern — press conference | Find a press conference clip where a reporter asks her an unexpected or hostile question. Notice how she pauses, finds her point, and leads with it calmly. Shadow one of her responses out loud. | 20–30 min |
+| Weekend | Shadow Jacinda Ardern — Sanna Marin "similar age" question | Watch [the full ~1:30 clip](https://www.youtube.com/watch?v=yz9rg9m5dvU) — a reporter asks if she and Finland's PM are meeting because of their similar age (a clearly hostile/sexist question). Listen for the **2-second silence before she begins** — she doesn't fill it with "um" or defensive hedging. She uses the pause to find her opening point ("I wonder whether anyone ever asked Barack Obama and John Key…"). Shadow her full response. | 20–30 min |
 
 *Real-world challenge all week: Use PREP in one real unprepared moment — even imperfectly. Done is better than perfect.*
 
@@ -170,12 +170,12 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 | Day | Activity | How | Time |
 |---|---|---|---|
-| Mon | Watch a Pyramid Principle explainer | Search "Pyramid Principle explained" on YouTube. Watch one 5–10 min explainer video. The core idea: conclusion first, then the 3 reasons, then the detail. Sketch the pyramid shape in your notes — you'll use it this week. | 15 min |
+| Mon | Watch a Pyramid Principle explainer | Watch [The Minto Pyramid Principle Explained with Examples](https://www.youtube.com/watch?v=j4Y3TdVVBCA) (under 10 min) — applied business-communication explainer with concrete email/memo examples, not academic theory. Pay attention to the **before/after rewrite example** — that's the pattern you'll mimic when restructuring your meeting answers. Sketch the pyramid shape in your notes — you'll use it this week. | 15 min |
 | **Tue ⏱** | Read *The Pyramid Principle* — first 30 pages | Open the book. Read the first 30 pages actively — mark every concept that applies to your emails or presentations. This reading needs sustained focus: no phone, no interruptions. | **30 min** |
 | Wed | Rewrite one past executive email using the pyramid | Find an email you sent to a senior leader or executive. (Don't have one? Use any email longer than 5 sentences sent to someone more senior than you — or write a draft to your CTO/Head of Data recommending one decision in your current project.) Draw the pyramid for it: what's the conclusion? What are the 3 key points? Now rewrite — conclusion sentence 1, 3 clear points, no context before the answer. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll give you an executive-level scenario — a senior leader asks for your position on a data or AI topic. Respond with a clear recommendation in under 30 seconds. I'll push back. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Share one of your rewritten emails (before and after). I'll assess whether the pyramid structure is clear and set your focus for Week 10. | 15 min |
-| Weekend | Shadow Jensen Huang — NVIDIA AI keynote | Search "Jensen Huang keynote" or "NVIDIA GTC" on YouTube. This is the most relevant shadow target for your work — he is a non-native speaker commanding executive AI/data audiences. Notice his structure: big claim first, evidence follows. Shadow a 2-min section. | 20–30 min |
+| Weekend | Shadow Jensen Huang — GTC March 2024 Blackwell reveal | Watch [GTC March 2024 Keynote](https://www.youtube.com/watch?v=Y2F8yisiS6E) — focus on **16:00–18:00**, the Blackwell GPU reveal. He opens with one executive-level claim ("This is Blackwell. Blackwell is not a chip, it's the name of a platform.") *then* drills into evidence — textbook BLUF for a technical leader. Listen for how he **repeats the headline claim verbatim after the supporting evidence** — bookending the point. Shadow the 2-min reveal. | 20–30 min |
 
 *Real-world challenge all week: Before any executive email — sketch the pyramid on paper first: conclusion, 3 key points, detail. Then write.*
 
@@ -192,7 +192,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | **Wed ⏱** | Write 2 executive emails using the template | Write 2 emails — both under 120 words, using the template structure. Use these scenarios if you don't have real ones in your inbox: (1) recommending a delay or scope cut on your current project to your CTO / Head of Data, with reason and trade-off; (2) escalating a cross-team blocker to a senior leader, with the decision you need from them. Then open Claude and paste one of them for review. Apply the feedback before Thursday. | **30 min** |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll give you an executive email scenario — you must respond with a recommendation in 3 sentences or fewer under time pressure. I'll challenge your clarity. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me: did you send any real executive-style email this week? Share it (or a draft). I'll give you a final assessment and set your Week 11 focus. | 15 min |
-| Weekend | Shadow Satya Nadella — earnings call clip | Search "Satya Nadella earnings call" on YouTube. Listen to how he frames business updates — short, pyramid, recommendation first. Shadow one 2-min segment. | 20–30 min |
+| Weekend | Shadow Satya Nadella — Microsoft Build opening | Watch [Build 2020 opening remarks](https://www.youtube.com/watch?v=S_wNRx7f7rU) — focus on **0:30–2:30**. Earnings calls aren't on YouTube cleanly, so this is the proxy: same pyramid pattern — headline insight first, then evidence, no preamble. Listen for **how he names the conclusion before any backstory**. Shadow the 2-min opening. | 20–30 min |
 
 *Real-world challenge all week: Send at least one real email to a senior leader using the executive template — short, pyramid structure, recommendation first.*
 
@@ -208,7 +208,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Send Claude a presentation opening for review | Open Claude. Paste the opening 3–5 sentences of a presentation or report introduction you've written recently (or write one now). Ask me: "Does this lead with the recommendation or finding?" I'll give you specific feedback. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll ask you to open a presentation or briefing with your key recommendation — in one sentence, no preamble. I'll play a sceptical executive and ask follow-up questions. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me: did you open any presentation with "My recommendation is..." this week? What was the reaction? Share what's still hard. I'll set your Week 12 focus. | 15 min |
-| Weekend | Shadow Sundar Pichai — Google I/O keynote clip | Search "Sundar Pichai Google I/O keynote". Watch how he opens each major section — big point first, then the evidence and detail. Shadow a 2-min segment. | 20–30 min |
+| Weekend | Shadow Sundar Pichai — Google I/O 2024 opening | Watch [Google I/O 2024 keynote opening](https://www.youtube.com/watch?v=uFroTufv6es) — focus on **0:00–2:00**. Each section opens with one declarative sentence ("We are fully in our Gemini era") *before* any product demo. Listen for **the single-sentence lead before evidence**. Shadow the 2-min opening. | 20–30 min |
 
 *Real-world challenge all week: In any presentation or report — open with "My recommendation is..." or "The key finding is..." as sentence 1.*
 
@@ -224,7 +224,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Apply the "so what" test to a second document or meeting agenda | Take a second document — or your agenda for an upcoming meeting. Apply the same test: every point must pass "so what?" If it doesn't add value for the audience, cut it. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll give you an ambiguous executive scenario — mixed signals, incomplete information. Recommend a path forward in under 30 seconds. I'll push back with the CTO's counterargument. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Share your Month 3 milestone answers and one situation where you successfully stopped talking at the right moment. I'll assess Phase 3 completion and brief you on Phase 4. | 15 min |
-| Weekend | Shadow Amy Edmondson — any interview | Find any Amy Edmondson interview on YouTube. Notice how she summarises complex research ideas in a single sentence — she never over-explains. Shadow one of her summary statements. | 20–30 min |
+| Weekend | Shadow Amy Edmondson — King's Fund interview | Watch ["The importance of psychological safety"](https://www.youtube.com/watch?v=eP6guvRt0U0) (The King's Fund) — focus on **0:30–2:30**. She defines psychological safety in a single crisp sentence and then **stops** — strong model of resisting over-explanation. Listen for the **full-stop pause after her one-line definition**. Shadow that summary statement. | 20–30 min |
 
 *Real-world challenge all week: In one executive interaction — say your point, then stop. Resist the urge to over-explain.*
 
@@ -245,7 +245,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Challenge handling roleplay with Claude 📼 | Open Claude and say: "Run a challenge handling roleplay." I'll directly challenge your position — "I disagree with that recommendation" or "That data doesn't support your conclusion." Your job: hold your ground, stay composed, and respond using one of your 3 target phrases from Monday's Pushback & Challenge Handling drill. Debrief after. | 15 min |
 | Thu | Executive pressure simulation — defend under challenge 📼 | Open Claude and say: "Run a pressure simulation focused on defending a position." Scenario: a senior leader pushes back on your recommendation in front of others. Respond, handle the pushback, and hold your point. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me: did you use any challenge-response phrase in a real meeting this week? Which felt most natural? Which is still uncomfortable? I'll give targeted coaching and brief you on Phase 4. | 15 min |
-| Weekend | Watch a leader handling tough questions | Find any clip of Jensen Huang, Satya Nadella, or Jacinda Ardern handling a hostile or challenging question. Notice: do they apologise, deflect, or hold their position calmly? Shadow one of their responses. | 20–30 min |
+| Weekend | Watch Jensen Huang handle a challenge — Dwarkesh Patel clip | Watch [Jensen Huang — Will NVIDIA's moat persist?](https://www.youtube.com/watch?v=Hrbq66XqtCo) (Dwarkesh Patel) — focus on **0:00–3:00**. The interviewer directly challenges NVIDIA's defensibility. Jensen neither apologises nor deflects — he reframes calmly and holds his position. Listen for **his opening word after the challenge** — does he agree-soften, or hold ground? Shadow his response. | 20–30 min |
 
 *Real-world challenge all week: When challenged or interrupted in a meeting — pause 2 seconds, then respond with one of your 3 target Pushback & Challenge phrases. Do not apologise for your view.*
 
@@ -266,7 +266,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Rewrite 5 anchor phrases in your own words | Take 5 anchor phrases from the vocabulary bank. Rewrite each one in language that sounds like you — not formal, not stiff. Say each rewritten phrase aloud. Does it sound like something you'd actually say? | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll create a meeting scenario where a participant hijacks the agenda or challenges your authority. Use an anchor phrase to redirect and hold the room. I'll push back. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me: which anchor phrase did you use this week? What happened? Which one still feels unnatural? I'll give you specific coaching on the hard ones and set your Week 14 focus. | 15 min |
-| Weekend | Watch a strong meeting facilitator | Search YouTube for a panel discussion, town hall, or Q&A with a strong moderator (TED conference host, a business panel host). Note the specific language they use to redirect and close. Write down 2 phrases. | 20–30 min |
+| Weekend | Watch Chris Anderson facilitate — Intelligence Squared | Watch [Chris Anderson (Head of TED) + Jon Ronson on Hope, Shame and Infectious Generosity](https://www.youtube.com/watch?v=zZNJIxRKEyI) (Intelligence Squared) — focus on **5:00–10:00**. Anderson is a master facilitator: deliberate redirect / summarise / handoff phrasing throughout. Listen for transition phrases like "So what you're saying is…" and "Let me push you on that." **Write down 2 phrases.** | 20–30 min |
 
 *Real-world challenge all week: Use one anchor phrase in a meeting — choose the easiest one first.*
 
@@ -283,7 +283,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | **Wed ⏱** | Meeting facilitation roleplay with Claude 📼 | Open Claude and say exactly: "run a meeting facilitation roleplay". I'll play a realistic participant — rambling, going off-topic, or challenging you. Your job: redirect me, summarise, and close the discussion. Debrief with me after. | **30 min** |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll simulate a meeting that's going off-track. Redirect the discussion, summarise where we've landed, and close with a clear decision — all under time pressure. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me: how did the roleplay go — what was hard? Did you use a redirection phrase in a real meeting? I'll set your Week 15 focus. | 15 min |
-| Weekend | Shadow Jacinda Ardern — managing a press conference | Find a Jacinda Ardern press conference with multiple reporters asking at once. Notice how she stays in control — she redirects, she summarises, she closes. Shadow her responses. | 20–30 min |
+| Weekend | Shadow Ardern — full lockdown announcement press conference | Watch [Ardern's NZ lockdown announcement press conference](https://www.youtube.com/watch?v=CAROtIqVgWk) — focus on **15:00–20:00** (the Q&A segment). Multiple reporters interject; she stays in control by naming reporters, summarising the question back, and closing each thread cleanly. Listen for **how she signals "moving on" without sounding dismissive**. Shadow 2 of her responses. | 20–30 min |
 
 *Real-world challenge all week: In one meeting — use "I want to bring us back to the main question here..." at least once.*
 
@@ -299,7 +299,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Write 5 decision-closing statements for different scenarios | Write a closing statement for 5 different real meeting scenarios from your work — different teams, different topics. Each statement must include: a summary of what was agreed, a clear next step, and who owns it. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll give you a contested meeting scenario — two stakeholders disagreeing. Close the discussion decisively with a clear decision and owner. I'll resist the close. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Share your top 3 closing statements. Tell me: did you close a discussion decisively in a real meeting this week? What happened? I'll give feedback and set Week 16 focus. | 15 min |
-| Weekend | Shadow Satya Nadella — strategy interview | Find a Satya Nadella interview where he discusses strategy or decisions. Notice how he closes topics — decisive, clear, no hedging. Shadow a 2-min segment. | 20–30 min |
+| Weekend | Shadow Nadella — Dwarkesh AGI strategy interview | Watch [Nadella on how Microsoft thinks about AGI](https://www.youtube.com/watch?v=8-boBsWcr5A) — focus on **10:00–12:00**. He discusses strategic bets and closes each topic decisively — no hedging tail like "but who knows." Listen for **his final sentence on each topic** — flat, falling, conclusive. Shadow the 2-min segment. | 20–30 min |
 
 *Real-world challenge all week: In one meeting you run — close at least one discussion with a clear decision statement.*
 
@@ -316,7 +316,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | **Wed ⏱** | Full meeting facilitation mock with Claude 📼 | Open Claude and say exactly: "run a full meeting facilitation mock". I'll play multiple participants — including one who challenges you and one who rambles. You open the meeting, manage the discussion, redirect when needed, and close with a decision. This is the most complex practice session in the plan. | **30 min** |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll play a difficult participant — one who rambles, one who challenges you, and one who interrupts. Run the room: open, redirect, and close. Full facilitation under pressure. Debrief after. | 15 min |
 | Fri | Month 4 milestone check + weekly check-in | Open `progress/progress_log.md`. Answer: are you using anchor phrases confidently? Do you feel more in control when running meetings? Rate yourself 1–5. Then open Claude and share your rating, debrief from Thursday, and the outcome of any real meeting you facilitated this week. | 15 min |
-| Weekend | Watch a strong panel facilitator | Find any panel discussion with an excellent moderator — a TED conference, a business summit, a podcast with multiple guests. Note the exact language they use to open, redirect, and close. Write down 2 new phrases. | 20–30 min |
+| Weekend | Watch Chris Anderson — TED's secret to great public speaking | Watch [TED's secret to great public speaking](https://www.youtube.com/watch?v=-FOCpMAww28) — focus on **0:00–5:00**. Different Anderson clip from W13: here he models the *open → frame → close* arc for a single talk slot — useful for meeting opens and closes. Listen for the **opening framing line** and the **closing call-to-action**. Write down 2 new phrases. | 20–30 min |
 
 *Real-world challenge all week: Run your next real meeting with full intentional facilitation — strong opening, active flow management, clear close.*
 
@@ -337,7 +337,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Record yourself reading a paragraph — map the pauses | Open any HBR, McKinsey Insights, or Stratechery article (or grab the first 5–6 sentences from a leadership book you're reading this phase). Read it aloud and record it. Play it back — mark every place where you rushed. Re-read it, inserting a 2-second pause at each of those marks. Record again. Compare. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll give you a high-stakes scenario. This week's focus: respond with deliberate pace — slow down, pause after your key point, don't rush to fill silence. Debrief on delivery as well as content. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me: did you use a deliberate pause in a real meeting this week? What happened — did anyone notice? I'll set your Week 18 focus. | 15 min |
-| Weekend | Shadow Simon Sinek — "Start With Why" TED Talk | Watch the full talk. Then play it again — this time, speak along with him. Match his pace exactly. Every time he pauses, you pause. This talk has the best model of deliberate pausing in any speech. | 20–30 min |
+| Weekend | Shadow Simon Sinek — "Start With Why" TEDxPugetSound | Watch [the canonical TEDx talk](https://www.youtube.com/watch?v=u4ZoJKF_VuA) in full — then replay **1:30–4:00** (the Golden Circle setup) and speak along. This section is paced unusually slowly with full pauses between thoughts. Listen for the **1–2 second silences between sentences — match them**. Every time he pauses, you pause. | 20–30 min |
 
 *Real-world challenge all week: After making your most important point in a meeting — pause for 2 full seconds before continuing.*
 
@@ -353,7 +353,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Record a 2-min response — count fillers precisely | Open your voice memo app. Use the **same prompt as your Week 1 baseline** — "Brief your manager on your current project: what it is, where it's at, the main challenge." Record for 2 minutes, no script. Play it back and count every filler word — write down the exact timestamp and what you said. Total the count. *(Same prompt as W1 = clean comparison.)* | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll ask a rapid-fire question. This week's challenge: zero filler words. Every time you'd say "um" or "uh" — pause instead. I'll count any fillers I hear. Debrief on both content and delivery. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me your filler word count from Wednesday vs Thursday. Which filler word is hardest to eliminate? I'll give you a specific technique for that word and set your Week 19 focus. | 15 min |
-| Weekend | Shadow Sundar Pichai — filler word observation | Find any long Sundar Pichai interview on YouTube (10+ min). Count his filler words across the whole interview. Notice what he does instead — he often pauses, or slows down, or simply starts the next sentence. Shadow one of his answers. | 20–30 min |
+| Weekend | Shadow Pichai — Lex Fridman Podcast (filler words) | Watch [Sundar Pichai on Lex Fridman #471](https://www.youtube.com/watch?v=9V6tWC4CdFQ) — long unscripted format reveals his filler-word discipline. Count fillers across the **20:00–35:00** segment. Listen for **what he does when reaching for a word — silence, not "uhh."** He pauses or restarts cleanly. Shadow one full answer. | 20–30 min |
 
 *Real-world challenge all week: Identify your top 1–2 filler words. Every time you catch one — pause instead.*
 
@@ -369,7 +369,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Record 3 statements — diagnose rising vs falling intonation | Record yourself saying 3 work statements (e.g. describing a project status, making a recommendation). Play back — does your voice rise at the end of each statement? A rising end sounds like you're asking for approval. A falling end sounds like a fact. Mark which ones rise. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll give you a scenario requiring a confident statement of position. This week's focus: falling intonation — end every statement as a fact, not a question. Debrief on both content and delivery confidence. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Describe: in your meetings this week, did you notice your statements sounding like questions? Did you correct it in real time? I'll set your Week 20 focus. | 15 min |
-| Weekend | Shadow Jacinda Ardern — statement intonation | Find any Jacinda Ardern press conference. Listen specifically to how her statements end — confident, falling, certain. Shadow 3 of her statements out loud, matching her intonation pattern. | 20–30 min |
+| Weekend | Shadow Ardern — Christchurch press conference (intonation) | Watch [Ardern's press conference after the Christchurch shooting](https://www.youtube.com/watch?v=klL6Go-FC5Q) — focus on **0:00–3:00**. Statements end with confident **falling pitch — no upward "uptalk"** — making each declaration land as final. Listen for the **downward pitch on the last syllable of each sentence**. Shadow 3 of her statements, matching her intonation pattern. | 20–30 min |
 
 *Real-world challenge all week: Notice if your statements end with rising intonation in meetings. Correct it in real time — drop the pitch.*
 
@@ -407,7 +407,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Send Claude your PREP responses or opening for feedback | Open Claude. Paste your prepared PREP responses or presentation opening. Ask me: "Is the Point clear? Does it sound confident?" Apply the feedback before Thursday. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll simulate an AI Steering Committee moment — an unexpected question or challenge during your presentation. Respond with full executive presence: recommendation first, no hedging, composed delivery. Debrief after. | 15 min |
 | Fri | Debrief with Claude after any executive session | Open Claude. Tell me what happened in your Steering Committee or executive meeting this week. What did you say? What worked? What would you change? I'll give specific coaching. | 15 min |
-| Weekend | Shadow Jensen Huang — NVIDIA earnings or keynote | Search "Jensen Huang NVIDIA earnings" or "Jensen Huang keynote". He is the most relevant shadow target for your role — AI/data, non-native English, technical authority. Shadow a 3-min segment. | 20–30 min |
+| Weekend | Shadow Jensen Huang — GTC March 2025 keynote | Watch [GTC March 2025 keynote](https://www.youtube.com/watch?v=_waPvOwL9Z8) — focus on **5:00–8:00** (after the intro film). Most relevant shadow target for your role — Asian-accented English, technical AI authority, no teleprompter. He owns the room with structure rather than fluency. Listen for **how he uses repetition and physical gesture to compensate for non-native rhythm**. Shadow the 3-min segment. | 20–30 min |
 
 ---
 
@@ -421,7 +421,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Contribute actively in today's meetings — use an anchor phrase | In every meeting today, make at least one intentional contribution: start with your point, use an anchor phrase if redirecting or summarising. Afterwards, note what you said and how it landed. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll simulate a high-stakes executive contribution — you're asked to weigh in on a strategic decision with limited context. Respond confidently with a clear position. I'll challenge and probe. Debrief after. | 15 min |
 | Fri | Month 5 review + weekly check-in with Claude | Open Claude. Tell me how Weeks 21–22 have gone — are you contributing more confidently in executive settings? What's the gap between how you communicate now vs your target? | 15 min |
-| Weekend | Shadow Satya Nadella — handling executive questions | Find a recent Satya Nadella interview where he handles tough questions. Notice his composure, his structure, his confidence. Shadow a 2-min segment. | 20–30 min |
+| Weekend | Shadow Nadella — CNBC full interview (handling pushback) | Watch [CNBC's full interview with Nadella](https://www.youtube.com/watch?v=H7qQSbjT1E0) — focus on **8:00–10:00**. Jon Fortt presses on AI roadmap risks; Nadella stays composed, structured, and confident under direct push-back. Listen for **how he buys thinking time without filler — usually a slight reframe of the question**. Shadow the 2-min segment. | 20–30 min |
 
 ---
 
@@ -435,7 +435,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 | Wed | Focus on opening strong in every contribution today | In every meeting or presentation today — lead with your point. No context first, no preamble. Monitor yourself: did you open with the conclusion? Note the moments you did and didn't. | 15 min |
 | Thu | Executive pressure simulation with Claude 📼 | Open Claude and say: "Run a pressure simulation." I'll simulate a cross-functional meeting where you must land a decision with mixed stakeholders — some resistant, some disengaged. Open, manage, and close the discussion. Debrief after. | 15 min |
 | Fri | Weekly check-in with Claude | Open Claude. Tell me: what large-group or cross-functional communication happened this week? What did you open with? How did the room respond? I'll give feedback. | 15 min |
-| Weekend | Shadow Sundar Pichai — large audience keynote | Search "Sundar Pichai Google I/O" or "Sundar Pichai keynote". Notice how he commands a large room — calm, clear, point first. Shadow a 3-min segment. | 20–30 min |
+| Weekend | Shadow Pichai — Google I/O 2025 opening (large audience) | Watch [Sundar Pichai opening remarks I/O 2025](https://www.youtube.com/watch?v=eIUqw3_YcCI) — focus on **0:00–3:00**. Different from W10 (2024 opening) and W18 (Lex interview): here it's a 2025 large-room keynote where calm pacing carries the room. Listen for **his vocal volume — steady, never strained, projecting through pauses rather than loudness**. Shadow the 3-min opening. | 20–30 min |
 
 ---
 

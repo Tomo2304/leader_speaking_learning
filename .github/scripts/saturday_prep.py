@@ -113,13 +113,33 @@ SHADOW_BEST_CLIPS = [
     ("jacinda ardern", "▶️ Watch: Jacinda Ardern — On Leadership", "https://www.youtube.com/watch?v=iza9O91E4tk"),
     ("amy edmondson", "▶️ Watch: Amy Edmondson — Psychological Safety TED Talk", "https://www.youtube.com/watch?v=LhoLuui9gX8"),
 ]
+# Match the inline links in plan/weekly_schedule.md so the brief never surfaces a different URL.
 SPECIFIC_CLIPS = [
-    ("why good leaders make you feel safe", "▶️ Watch: Simon Sinek — Why Leaders Make You Feel Safe", "https://www.youtube.com/watch?v=lmyZMtPVodo"),
-    ("why leaders make you feel safe", "▶️ Watch: Simon Sinek — Why Leaders Make You Feel Safe", "https://www.youtube.com/watch?v=lmyZMtPVodo"),
+    ("why good leaders make you feel safe", "▶️ Watch: Simon Sinek — Why Leaders Make You Feel Safe (focus 5:30–8:30, Swenson story — match his pauses)", "https://www.youtube.com/watch?v=lmyZMtPVodo"),
+    ("why leaders make you feel safe", "▶️ Watch: Simon Sinek — Why Leaders Make You Feel Safe (focus 5:30–8:30, Swenson story — match his pauses)", "https://www.youtube.com/watch?v=lmyZMtPVodo"),
     ("start with why", "▶️ Watch: Simon Sinek — Start With Why TED Talk", "https://www.youtube.com/watch?v=u4ZoJKF_VuA"),
-    ("psychological safety", "▶️ Watch: Amy Edmondson — Psychological Safety TED Talk", "https://www.youtube.com/watch?v=LhoLuui9gX8"),
+    ("psychological safety", "▶️ Watch: Amy Edmondson — Psychological Safety TED Talk (focus 4:30–7:30, three-things signposting)", "https://www.youtube.com/watch?v=LhoLuui9gX8"),
+    ("the circuit", "▶️ Watch: Sundar Pichai on The Circuit with Emily Chang (focus 12:00–15:00 — micro-pause + framing sentence)", "https://www.youtube.com/watch?v=5puu3kN9l7c"),
+    ("dwarkesh", "▶️ Watch: Satya Nadella on Dwarkesh Patel (focus first 5 min — rephrasing question into own framing)", "https://www.dwarkesh.com/p/satya-nadella-2"),
+    ("sanna marin", "▶️ Watch: Ardern's response to the 'similar age' question (full ~1:30 — 2-second silence before the opening point)", "https://www.youtube.com/watch?v=yz9rg9m5dvU"),
+    ("blackwell", "▶️ Watch: Jensen Huang GTC March 2024 keynote (focus 16:00–18:00, Blackwell reveal — bookended claim)", "https://www.youtube.com/watch?v=Y2F8yisiS6E"),
+    ("minto pyramid", "▶️ Watch: Minto Pyramid Principle Explained with Examples (under 10 min, before/after rewrite)", "https://www.youtube.com/watch?v=j4Y3TdVVBCA"),
+    ("pyramid principle explainer", "▶️ Watch: Minto Pyramid Principle Explained with Examples (under 10 min, before/after rewrite)", "https://www.youtube.com/watch?v=j4Y3TdVVBCA"),
     ("nvidia ai keynote", "▶️ Watch: Jensen Huang — NVIDIA AI Keynote", "https://www.youtube.com/watch?v=jpZ0dPsnIWw"),
-    ("google i/o", "▶️ Watch: Sundar Pichai — Google I/O 2025 Keynote", "https://www.youtube.com/watch?v=eIUqw3_YcCI"),
+    ("google i/o", "▶️ Watch: Sundar Pichai — Google I/O 2025 Keynote (focus 0:00–3:00, calm large-room pacing)", "https://www.youtube.com/watch?v=eIUqw3_YcCI"),
+    # W9–W23 validated specific clips
+    ("microsoft build opening", "▶️ Watch: Satya Nadella — Build 2020 opening (focus 0:30–2:30, headline-first pyramid)", "https://www.youtube.com/watch?v=S_wNRx7f7rU"),
+    ("google i/o 2024", "▶️ Watch: Sundar Pichai — Google I/O 2024 opening (focus 0:00–2:00, single-sentence section leads)", "https://www.youtube.com/watch?v=uFroTufv6es"),
+    ("king's fund interview", "▶️ Watch: Amy Edmondson — King's Fund on psychological safety (focus 0:30–2:30, one-line definition then stop)", "https://www.youtube.com/watch?v=eP6guvRt0U0"),
+    ("nvidia's moat", "▶️ Watch: Jensen Huang on Dwarkesh — Will NVIDIA's moat persist? (focus 0:00–3:00, hold ground under challenge)", "https://www.youtube.com/watch?v=Hrbq66XqtCo"),
+    ("hope, shame and infectious generosity", "▶️ Watch: Chris Anderson + Jon Ronson on Intelligence Squared (focus 5:00–10:00, master facilitator transitions)", "https://www.youtube.com/watch?v=zZNJIxRKEyI"),
+    ("lockdown announcement press conference", "▶️ Watch: Ardern's NZ lockdown press conference (focus 15:00–20:00 Q&A, signal moving on without dismissing)", "https://www.youtube.com/watch?v=CAROtIqVgWk"),
+    ("how microsoft thinks about agi", "▶️ Watch: Nadella on Dwarkesh — AGI strategy (focus 10:00–12:00, decisive falling-pitch closes)", "https://www.youtube.com/watch?v=8-boBsWcr5A"),
+    ("ted's secret to great public speaking", "▶️ Watch: Chris Anderson — TED's secret to great public speaking (focus 0:00–5:00, open→frame→close arc)", "https://www.youtube.com/watch?v=-FOCpMAww28"),
+    ("lex fridman", "▶️ Watch: Sundar Pichai on Lex Fridman #471 (focus 20:00–35:00, count fillers — silence, not 'uhh')", "https://www.youtube.com/watch?v=9V6tWC4CdFQ"),
+    ("christchurch", "▶️ Watch: Ardern's Christchurch press conference (focus 0:00–3:00, falling pitch on every statement)", "https://www.youtube.com/watch?v=klL6Go-FC5Q"),
+    ("gtc march 2025", "▶️ Watch: Jensen Huang — GTC March 2025 keynote (focus 5:00–8:00, repetition + gesture as non-native rhythm)", "https://www.youtube.com/watch?v=_waPvOwL9Z8"),
+    ("cnbc's full interview with", "▶️ Watch: CNBC's full interview with Nadella (focus 8:00–10:00, reframing buys thinking time)", "https://www.youtube.com/watch?v=H7qQSbjT1E0"),
 ]
 
 # Search the full next-week content (so weekend shadowing is included)
@@ -129,11 +149,13 @@ for keyword, label, url in PODCASTS + APPS:
         resources.append(f'<a href="{url}">{label}</a>')
         seen_urls.add(url)
 
-# YouTube — specific named clips
+# YouTube — specific named clips (highest priority)
+specific_clip_added = False
 for keyword, label, url in SPECIFIC_CLIPS:
     if keyword in search_text and url not in seen_urls:
         resources.append(f'<a href="{url}">{label}</a>')
         seen_urls.add(url)
+        specific_clip_added = True
 
 # YouTube — extract `Search "X" on YouTube` from weekend "How" text
 for query in re.findall(r'[Ss]earch ["\']([^"\']+)["\'][^.]*?[Yy]ou[Tt]ube', next_content):
@@ -142,11 +164,13 @@ for query in re.findall(r'[Ss]earch ["\']([^"\']+)["\'][^.]*?[Yy]ou[Tt]ube', nex
         resources.append(f'<a href="{url}">▶️ Search: "{query}" on YouTube</a>')
         seen_urls.add(url)
 
-# YouTube — fallback to leader's best clip
-for keyword, label, url in SHADOW_BEST_CLIPS:
-    if keyword in search_text and url not in seen_urls:
-        resources.append(f'<a href="{url}">{label}</a>')
-        seen_urls.add(url)
+# YouTube — fallback to leader's best clip ONLY if no specific clip already matched.
+# (When the schedule embeds a specific clip URL, the brief should not surface a different one.)
+if not specific_clip_added:
+    for keyword, label, url in SHADOW_BEST_CLIPS:
+        if keyword in search_text and url not in seen_urls:
+            resources.append(f'<a href="{url}">{label}</a>')
+            seen_urls.add(url)
 
 if 'vocabulary' in content_lower:
     resources.append(f'<a href="{REPO_BASE}/vocabulary/vocabulary_bank.md">📖 Vocabulary bank</a>')
