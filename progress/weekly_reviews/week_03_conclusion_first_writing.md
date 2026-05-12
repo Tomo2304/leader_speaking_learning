@@ -23,7 +23,9 @@ Bottom Line Up Front (BLUF) — restructuring written communication so the concl
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| — | We need to address this as a priority | Opening a recommendation or escalation; signals urgency without being alarmist |
+| — | The recommended approach is X, given... | Leading with your conclusion then grounding it — classic BLUF structure |
+| — | Based on what I know, I'd say... | Buying a moment to think while still sounding confident and engaged |
 
 ---
 
