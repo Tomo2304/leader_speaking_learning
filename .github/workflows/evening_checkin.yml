@@ -5,6 +5,9 @@ on:
     - cron: '0 10 * * 1-6'  # 8:00pm AEST  (UTC+10) Mon-Sat
     - cron: '0 9 * * 1-6'   # 8:00pm AEDT (UTC+11) Mon-Sat
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/evening_trigger'
 
 jobs:
   send:
