@@ -1,5 +1,5 @@
 # Week 3 — Verbal BLUF: Conclusion First in Speech
-*Phase 1: Foundation | 2026-05-11 to 2026-05-15*
+*Phase 1: Foundation | 2026-05-18 to 2026-05-22 (restarted — original 2026-05-11 attempt skipped)*
 
 ## Key Topic
 Applying BLUF to spoken communication — leading with your conclusion or recommendation in verbal responses before providing context or detail.

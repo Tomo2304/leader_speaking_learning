@@ -12,7 +12,7 @@
 |---|---|
 | Total plan days | 130 |
 | Days completed (Done or Partial) | 10 |
-| Days skipped | 0 |
+| Days skipped | 5 |
 | % complete | 7.7% |
 
 *This table is updated by Claude each time an evening check-in is logged.*
@@ -35,6 +35,11 @@
 | 2026-05-06 | 8 | ✅ | Rewrite a second email — conclusion first | — |
 | 2026-05-07 | 9 | ✅ | Apply conclusion-first to every email you send today | — |
 | 2026-05-08 | 10 | ✅ | Weekly check-in with Claude (Week 2) | Conclusion-first 3/5, Brevity 2/5. Writing improving (complaints update, Kaltura email rewrite); speaking is the gap — Week 3 targets verbal BLUF. Brevity wasn't actively tracked this week. Added daily Mon–Fri vocab-target reminder to morning Telegram briefing (no targets picked Week 2 — fresh start Week 3). |
+| 2026-05-11 | 11 | ✗ | Practice verbal BLUF on 3 work topics — out loud | Skipped — Week 3 deferred and restarted on 2026-05-18. |
+| 2026-05-12 | 12 | ✗ | Listen to *The Knowledge Project* — one episode | Skipped — Week 3 deferred and restarted on 2026-05-18. |
+| 2026-05-13 | 13 | ✗ | Give your view first in a real meeting today | Skipped — Week 3 deferred and restarted on 2026-05-18. |
+| 2026-05-14 | 14 | ✗ | Month 1 milestone check | Skipped — Week 3 deferred and restarted on 2026-05-18. |
+| 2026-05-15 | 15 | ✗ | Weekly check-in with Claude | Skipped — Week 3 deferred and restarted on 2026-05-18. |
 
 ---
 
@@ -112,9 +117,9 @@ One real example that justifies your scores:
 
 | Month | Milestone target | Status | Notes |
 |---|---|---|---|
-| Month 1 (~2026-05-19) | Stopped apologetic openers. Every email starts with conclusion | — | — |
-| Month 2 (~2026-06-19) | Can deliver PREP response within 20 seconds unexpectedly | — | — |
-| Month 3 (~2026-07-19) | Emails to executives consistently under 150 words | — | — |
-| Month 4 (~2026-08-19) | Using anchor phrases confidently when running meetings | — | — |
-| Month 6 (~2026-10-19) | Contributing confidently and openly in AI Steering Committee | — | — |
+| Month 1 (~2026-05-26) | Stopped apologetic openers. Every email starts with conclusion | — | — |
+| Month 2 (~2026-06-26) | Can deliver PREP response within 20 seconds unexpectedly | — | — |
+| Month 3 (~2026-07-26) | Emails to executives consistently under 150 words | — | — |
+| Month 4 (~2026-08-26) | Using anchor phrases confidently when running meetings | — | — |
+| Month 6 (~2026-10-26) | Contributing confidently and openly in AI Steering Committee | — | — |
 

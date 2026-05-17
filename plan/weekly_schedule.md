@@ -1,6 +1,6 @@
 # Weekly Practice Schedule
 
-*6-month plan | Start date: 2026-04-27 | Target: 2026-10-30*
+*6-month plan | Start date: 2026-04-27 | Target: 2026-11-06*
 *Default: 15 min/day | ⏱ 30-min days: max 2/week, Tue–Thu only | Mon & Fri always 15 min*
 
 ---
@@ -72,7 +72,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 3 (2026-05-11)
+### Week 3 (2026-05-18)
 **Focus: Conclusion-first in speech — verbal BLUF**
 
 | Day | Activity | How | Time |
@@ -95,7 +95,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 4 (2026-05-18)
+### Week 4 (2026-05-25)
 **Focus: Learn and internalise the PREP framework**
 
 | Day | Activity | How | Time |
@@ -109,7 +109,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 5 (2026-05-25)
+### Week 5 (2026-06-01)
 **Focus: PREP spoken — out loud practice**
 **⏱ 30-min day: Tuesday**
 
@@ -126,7 +126,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 6 (2026-06-01)
+### Week 6 (2026-06-08)
 **Focus: PREP under pressure — unprepared responses**
 **⏱ 30-min day: Wednesday**
 
@@ -143,7 +143,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 7 (2026-06-08)
+### Week 7 (2026-06-15)
 **Focus: PREP refinement — tighter, more natural**
 
 | Day | Activity | How | Time |
@@ -164,7 +164,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 8 (2026-06-15)
+### Week 8 (2026-06-22)
 **Focus: The Pyramid Principle — structuring written communication**
 **⏱ 30-min day: Tuesday**
 
@@ -181,7 +181,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 9 (2026-06-22)
+### Week 9 (2026-06-29)
 **Focus: Executive email template — brevity in practice**
 **⏱ 30-min day: Wednesday**
 
@@ -198,7 +198,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 10 (2026-06-29)
+### Week 10 (2026-07-06)
 **Focus: Executive presentations — leading with recommendation**
 
 | Day | Activity | How | Time |
@@ -214,7 +214,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 11 (2026-07-06)
+### Week 11 (2026-07-13)
 **Focus: Calibrating depth — knowing when to stop**
 
 | Day | Activity | How | Time |
@@ -235,7 +235,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 12 (2026-07-13)
+### Week 12 (2026-07-20)
 **Focus: Defend, hold, and respond — challenge handling**
 
 | Day | Activity | How | Time |
@@ -256,7 +256,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 13 (2026-07-20)
+### Week 13 (2026-07-27)
 **Focus: Learn and memorise anchor phrases**
 
 | Day | Activity | How | Time |
@@ -272,7 +272,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 14 (2026-07-27)
+### Week 14 (2026-08-03)
 **Focus: Redirecting and summarising in meetings**
 **⏱ 30-min day: Wednesday**
 
@@ -289,7 +289,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 15 (2026-08-03)
+### Week 15 (2026-08-10)
 **Focus: Closing discussions and landing decisions**
 
 | Day | Activity | How | Time |
@@ -305,7 +305,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 16 (2026-08-10)
+### Week 16 (2026-08-17)
 **Focus: Full meeting facilitation — bring it all together**
 **⏱ 30-min day: Wednesday**
 
@@ -327,7 +327,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 17 (2026-08-17)
+### Week 17 (2026-08-24)
 **Focus: Slowing down and using deliberate pauses**
 
 | Day | Activity | How | Time |
@@ -343,7 +343,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 18 (2026-08-24)
+### Week 18 (2026-08-31)
 **Focus: Eliminating filler words**
 
 | Day | Activity | How | Time |
@@ -359,7 +359,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 19 (2026-08-31)
+### Week 19 (2026-09-07)
 **Focus: Downward intonation — statements sound like statements**
 
 | Day | Activity | How | Time |
@@ -375,7 +375,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 20 (2026-09-07)
+### Week 20 (2026-09-14)
 **Focus: Full delivery integration — pace, pause, intonation together**
 **⏱ 30-min day: Wednesday**
 
@@ -397,7 +397,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 21 (2026-09-14)
+### Week 21 (2026-09-21)
 **Focus: AI Steering Committee and executive meeting preparation**
 
 | Day | Activity | How | Time |
@@ -411,7 +411,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 22 (2026-09-21)
+### Week 22 (2026-09-28)
 **Focus: Active contribution in executive settings**
 
 | Day | Activity | How | Time |
@@ -425,7 +425,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 23 (2026-09-28)
+### Week 23 (2026-10-05)
 **Focus: Large audience and cross-functional communication**
 
 | Day | Activity | How | Time |
@@ -439,7 +439,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 24 (2026-10-05)
+### Week 24 (2026-10-12)
 **Focus: Consolidating all habits in real settings**
 
 | Day | Activity | How | Time |
@@ -453,7 +453,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 25 (2026-10-12)
+### Week 25 (2026-10-19)
 **Focus: Full review — 6-month assessment**
 
 | Day | Activity | How | Time |
@@ -467,7 +467,7 @@ You have ~2.25 hours of at-home book time + commute reading across 26 weeks. Tha
 
 ---
 
-### Week 26 (2026-10-19)
+### Week 26 (2026-10-26)
 **Focus: Consolidate and celebrate**
 
 | Day | Activity | How | Time |

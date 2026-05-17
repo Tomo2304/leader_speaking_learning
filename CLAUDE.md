@@ -49,7 +49,7 @@ Whenever Tomo shares a sentence, email, spoken response, or any wording for revi
 
 Format: `| Date | Original phrasing | Improved phrasing | Why it's stronger |`
 
-To find the correct week file: count weeks from 2026-04-27. Week 1 = 2026-04-27 to 2026-05-01. Week N starts on the Monday of that week.
+To find the correct week file: check `plan/weekly_schedule.md` — each week's start date is in its heading (e.g. `### Week 3 (2026-05-18)`). The schedule is the source of truth; week dates have shifted from a naive +7-day calculation due to a Week 3 restart, so always read the schedule rather than computing from 2026-04-27.
 
 ### PREP mock sessions
 When Tomo says "run a PREP mock session" — ask 5 unexpected senior-leader-style questions one at a time. After each response, give structured feedback: what the Point was, whether the structure held, and one specific improvement.
