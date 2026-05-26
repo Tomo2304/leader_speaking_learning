@@ -11,9 +11,9 @@
 | Metric | Value |
 |---|---|
 | Total plan days | 130 |
-| Days completed (Done or Partial) | 10 |
+| Days completed (Done or Partial) | 15 |
 | Days skipped | 5 |
-| % complete | 7.7% |
+| % complete | 11.5% |
 
 *This table is updated by Claude each time an evening check-in is logged.*
 
@@ -40,6 +40,11 @@
 | 2026-05-13 | 13 | ✗ | Give your view first in a real meeting today | Skipped — Week 3 deferred and restarted on 2026-05-18. |
 | 2026-05-14 | 14 | ✗ | Month 1 milestone check | Skipped — Week 3 deferred and restarted on 2026-05-18. |
 | 2026-05-15 | 15 | ✗ | Weekly check-in with Claude | Skipped — Week 3 deferred and restarted on 2026-05-18. |
+| 2026-05-18 | 11 | ✅ | Practice verbal BLUF on 3 work topics — out loud | Drilled "My view is…", "Based on what I know I would say…", "My recommendation is…" — fire reliably when prepared. |
+| 2026-05-19 | 12 | ✅ | Listen to *The Knowledge Project* — one episode | — |
+| 2026-05-20 | 13 | ✅ | Give your view first in a real meeting today | Applied verbal BLUF in real meeting context. Notice apologetic openers still fire when unprepared but caught in real time. |
+| 2026-05-21 | 14 | ✅ | Month 1 milestone check | Honest self-assessment: apologetic openers still happening in speech but now noticed in real time; conclusion-first applied consistently across email/messages/verbal (not perfect). Win example: adviser-complaint update led with "low priority" before reasons. Apologetic openers in speech remain the stubborn gap. |
+| 2026-05-22 | 15 | ✅ | Weekly check-in with Claude (Week 3) | Conclusion-first 3/5, Brevity 2/5. Writing improving via review/rewrite; speaking still defaults to apologetic openers when unprepared. Vocab targets: "My view is" ✅, "Based on what I know I would say" ✅, "Given" ✗. Week 4 starts PREP — pre-loaded openers will get stress-tested. |
 
 ---
 
@@ -80,6 +85,35 @@ One real example that justifies your scores:
 
 ---
 
+#### Week of 2026-05-18 (Week 3 — Verbal BLUF / conclusion-first in speech)
+
+Completed this week:
+- Mon: Practised verbal BLUF on 3 work topics out loud
+- Tue: Listened to *The Knowledge Project* — one episode
+- Wed: Gave my view first in a real meeting
+- Thu: Month 1 milestone check — logged as 〜 Partial
+- Fri: Weekly check-in (this session)
+
+Skipped / missed:
+- "Given" — picked as a vocab target but did not get used in a real meeting.
+
+One real situation I applied something:
+- Adviser-complaint discovery update (carried from milestone). Led with "adviser complaints are low priority", then context and findings. BLUF held end-to-end.
+
+How it went:
+- Writing-side BLUF continues to strengthen — review-and-rewrite catches bottom-up drafts before they go out. Speaking-side BLUF works when prepared, fails when unprepared: apologetic openers still fire automatically, though now I notice them in real time or immediately after. Brevity remains the weaker metric — first drafts run long and need a shorten pass.
+
+Current focus for next week (set by Claude):
+- **Week 4 — PREP framework (Point → Reason → Example → Point).** Phase shifts from writing-focused BLUF to spontaneous spoken structure. Pre-loaded openers ("My view is…", "My recommendation is…", "Short answer —…") will get stress-tested under unprepared conditions. New scoring metrics from Week 4: **Clarity under pressure + Confidence**.
+
+Self-score this week (1–5):
+- Conclusion-first: 3 — solid in writing, weak in speech when unprepared
+- Brevity: 2 — improving, still needs review/shorten pass; not natural on first draft
+One real example that justifies your scores:
+- Strong: adviser-complaint update — BLUF held under real working conditions. Weak: in-the-moment spoken responses still open with apologetic phrasing or detail-first; first-draft writing still runs longer than needed.
+
+---
+
 #### Week of 2026-05-04 (Week 2 — Conclusion-first writing)
 
 Completed this week:
@@ -117,7 +151,7 @@ One real example that justifies your scores:
 
 | Month | Milestone target | Status | Notes |
 |---|---|---|---|
-| Month 1 (~2026-05-26) | Stopped apologetic openers. Every email starts with conclusion | — | — |
+| Month 1 (~2026-05-26) | Stopped apologetic openers. Every email starts with conclusion | 〜 Partial | Apologetic openers: still happening in speech, but self-awareness is rising — catching myself in the moment, sometimes unintentional. Conclusion-first: applied across email, team messages, and verbal — not perfect but consistent intent. Real win: adviser-complaint discovery update led with "adviser complaints are low priority", then reasons/findings. Carry-forward: apologetic openers in speech are the stubborn gap — keep drilling Week 3 verbal BLUF and Week 4+ PREP openers to crowd them out. |
 | Month 2 (~2026-06-26) | Can deliver PREP response within 20 seconds unexpectedly | — | — |
 | Month 3 (~2026-07-26) | Emails to executives consistently under 150 words | — | — |
 | Month 4 (~2026-08-26) | Using anchor phrases confidently when running meetings | — | — |
