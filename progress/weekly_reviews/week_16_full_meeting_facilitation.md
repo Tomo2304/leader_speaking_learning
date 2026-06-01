@@ -1,11 +1,11 @@
-# Week 16 — Full Meeting Facilitation
-*Phase 4: Meeting Facilitation | 2026-08-10 to 2026-08-14*
+﻿# Week 16 â€” Full Meeting Facilitation
+*Phase 4: Meeting Facilitation | 2026-08-24 to 2026-08-28*
 
 ## Key Topic
-Bringing all meeting facilitation skills together — opening, managing flow, redirecting, summarising, and closing — in one integrated practice session and then in a real meeting.
+Bringing all meeting facilitation skills together â€” opening, managing flow, redirecting, summarising, and closing â€” in one integrated practice session and then in a real meeting.
 
 ## Key Concepts Covered
-- The facilitator arc: open strong → invite structured input → manage flow → summarise → close with decision
+- The facilitator arc: open strong â†’ invite structured input â†’ manage flow â†’ summarise â†’ close with decision
 - Month 4 milestone review: confident use of anchor phrases and control of the room
 
 ---
@@ -14,7 +14,7 @@ Bringing all meeting facilitation skills together — opening, managing flow, re
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -22,7 +22,7 @@ Bringing all meeting facilitation skills together — opening, managing flow, re
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -31,7 +31,7 @@ Bringing all meeting facilitation skills together — opening, managing flow, re
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -40,7 +40,7 @@ Bringing all meeting facilitation skills together — opening, managing flow, re
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

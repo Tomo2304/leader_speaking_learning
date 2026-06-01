@@ -1,8 +1,8 @@
-# Week 6 — PREP Under Pressure
-*Phase 2: Spontaneous Speaking | 2026-06-01 to 2026-06-05*
+﻿# Week 6 â€” PREP Under Pressure
+*Phase 2: Spontaneous Speaking | 2026-06-15 to 2026-06-19*
 
 ## Key Topic
-Using PREP when genuinely unprepared — responding to unexpected questions from senior leaders without freezing or over-explaining.
+Using PREP when genuinely unprepared â€” responding to unexpected questions from senior leaders without freezing or over-explaining.
 
 ## Key Concepts Covered
 - The 3-second pause rule: always pause before responding, especially under pressure
@@ -15,7 +15,7 @@ Using PREP when genuinely unprepared — responding to unexpected questions from
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Using PREP when genuinely unprepared — responding to unexpected questions from
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Using PREP when genuinely unprepared — responding to unexpected questions from
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Using PREP when genuinely unprepared — responding to unexpected questions from
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

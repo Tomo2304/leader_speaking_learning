@@ -1,6 +1,6 @@
 # Leadership Communication — Resource Library
 
-*Last updated: 2026-05-09. Maintained and updated automatically as better or newer resources are found.*
+*Last updated: 2026-05-26. Maintained and updated automatically as better or newer resources are found.*
 *Goal: Well-rounded leadership communication style drawing from diverse leaders across gender, culture, and industry.*
 
 ---
@@ -19,6 +19,9 @@
 | **High** | *Exactly What to Say: The Magic Words for Influence and Impact* (Box of Tricks, 2017 — ISBN 978-1989025000) | Phil M. Jones | ✅ W2 (extract phrases) | Phrase weapon system, not a "read" book. Extract 2–3 phrases per week directly into your Vocabulary Bank and use them in real meetings. *Note: do not pick up the industry spin-offs (Real Estate, Sales) — original only.* |
 | **High** | *Executive Presence 2.0: Leadership in an Age of Inclusion* (HarperBusiness, **2023** — ISBN 978-0063270930) | Sylvia Ann Hewlett | ⏸ Deferred (post-plan) | Explicitly addresses non-native speakers in executive rooms. 2.0 is the updated edition — preferred over the 2014 original. High value for your AI Steering goal — read after the 26 weeks. |
 | **High** | *Supercommunicators: How to Unlock the Secret Language of Connection* (Random House, 2024 — ISBN 978-0593243919) | Charles Duhigg | ⏸ Deferred (post-plan) | Adapting communication to who's in the room — strong value for cross-functional and exec contexts. Removed from schedule due to limited reading time, not low value. |
+| **High** | *Smart Brevity: The Power of Saying More with Less* (Workman, 2022 — ISBN 978-1523516971) | Jim VandeHei, Mike Allen, Roy Schwartz | ⏸ Deferred (post-plan) | Axios house style for written brevity — emails, exec updates, written docs. Strong Minto companion for the *written* side of conclusion-first. Less relevant to spoken pressure moments. |
+| **Medium** | *The Art of Explanation: Making Your Ideas, Products, and Services Easier to Understand* (Wiley, 2012 — ISBN 978-1118374580) | Lee LeFever | ❌ Not scheduled | Translating complex/technical ideas for non-technical audiences — useful when prepping AI Steering Committee material. One-time read, not a practice manual. |
+| **Medium** | *Improv Wisdom: Don't Prepare, Just Show Up* (Bell Tower, 2005 — ISBN 978-1400081882) | Patricia Ryan Madson | ❌ Not scheduled | Improv mindset (say yes, notice more, get out of your head) — unblocks the *spontaneity* side. Light on structure; pairs with Abrahams rather than replacing him. |
 | **Medium** | *Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity* (**Fully Revised & Updated Edition, 2019** — ISBN 978-1250235374) | Kim Scott | ❌ Not scheduled | Direct, clear, kind feedback to your team. Useful for mentoring junior analysts — secondary goal vs your stated exec-comm focus. |
 | **Later** | *Dare to Lead* | Brené Brown | ❌ Not scheduled | Courage and vulnerability in leadership — tangential to your core gap. |
 | **Later** | *Emotional Intelligence 2.0* | Bradberry & Greaves | ❌ Not scheduled | Generic self-awareness content — not specific enough to your communication gap. |

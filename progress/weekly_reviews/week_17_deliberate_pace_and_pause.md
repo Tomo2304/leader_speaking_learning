@@ -1,13 +1,13 @@
-# Week 17 — Deliberate Pace and Pause
-*Phase 5: Delivery and Presence | 2026-08-17 to 2026-08-21*
+﻿# Week 17 â€” Deliberate Pace and Pause
+*Phase 5: Delivery and Presence | 2026-08-31 to 2026-09-04*
 
 ## Key Topic
-Slowing down and using deliberate pauses to signal confidence and give your words weight — the opposite of rushing through points to fill silence.
+Slowing down and using deliberate pauses to signal confidence and give your words weight â€” the opposite of rushing through points to fill silence.
 
 ## Key Concepts Covered
 - Why fast speech signals anxiety and slow speech signals authority
 - The 2-second pause after a key statement: let it land before moving on
-- Pace as a tool — not a constant, but something you control
+- Pace as a tool â€” not a constant, but something you control
 
 ---
 
@@ -15,7 +15,7 @@ Slowing down and using deliberate pauses to signal confidence and give your word
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Slowing down and using deliberate pauses to signal confidence and give your word
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Slowing down and using deliberate pauses to signal confidence and give your word
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Slowing down and using deliberate pauses to signal confidence and give your word
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

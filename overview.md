@@ -1,6 +1,6 @@
 # Leadership Effective Communication — Project Overview
 
-*Owner: Tomo | Started: 2026-04-24 | Target: 2 quarters (by ~2026-11-06)*
+*Owner: Tomo | Started: 2026-04-24 | Target: 2 quarters (by ~2026-11-13)*
 
 ---
 
@@ -61,7 +61,7 @@ To communicate confidently like capable native English-speaking leaders — usin
 | Milestone | Target Date |
 |---|---|
 | Stopped apologetic openers. Every email starts with conclusion | End of Month 1 (~2026-05-26) |
-| Can deliver a clear PREP response within 20 seconds unexpectedly | End of Month 2 (~2026-06-26) |
-| Emails to executives are no longer than 150 words consistently | End of Month 3 (~2026-07-26) |
-| Using anchor phrases confidently when running meetings | End of Month 4 (~2026-08-26) |
-| Contributing confidently and openly in AI Steering Committee | End of Month 6 (~2026-10-26) |
+| Can deliver a clear PREP response within 20 seconds unexpectedly | End of Month 2 (~2026-07-03) |
+| Emails to executives are no longer than 150 words consistently | End of Month 3 (~2026-08-02) |
+| Using anchor phrases confidently when running meetings | End of Month 4 (~2026-09-02) |
+| Contributing confidently and openly in AI Steering Committee | End of Month 6 (~2026-11-02) |

@@ -1,12 +1,12 @@
-# Week 20 — Full Delivery Integration
-*Phase 5: Delivery and Presence | 2026-09-07 to 2026-09-11*
+﻿# Week 20 â€” Full Delivery Integration
+*Phase 5: Delivery and Presence | 2026-09-21 to 2026-09-25*
 
 ## Key Topic
-Bringing pace, pause, filler reduction, and intonation together in one integrated delivery — and comparing to your Week 1 baseline recording to measure real progress.
+Bringing pace, pause, filler reduction, and intonation together in one integrated delivery â€” and comparing to your Week 1 baseline recording to measure real progress.
 
 ## Key Concepts Covered
 - Integration: all delivery elements working together, not separately
-- Progress comparison: Week 1 baseline vs Week 20 — what has changed in your voice?
+- Progress comparison: Week 1 baseline vs Week 20 â€” what has changed in your voice?
 - Delivery as a multiplier: strong content delivered with presence lands twice as hard
 
 ---
@@ -15,7 +15,7 @@ Bringing pace, pause, filler reduction, and intonation together in one integrate
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Bringing pace, pause, filler reduction, and intonation together in one integrate
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Bringing pace, pause, filler reduction, and intonation together in one integrate
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Bringing pace, pause, filler reduction, and intonation together in one integrate
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

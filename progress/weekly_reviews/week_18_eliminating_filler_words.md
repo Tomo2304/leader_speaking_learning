@@ -1,12 +1,12 @@
-# Week 18 — Eliminating Filler Words
-*Phase 5: Delivery and Presence | 2026-08-24 to 2026-08-28*
+﻿# Week 18 â€” Eliminating Filler Words
+*Phase 5: Delivery and Presence | 2026-09-07 to 2026-09-11*
 
 ## Key Topic
-Identifying and removing filler words (um, uh, like, you know, kind of, sort of) and replacing them with deliberate silence — the single biggest delivery improvement most speakers can make.
+Identifying and removing filler words (um, uh, like, you know, kind of, sort of) and replacing them with deliberate silence â€” the single biggest delivery improvement most speakers can make.
 
 ## Key Concepts Covered
-- Your personal filler word inventory — knowing exactly which ones you use
-- Silence as the replacement — not another word, just a pause
+- Your personal filler word inventory â€” knowing exactly which ones you use
+- Silence as the replacement â€” not another word, just a pause
 - Recording and counting: the only way to see what you actually do vs what you think you do
 
 ---
@@ -15,7 +15,7 @@ Identifying and removing filler words (um, uh, like, you know, kind of, sort of)
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Identifying and removing filler words (um, uh, like, you know, kind of, sort of)
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Identifying and removing filler words (um, uh, like, you know, kind of, sort of)
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Identifying and removing filler words (um, uh, like, you know, kind of, sort of)
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

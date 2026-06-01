@@ -1,8 +1,8 @@
-# Week 15 — Closing Discussions and Landing Decisions
-*Phase 4: Meeting Facilitation | 2026-08-03 to 2026-08-07*
+﻿# Week 15 â€” Closing Discussions and Landing Decisions
+*Phase 4: Meeting Facilitation | 2026-08-17 to 2026-08-21*
 
 ## Key Topic
-Taking ownership of closing discussions decisively — using language that lands a clear decision or next step rather than letting meetings trail off inconclusively.
+Taking ownership of closing discussions decisively â€” using language that lands a clear decision or next step rather than letting meetings trail off inconclusively.
 
 ## Key Concepts Covered
 - Closing phrases: "Let's land on a decision here. My recommendation is..."
@@ -15,7 +15,7 @@ Taking ownership of closing discussions decisively — using language that lands
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Taking ownership of closing discussions decisively — using language that lands
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Taking ownership of closing discussions decisively — using language that lands
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Taking ownership of closing discussions decisively — using language that lands
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

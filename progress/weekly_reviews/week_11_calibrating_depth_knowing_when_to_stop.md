@@ -1,8 +1,8 @@
-# Week 11 — Calibrating Depth: Knowing When to Stop
-*Phase 3: Executive Communication | 2026-07-06 to 2026-07-10*
+﻿# Week 11 â€” Calibrating Depth: Knowing When to Stop
+*Phase 3: Executive Communication | 2026-07-20 to 2026-07-24*
 
 ## Key Topic
-Reading the audience and knowing when you've said enough — resisting the urge to over-explain, over-qualify, or fill silence with more words.
+Reading the audience and knowing when you've said enough â€” resisting the urge to over-explain, over-qualify, or fill silence with more words.
 
 ## Key Concepts Covered
 - The "so what" test for every point: if you can't answer it, cut the point
@@ -15,7 +15,7 @@ Reading the audience and knowing when you've said enough — resisting the urge 
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Reading the audience and knowing when you've said enough — resisting the urge 
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Reading the audience and knowing when you've said enough — resisting the urge 
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Reading the audience and knowing when you've said enough — resisting the urge 
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

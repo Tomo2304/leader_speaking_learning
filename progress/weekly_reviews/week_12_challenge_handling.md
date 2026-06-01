@@ -1,8 +1,8 @@
-# Week 12 — Challenge Handling: Defend, Hold, Respond
-*Phase 3→4 Bridge | 2026-07-13 to 2026-07-17*
+﻿# Week 12 â€” Challenge Handling: Defend, Hold, Respond
+*Phase 3â†’4 Bridge | 2026-07-27 to 2026-07-31*
 
 ## Key Topic
-Holding your position confidently when challenged, interrupted, or pushed back on — staying composed and authoritative rather than deferring or over-explaining.
+Holding your position confidently when challenged, interrupted, or pushed back on â€” staying composed and authoritative rather than deferring or over-explaining.
 
 ## Key Concepts Covered
 - The difference between defending a position and being defensive
@@ -16,7 +16,7 @@ Holding your position confidently when challenged, interrupted, or pushed back o
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -24,7 +24,7 @@ Holding your position confidently when challenged, interrupted, or pushed back o
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -33,7 +33,7 @@ Holding your position confidently when challenged, interrupted, or pushed back o
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -42,7 +42,7 @@ Holding your position confidently when challenged, interrupted, or pushed back o
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

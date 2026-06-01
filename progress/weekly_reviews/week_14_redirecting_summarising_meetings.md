@@ -1,12 +1,12 @@
-# Week 14 — Redirecting and Summarising in Meetings
-*Phase 4: Meeting Facilitation | 2026-07-27 to 2026-07-31*
+﻿# Week 14 â€” Redirecting and Summarising in Meetings
+*Phase 4: Meeting Facilitation | 2026-08-10 to 2026-08-14*
 
 ## Key Topic
-Using language to manage meeting flow — redirecting when discussions go off track and summarising before moving to the next point to signal clarity and control.
+Using language to manage meeting flow â€” redirecting when discussions go off track and summarising before moving to the next point to signal clarity and control.
 
 ## Key Concepts Covered
 - Redirecting without dismissing: "I want to bring us back to the main question here..."
-- Summarising before moving on: "So what I'm hearing is... — does that capture it?"
+- Summarising before moving on: "So what I'm hearing is... â€” does that capture it?"
 - The facilitator's role: not participating in every point, but managing the flow of all points
 
 ---
@@ -15,7 +15,7 @@ Using language to manage meeting flow — redirecting when discussions go off tr
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Using language to manage meeting flow — redirecting when discussions go off tr
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Using language to manage meeting flow — redirecting when discussions go off tr
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Using language to manage meeting flow — redirecting when discussions go off tr
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

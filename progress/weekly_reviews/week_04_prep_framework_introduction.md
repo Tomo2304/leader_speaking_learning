@@ -1,5 +1,5 @@
 # Week 4 — PREP Framework Introduction
-*Phase 2: Spontaneous Speaking | 2026-05-18 to 2026-05-22*
+*Phase 2: Spontaneous Speaking | 2026-06-01 to 2026-06-05 (restarted — original 2026-05-25 attempt skipped)*
 
 ## Key Topic
 Learning the PREP framework (Point → Reason → Example → Point) as a structured tool for responding clearly when put on the spot.

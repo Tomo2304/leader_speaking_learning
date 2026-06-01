@@ -1,12 +1,12 @@
-# Week 24 — Consolidating All Habits in Real Settings
-*Phase 6: Integration | 2026-10-05 to 2026-10-09*
+﻿# Week 24 â€” Consolidating All Habits in Real Settings
+*Phase 6: Integration | 2026-10-19 to 2026-10-23*
 
 ## Key Topic
-Auditing real usage — which `vocabulary_bank.md` phrases have become natural, which are still unused, and pushing the unused ones into live conversations. The week also drills clear, decisive closes on every meeting topic you run.
+Auditing real usage â€” which `vocabulary_bank.md` phrases have become natural, which are still unused, and pushing the unused ones into live conversations. The week also drills clear, decisive closes on every meeting topic you run.
 
 ## Key Concepts Covered
 - Honest vocabulary bank audit: marking each phrase as used / tried / never used, then focusing the week on the never-used ones
-- Closing every meeting topic clearly: "So the decision is [X]. [Name] will own this by [date]." — no open-ended discussions
+- Closing every meeting topic clearly: "So the decision is [X]. [Name] will own this by [date]." â€” no open-ended discussions
 - Preparing complete openings, key points, and closings for any large-group communication this week
 - Self-rating across the 5 habits: conclusion-first, PREP, executive brevity, meeting facilitation, delivery
 - Cross-functional pressure simulation: holding a position when challenged by a non-technical executive, translating without retreating
@@ -17,7 +17,7 @@ Auditing real usage — which `vocabulary_bank.md` phrases have become natural, 
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -25,7 +25,7 @@ Auditing real usage — which `vocabulary_bank.md` phrases have become natural, 
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -34,7 +34,7 @@ Auditing real usage — which `vocabulary_bank.md` phrases have become natural, 
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -43,7 +43,7 @@ Auditing real usage — which `vocabulary_bank.md` phrases have become natural, 
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

@@ -1,8 +1,8 @@
-# Week 10 — Executive Presentations: Recommendation First
-*Phase 3: Executive Communication | 2026-06-29 to 2026-07-03*
+﻿# Week 10 â€” Executive Presentations: Recommendation First
+*Phase 3: Executive Communication | 2026-07-13 to 2026-07-17*
 
 ## Key Topic
-Restructuring presentations and reports so the recommendation or key finding appears on slide/page 1 — not buried in the middle or saved for the end.
+Restructuring presentations and reports so the recommendation or key finding appears on slide/page 1 â€” not buried in the middle or saved for the end.
 
 ## Key Concepts Covered
 - Why executives need the conclusion first in presentations, not last
@@ -15,7 +15,7 @@ Restructuring presentations and reports so the recommendation or key finding app
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Restructuring presentations and reports so the recommendation or key finding app
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Restructuring presentations and reports so the recommendation or key finding app
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Restructuring presentations and reports so the recommendation or key finding app
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

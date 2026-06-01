@@ -12,7 +12,7 @@
 |---|---|
 | Total plan days | 130 |
 | Days completed (Done or Partial) | 15 |
-| Days skipped | 5 |
+| Days skipped | 10 |
 | % complete | 11.5% |
 
 *This table is updated by Claude each time an evening check-in is logged.*
@@ -45,6 +45,11 @@
 | 2026-05-20 | 13 | ✅ | Give your view first in a real meeting today | Applied verbal BLUF in real meeting context. Notice apologetic openers still fire when unprepared but caught in real time. |
 | 2026-05-21 | 14 | ✅ | Month 1 milestone check | Honest self-assessment: apologetic openers still happening in speech but now noticed in real time; conclusion-first applied consistently across email/messages/verbal (not perfect). Win example: adviser-complaint update led with "low priority" before reasons. Apologetic openers in speech remain the stubborn gap. |
 | 2026-05-22 | 15 | ✅ | Weekly check-in with Claude (Week 3) | Conclusion-first 3/5, Brevity 2/5. Writing improving via review/rewrite; speaking still defaults to apologetic openers when unprepared. Vocab targets: "My view is" ✅, "Based on what I know I would say" ✅, "Given" ✗. Week 4 starts PREP — pre-loaded openers will get stress-tested. |
+| 2026-05-25 | 16 | ✗ | 10-second thinking compression drill | Skipped — Week 4 deferred and restarted on 2026-06-01. |
+| 2026-05-26 | 17 | ✗ | Read *Think Faster, Talk Smarter* — Ch.1–2 | Skipped — Week 4 deferred and restarted on 2026-06-01. |
+| 2026-05-27 | 18 | ✗ | Write 3 PREP responses — work topics | Skipped — Week 4 deferred and restarted on 2026-06-01. |
+| 2026-05-28 | 19 | ✗ | Review your PREP responses — tighten the Points | Skipped — Week 4 deferred and restarted on 2026-06-01. |
+| 2026-05-29 | 20 | ✗ | Weekly check-in with Claude | Skipped — Week 4 deferred and restarted on 2026-06-01. |
 
 ---
 
@@ -152,8 +157,8 @@ One real example that justifies your scores:
 | Month | Milestone target | Status | Notes |
 |---|---|---|---|
 | Month 1 (~2026-05-26) | Stopped apologetic openers. Every email starts with conclusion | 〜 Partial | Apologetic openers: still happening in speech, but self-awareness is rising — catching myself in the moment, sometimes unintentional. Conclusion-first: applied across email, team messages, and verbal — not perfect but consistent intent. Real win: adviser-complaint discovery update led with "adviser complaints are low priority", then reasons/findings. Carry-forward: apologetic openers in speech are the stubborn gap — keep drilling Week 3 verbal BLUF and Week 4+ PREP openers to crowd them out. |
-| Month 2 (~2026-06-26) | Can deliver PREP response within 20 seconds unexpectedly | — | — |
-| Month 3 (~2026-07-26) | Emails to executives consistently under 150 words | — | — |
-| Month 4 (~2026-08-26) | Using anchor phrases confidently when running meetings | — | — |
-| Month 6 (~2026-10-26) | Contributing confidently and openly in AI Steering Committee | — | — |
+| Month 2 (~2026-07-03) | Can deliver PREP response within 20 seconds unexpectedly | — | — |
+| Month 3 (~2026-08-02) | Emails to executives consistently under 150 words | — | — |
+| Month 4 (~2026-09-02) | Using anchor phrases confidently when running meetings | — | — |
+| Month 6 (~2026-11-02) | Contributing confidently and openly in AI Steering Committee | — | — |
 

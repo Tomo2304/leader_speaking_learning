@@ -1,5 +1,5 @@
 # Week 5 — PREP Spoken Out Loud
-*Phase 2: Spontaneous Speaking | 2026-05-25 to 2026-05-29*
+*Phase 2: Spontaneous Speaking | 2026-06-08 to 2026-06-12*
 
 ## Key Topic
 Taking PREP from written practice to spoken delivery — using it live in real time with a 10-second pause to structure your response before speaking.

@@ -1,8 +1,8 @@
-# Week 13 — Meeting Anchor Phrases
-*Phase 4: Meeting Facilitation | 2026-07-20 to 2026-07-24*
+﻿# Week 13 â€” Meeting Anchor Phrases
+*Phase 4: Meeting Facilitation | 2026-08-03 to 2026-08-07*
 
 ## Key Topic
-Learning and memorising the anchor phrases that give you control of a meeting — phrases that buy thinking time, redirect tangents, and signal leadership of the room.
+Learning and memorising the anchor phrases that give you control of a meeting â€” phrases that buy thinking time, redirect tangents, and signal leadership of the room.
 
 ## Key Concepts Covered
 - Anchor phrases: "Let me think about that for a second", "I want to bring us back to...", "What I'm hearing is..."
@@ -15,7 +15,7 @@ Learning and memorising the anchor phrases that give you control of a meeting �
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Learning and memorising the anchor phrases that give you control of a meeting �
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Learning and memorising the anchor phrases that give you control of a meeting �
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Learning and memorising the anchor phrases that give you control of a meeting �
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

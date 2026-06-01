@@ -1,11 +1,11 @@
-# Week 7 — PREP Refinement: Natural vs Scripted
-*Phase 2: Spontaneous Speaking | 2026-06-08 to 2026-06-12*
+﻿# Week 7 â€” PREP Refinement: Natural vs Scripted
+*Phase 2: Spontaneous Speaking | 2026-06-22 to 2026-06-26*
 
 ## Key Topic
-Refining PREP so it sounds natural and confident rather than rehearsed or mechanical — internalising the structure so it becomes your default response pattern.
+Refining PREP so it sounds natural and confident rather than rehearsed or mechanical â€” internalising the structure so it becomes your default response pattern.
 
 ## Key Concepts Covered
-- The difference between natural PREP and scripted PREP — and how to close the gap
+- The difference between natural PREP and scripted PREP â€” and how to close the gap
 - Self-review: listening to yourself and identifying where the response still sounds stiff
 - Month 2 milestone review: can you deliver PREP in under 20 seconds unexpectedly?
 
@@ -15,7 +15,7 @@ Refining PREP so it sounds natural and confident rather than rehearsed or mechan
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Refining PREP so it sounds natural and confident rather than rehearsed or mechan
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Refining PREP so it sounds natural and confident rather than rehearsed or mechan
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Refining PREP so it sounds natural and confident rather than rehearsed or mechan
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

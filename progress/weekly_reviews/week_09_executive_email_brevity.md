@@ -1,5 +1,5 @@
-# Week 9 — Executive Email Brevity
-*Phase 3: Executive Communication | 2026-06-22 to 2026-06-26*
+﻿# Week 9 â€” Executive Email Brevity
+*Phase 3: Executive Communication | 2026-07-06 to 2026-07-10*
 
 ## Key Topic
 Writing emails to senior leaders and executives that are under 120 words, recommendation-first, and structured so the reader gets what they need from the first sentence alone.
@@ -15,7 +15,7 @@ Writing emails to senior leaders and executives that are under 120 words, recomm
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Writing emails to senior leaders and executives that are under 120 words, recomm
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Writing emails to senior leaders and executives that are under 120 words, recomm
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Writing emails to senior leaders and executives that are under 120 words, recomm
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

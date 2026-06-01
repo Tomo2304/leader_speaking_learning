@@ -1,8 +1,8 @@
-# Week 19 — Downward Intonation: Statements That Sound Like Statements
-*Phase 5: Delivery and Presence | 2026-08-31 to 2026-09-04*
+﻿# Week 19 â€” Downward Intonation: Statements That Sound Like Statements
+*Phase 5: Delivery and Presence | 2026-09-14 to 2026-09-18*
 
 ## Key Topic
-Using downward intonation at the end of statements so they land with confidence — not rising intonation which makes statements sound like questions and signals uncertainty.
+Using downward intonation at the end of statements so they land with confidence â€” not rising intonation which makes statements sound like questions and signals uncertainty.
 
 ## Key Concepts Covered
 - Rising vs falling intonation: the difference between "I think we should do this?" and "I think we should do this."
@@ -15,7 +15,7 @@ Using downward intonation at the end of statements so they land with confidence 
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -23,7 +23,7 @@ Using downward intonation at the end of statements so they land with confidence 
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -32,7 +32,7 @@ Using downward intonation at the end of statements so they land with confidence 
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -41,7 +41,7 @@ Using downward intonation at the end of statements so they land with confidence 
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 

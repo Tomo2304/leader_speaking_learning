@@ -1,8 +1,8 @@
-# Week 22 — Active Contribution in Executive Settings
-*Phase 6: Integration | 2026-09-21 to 2026-09-25*
+﻿# Week 22 â€” Active Contribution in Executive Settings
+*Phase 6: Integration | 2026-10-05 to 2026-10-09*
 
 ## Key Topic
-Moving from preparation to live participation — making at least one intentional, point-first contribution in every executive meeting and noticing how it lands. The week pairs daily contribution practice with drilling the anchor phrases you've used least.
+Moving from preparation to live participation â€” making at least one intentional, point-first contribution in every executive meeting and noticing how it lands. The week pairs daily contribution practice with drilling the anchor phrases you've used least.
 
 ## Key Concepts Covered
 - Drilling the least-used anchor phrases until they feel automatic in different contexts
@@ -16,7 +16,7 @@ Moving from preparation to live participation — making at least one intentiona
 
 | # | Your original | Improved version | What changed |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -24,7 +24,7 @@ Moving from preparation to live participation — making at least one intentiona
 
 | Original | Improved | Context |
 |---|---|---|
-| — | — | — |
+| â€” | â€” | â€” |
 
 ---
 
@@ -33,7 +33,7 @@ Moving from preparation to live participation — making at least one intentiona
 
 | Date | What I said | What PREP/BLUF would have produced | Improved version |
 |---|---|---|---|
-| — | — | — | — |
+| â€” | â€” | â€” | â€” |
 
 ---
 
@@ -42,7 +42,7 @@ Moving from preparation to live participation — making at least one intentiona
 
 | Phrase | Used in a real meeting? | Notes |
 |---|---|---|
-| — | Y / N | — |
+| â€” | Y / N | â€” |
 
 ---
 
