@@ -11,9 +11,9 @@
 | Metric | Value |
 |---|---|
 | Total plan days | 130 |
-| Days completed (Done or Partial) | 15 |
+| Days completed (Done or Partial) | 21 |
 | Days skipped | 10 |
-| % complete | 11.5% |
+| % complete | 16.2% |
 
 *This table is updated by Claude each time an evening check-in is logged.*
 
@@ -50,6 +50,12 @@
 | 2026-05-27 | 18 | ✗ | Write 3 PREP responses — work topics | Skipped — Week 4 deferred and restarted on 2026-06-01. |
 | 2026-05-28 | 19 | ✗ | Review your PREP responses — tighten the Points | Skipped — Week 4 deferred and restarted on 2026-06-01. |
 | 2026-05-29 | 20 | ✗ | Weekly check-in with Claude | Skipped — Week 4 deferred and restarted on 2026-06-01. |
+| 2026-06-01 | 16 | ✅ | 10-second thinking compression drill | Week 4 restart. |
+| 2026-06-02 | 17 | ✅ | Read *Think Faster, Talk Smarter* — Ch.1–2 | — |
+| 2026-06-03 | 18 | ✅ | Write 3 PREP responses — work topics | — |
+| 2026-06-04 | 19 | ✅ | Review your PREP responses — tighten the Points | — |
+| 2026-06-05 | 20 | ✅ | Weekly check-in with Claude (Week 4) | — |
+| 2026-06-08 | 21 | ✅ | Write 3 PREP responses for this week's likely topics | Week 5 start. Two PREPs reviewed with Claude (JPD use-case review; Signal update to AET). Recurring lesson: the Point kept coming out as the *task* ("we must assess…", "we must present…") rather than the *answer* — fix is to state the one-sentence answer to the actual question. |
 
 ---
 
