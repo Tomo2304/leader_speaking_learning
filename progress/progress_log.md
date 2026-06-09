@@ -11,9 +11,9 @@
 | Metric | Value |
 |---|---|
 | Total plan days | 130 |
-| Days completed (Done or Partial) | 21 |
+| Days completed (Done or Partial) | 22 |
 | Days skipped | 10 |
-| % complete | 16.2% |
+| % complete | 16.9% |
 
 *This table is updated by Claude each time an evening check-in is logged.*
 
@@ -56,6 +56,7 @@
 | 2026-06-04 | 19 | ✅ | Review your PREP responses — tighten the Points | — |
 | 2026-06-05 | 20 | ✅ | Weekly check-in with Claude (Week 4) | — |
 | 2026-06-08 | 21 | ✅ | Write 3 PREP responses for this week's likely topics | Week 5 start. Two PREPs reviewed with Claude (JPD use-case review; Signal update to AET). Recurring lesson: the Point kept coming out as the *task* ("we must assess…", "we must present…") rather than the *answer* — fix is to state the one-sentence answer to the actual question. |
+| 2026-06-09 | 22 | ✅ | PREP out loud — 3 full reps (Q2, Q8, Q6) | 30-min session. Q2 (cut an initiative) — Point nailed it. Q8 (falling behind + catch up) — both halves covered, good signposting. Q6 (AISC success) — led with deliverables instead of the outcome. **Cardinal rule crystallised: lead with the destination, not the activity** — added to top of vocabulary_bank.md as a recurring reminder. |
 
 ---
 

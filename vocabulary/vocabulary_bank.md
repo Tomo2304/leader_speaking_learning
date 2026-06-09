@@ -4,6 +4,19 @@
 
 ---
 
+## ⭐ Cardinal Rule — Lead with the destination, not the activity
+
+> **Before you speak, ask: "Is my first sentence the *answer*, or just what I'm *doing*?"**
+>
+> Your recurring pattern (seen 2026-06-08/09) is to open with the **task / route** — *"We must present an update…", "We need to deliver two initiatives…", "We must assess…"* — instead of the **outcome / destination** the listener actually asked for.
+>
+> - ❌ Activity: *"We would need to deliver two key initiatives in the next 6 months."*
+> - ✅ Destination: *"Success looks like the AI Steering Committee prioritising use cases faster and better-informed — and I'll have delivered the two things that make that possible."*
+>
+> When a question asks for an **outcome** (success, value, impact, "what does X look like"), lead with the destination, then frame your activities as the *means* to it. The to-do list is the route — say where it's going first.
+
+---
+
 ## How to Use This Bank
 - **Browse weekly** — read through recent additions on the train
 - **Pick 3 phrases per week** to consciously use in real situations (tracked in your weekly review file)
@@ -204,4 +217,7 @@
 | 2026-06-08 | "We must assess how AI use cases have been captured in JPD." | "Our first step needs to be reviewing how AI use cases are currently captured in JPD." | Names the concrete action ("review the current use cases") instead of the abstract "assess how they've been captured." Crisper one-sentence Point for opening a recommendation. |
 | 2026-06-08 | "We need to help enterprise prioritising use cases therefore we need to familialise ourselves..." | "We can't help the enterprise prioritise them until we understand each use case." | Fixes "help prioritising" → "help prioritise" and "familialise" → "familiarise"; states the dependency as one clean Reason instead of a mid-sentence "therefore" loop. |
 | 2026-06-08 | "We must present a progress update to AET for the signal project." (answering *why* present it) | "We need to take this to AET to give them assurance the project is being run sales-led — so it actually gets used." | When asked *why* a meeting/update is needed, lead with its purpose (the assurance it gives), not the logistics ("we must present"). Answers the question instead of restating the task. |
+| 2026-06-09 | "It is not critical compared to any other initiatives." | "It's the least critical initiative on our roadmap." | When asked "which one", rank decisively (least/most) rather than comparing vaguely ("compared to any other"). A clear ranking sounds like a decision, not an opinion. |
+| 2026-06-09 | "We need more resources, established infrastructure and efficient process to get us back on timeline." | "To catch up, we need three things: more resources, established infrastructure, and a faster approval process." | For two-part questions, signpost the pivot to the second half ("To catch up, we need three things…") so the close lands as deliberate, not trailing. Numbered signposting makes a list sound structured. |
+| 2026-06-09 | "We would need to deliver two key initiatives in the next 6 months." (answering "what does success look like?") | "Success looks like [the outcome leaders care about] — and I'll have delivered the two things that make that possible." | "What does success look like?" wants the destination (the outcome), not the route (your to-do list). Lead with the outcome, then frame your deliverables as the means to it. |
 
